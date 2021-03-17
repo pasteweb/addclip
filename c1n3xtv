@@ -503,7 +503,8 @@ http://fina.dyndns.tv/Peliculas/El%20Sentido%20de%20la%20vida.mkv
 http://mint.mes.edu.cu/PROGRAMA%20DE%20FOMENTO%20DE%20LA%20CULTURA%20AUDIOVISUAL/1.%20PELICULAS%20CLASICAS%20COMPRIMIDAS/2.%20INTERNACIONALES/23%20Belleza%20Americana/American.Beauty.avi
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL SECRETO
 https://aprossec.com/wp-content/uploads/mvp-file-dir/Videos/El%20Secreto%20-%20The%20Secret%20%282006%29.mp4
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",QUIEN MATO A JESUS
+http://fina.dyndns.tv/Peliculas/Killing%20Jesus.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",BEN HUR (1959)
 http://www.hirubosi.asia/d1/d1_peliculas/ben-hur_1959.flv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",BEN HUR (2016)
@@ -1084,7 +1085,6 @@ https://people.wou.edu/~mcgladm/videos/elnorte.mp4
 #EXTINF:0,tvg-logo="http://3.bp.blogspot.com/-ddq0WzBtzMs/UxR1lFU8AoI/AAAAAAAAHpM/WrxQ8cl102k/s1600/documentales.png" group-title="VIDEOCUMENTALES",---VIDEOCUMENTALES---
 
 
-
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ALABAMA SNAKE (2020)
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Alabama%20Snake%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANELKA El incomprendido (2020)
@@ -1164,9 +1164,26 @@ https://content-na.drive.amazonaws.com/cdproxy/share/R3BMIytSccP4enRUWX8HOMKyGc0
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA FOTO DE LA NIÑA DEL NAPALM
 http://mint.mes.edu.cu/DOCUMENTALES%20EDUCATIVOS/FOTOGRAFIA/VARIOS/La%20Foto%20de%20la%20Ni%c3%b1a%20de%20Napalm.avi
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA HISTORIA DEL AUTOMOVIL
-
-
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",COMO HACER DINERO VENDIENDO DROGAS
+http://24.138.249.6/Peliculas/Documentales/How%20to%20Make%20Money%20Selling%20Drugs%20(2012).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",TIERRA DE CARTELES
+http://24.138.249.6/Peliculas/Documentales/Cartel%20Land%20(2015).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",DE SICARIO A YOUTUBER
+http://24.138.249.6/Peliculas/Documentales/De%20sicario%20a%20Youtuber%20(2018).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",FARENHEIT 11 9 (2018)
+http://24.138.249.6/Peliculas/Documentales/Fahrenheit%2011%209%20(2018).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",FARENHEIT 9 11 (2004)
+http://24.138.249.6/Peliculas/Documentales/Fahrenheit%209%2011%20(2004).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",FOOD INC
+http://24.138.249.6/Peliculas/Documentales/Food,%20Inc.%20(2008).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",CORAZON DE ORO ESCANDALO EN LA GIMNASIA AMERICANA
+http://24.138.249.6/Peliculas/Documentales/At%20the%20Heart%20of%20Gold%20-%20Inside%20the%20USA%20Gymnastics%20Scandal%20(2019).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",VIDAS QUE MARCARON LA TUYA GUSTAVO CERATI
+http://24.138.249.6/Peliculas/Documentales/Bios%20Vidas%20que%20Marcaron%20la%20Tuya%20Gustavo%20Cerati%20(2018).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",FERRARI CARRERA A LA INMORTALIDAD
+http://24.138.249.6/Peliculas/Documentales/Ferrari%20Race%20to%20Immortality%20(2017).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA HISTORIA DE PIXAR
+http://24.138.249.6/Peliculas/Documentales/The%20Pixar%20Story%20(2007).mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA REVOLUCION FRANCESA
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA GUERRA DE TROYA
@@ -1236,6 +1253,12 @@ http://190.253.92.2/principal/videos_educativos/Documentales/Inmerci%c3%b3n%20en
 http://190.253.92.2/principal/videos_educativos/Expedici%c3%b3n%20Marte%20-%20National%20Geographic/Expedici%c3%b3n%20Marte%20-%20National%20Geographic.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",VIAJE EN EL TIEMPO
 https://www.dropbox.com/s/5q41qcyvaeobsry/V4je3nT1mp0.mp4?dl=1
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA CIENCIA DE INTERESTELAR
+http://24.138.249.6/Peliculas/Documentales/The%20Science%20of%20Interstellar%20(2014).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",APOLO 11
+http://24.138.249.6/Peliculas/Documentales/Apollo%2011%20(2019).mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA BATALLA DE CHERNOBYL
+http://24.138.249.6/Peliculas/Documentales/The%20Battle%20of%20Chernobyl%20(2006).mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",CARL SAGAN BIOGRAFIA
 http://190.253.92.2/principal/videos_educativos/Documentales/Biograf%c3%ada%20%20de%20Carl%20Sagan.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ALBERT EINSTEIN BIOGRAFIA
@@ -2180,3 +2203,4 @@ https://www.dropbox.com/s/5yiku2g6qmhwf5f/KeysG4m1-08.mp4?dl=1
 https://www.dropbox.com/s/iwnqe7stjp59yyg/KeysG4m1-09.mp4?dl=1
 #EXTINF:-1,  tvg-logo="https://i.ytimg.com/vi/3z5LqozEHu4/maxresdefault.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL JUEGO DE LAS LLAVES Cap 10 FINAL
 https://www.dropbox.com/s/djqf4ruglilnp0t/KeysG4m1-10.mp4?dl=1
+
