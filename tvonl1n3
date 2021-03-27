@@ -1,5 +1,9 @@
 #EXTM3U
+
 #EXTINF:0,tvg-logo="https://pastorfergus.files.wordpress.com/2013/04/mexico-mapa.jpg" group-title="TV MEXICO",---TV MEXICO---
+
+
+
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" tvg-name="AZTECA"  group-title="TV MEXICO",AZTECA 1
 http://201.168.205.12:8000/play/a0cc/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" tvg-name="AZTECA"  group-title="TV MEXICO",AZTECA 1 Opc2
@@ -84,7 +88,13 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,  tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" tvg-name="CANAL10CANCUN"  group-title="TV MEXICO",CANAL 10 CANCUN
 http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
 
+
+
+
+
 #EXTINF:0,tvg-logo="http://www.campoabierto.tv/images/camponoticia-logo-2.png" group-title="NOTICIAS",---NOTICIAS---
+
+
 
 #EXTINF:-1,  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/ADN400.png.82a08f643cc45f8ecb4b2a4994ab8a8a.png" tvg-name="ADN40"  group-title="NOTICIAS",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
@@ -127,7 +137,30 @@ https://live1.presstv.com/live/hispan.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/998322332992061441/-5x2rRt8_200x200.jpg" tvg-name="TELESUR"  group-title="NOTICIAS",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
+
+
+
+
+#EXTINF:0,tvg-logo="https://mexico.as.com/motor/imagenes/2017/11/26/formula_1/1511713468_941587_1511713566_noticia_normal.jpg" group-title="F1 TV",---F1 TV---
+
+
+#EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-1993.jpg" tvg-name="F1 TV"  group-title="F1 TV",FORMULA 1
+http://185.207.145.71:8000/play/a01z/index.m3u8
+#EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-1993.jpg" tvg-name="F1 TV"  group-title="F1 TV",MOVISTAR FORMULA 1
+http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49775.ts
+#EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-1993.jpg" tvg-name="F1 TV"  group-title="F1 TV",STAR_ACTION
+http://181.198.252.231:8000/play/a033/index.m3u8
+#EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-1993.jpg" tvg-name="F1 TV"  group-title="F1 TV",ESPN sud 1
+http://209.91.213.10:8099/play/a02a
+#EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-1993.jpg" tvg-name="F1 TV"  group-title="F1 TV",FOX SPORTS 3
+http://209.91.213.10:8099/play/a02b
+
+
+
+
 #EXTINF:0,tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/56/64/retro-tv-logo-design-flat-icon-vector-8035664.jpg" group-title="TV RETRO",---TV RETRO---
+
+
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" tvg-name="TELERED"  group-title="TV RETRO",TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
@@ -223,7 +256,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 #EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" tvg-name="PLUTOTV"  group-title="TV RETRO",PLUTO TV CINE TERROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00bc8ba0-f68d-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
+
+
+
+
 #EXTINF:0,tvg-logo="https://eitmedia.mx/media/k2/items/cache/8d034f027c82ad7715976b4cdc357985_XL.jpg" group-title="IZZITV",---IZZITV---
+
 
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png" tvg-name="FRANCE24"  group-title="IZZITV",FRANCE24
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FRANCE24/40-hls/live-media.m3u8
@@ -416,6 +454,7 @@ http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/18429.ts
 #EXTINF:-1,  tvg-logo="https://radionotas.com/wp-content/uploads/2019/05/tudn-image.jpg" tvg-name="TUDN"  group-title="IZZITV",TUDN MX
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/47633.ts
 
+
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN3"  group-title="IZZITV",ESPN 1
 http://201.168.205.12:8000/play/a092/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ESPN2.png" tvg-name="ESPN2"  group-title="IZZITV",ESPN 2
@@ -442,7 +481,11 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS3.png" tvg-name="FOXSPORTS3"  group-title="IZZITV",FOX 3 SUD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8
 
+
+
+
 #EXTINF:0,tvg-logo="http://goodnews.church/wp-content/uploads/2018/02/Kids-Check-in-Background.jpg" group-title="TV INFANTIL",---TV INFANTIL---
+
 
 #EXTINF:-1,  tvg-logo="https://i.dlpng.com/static/png/7046265_preview.png" tvg-name="ELCHAVO"  group-title="TV INFANTIL",CSTV EL CHAVO
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
@@ -470,6 +513,7 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" tvg-name="PAKAPAKA"  group-title="TV INFANTIL",PAKA PAKA
 
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png" tvg-name="DISNEYCHANNEL"  group-title="TV INFANTIL",DISNEY CHANNEL 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png" tvg-name="DISNEYXD"  group-title="TV INFANTIL",DISNEY XD
@@ -481,7 +525,12 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJUNIOR/20-hls/live-medi
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" tvg-name="NICKJR"  group-title="TV INFANTIL",NICKJR
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8
 
+
+
+
 #EXTINF:0,tvg-logo="http://3.bp.blogspot.com/-ddq0WzBtzMs/UxR1lFU8AoI/AAAAAAAAHpM/WrxQ8cl102k/s1600/documentales.png" group-title="TV CULTURAL",---TV CULTURAL---
+
+
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/W351d439/DW.jpg" tvg-name="DW"  group-title="TV CULTURAL",DW Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
@@ -496,14 +545,14 @@ http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49862.ts
 #EXTINF:-1,  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" tvg-name="ODISEA"  group-title="TV CULTURAL",ODISEA
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49838.ts
 #EXTINF:-1,  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" tvg-name="ODISEA"  group-title="TV CULTURAL",ODISEA Opc2
-
+http://185.207.145.71:8000/play/a030/index.m3u8
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV CULTURAL",LA 2 (ESP)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" tvg-name="MEGA"  group-title="TV CULTURAL",MEGA (ESP)
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49711.ts
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV CULTURAL",CUATRO
-
-#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV CULTURAL",CUATRO
+http://185.207.145.71:8000/play/a023/index.m3u8
+#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV CULTURAL",CUATRO opc"
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/59608.ts
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/9zN1s6D.png" tvg-name="ELSUR"  group-title="TV CULTURAL",TELE SUR Madrid (ESP)
 
@@ -542,7 +591,15 @@ http://45.5.8.33:8000/play/a04v
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/MpBH9xPT/RNN.png" tvg-name="CANALRNN"  group-title="TV CULTURAL",CANAL RNN
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
+
+
+
+
+
+
 #EXTINF:0,tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2015/11/World-TV-Day.jpg" group-title="TV MUNDIAL",---TV MUNDIAL---
+
+
 
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" tvg-name="TELEMUNDO"  group-title="TV MUNDIAL",TELEMUNDO (USA)
 
@@ -565,7 +622,7 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV MUNDIAL",LA 2 (ESP)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV MUNDIAL",CUATRO (ESP)
-
+http://185.207.145.71:8000/play/a023/index.m3u8
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" tvg-name="TELECINCO"  group-title="TV MUNDIAL",TELECINCO (ESP)
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/59607.ts
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" tvg-name="NOVA"  group-title="TV MUNDIAL",NOVA (ESP)
@@ -657,7 +714,12 @@ http://167.114.116.212:1935/inkavision/myStream/playlist.m3u8
 
 #EXTINF:-1,  tvg-logo="https://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" tvg-name="UNICANAL"  group-title="TV MUNDIAL",UNICANAL (PAR)
 
+
+
+
+
 #EXTINF:0,tvg-logo="http://goodnews.church/wp-content/uploads/2018/02/Kids-Check-in-Background.jpg" group-title="SERIES 24-7",---SERIES 24-7---
+
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV LOS PINGUINOS DE MADAGASCAR
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/51770.ts
@@ -704,7 +766,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ARCHIVOS DEL FBI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=eb51c2c5-f696-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
+
+
+
+
 #EXTINF:0,tvg-logo="https://www.savoiabenincasa.gov.it/wp-content/uploads/2016/10/Sport.jpg" group-title="DEPORTES",---DEPORTES---
+
 
 #EXTINF:-1,  tvg-logo="https://s5.postimg.cc/coaiivtkn/logcdobsc.png" tvg-name="CDOPREMIUM"  group-title="DEPORTES",CDO PREMIUM
 
@@ -764,6 +831,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.
 http://45.225.93.154:8000/play/a01p
 #EXTINF:-1,  tvg-logo="https://www.pngitem.com/pimgs/m/244-2444368_fox-racing-logo-png-fox-sports-racing-logo.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX RAGCING
 
+
+
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN SUD 1
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49972.ts
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN SUD 2
@@ -773,6 +842,11 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/20-hls/live-media.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN Extra SUD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8
 
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 1
+http://185.207.145.71:8000/play/a03q/index.m3u8
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 2
+http://185.207.145.71:8000/play/a03r/index.m3u8
+
 #EXTINF:-1,  tvg-logo="https://www.peculiarmanagement.net/wp-content/uploads/logo-movistar-grande.jpg" tvg-name="MOVISTAR"  group-title="DEPORTES",MOVISTAR FORMULA 1
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49775.ts
 #EXTINF:-1,  tvg-logo="https://www.peculiarmanagement.net/wp-content/uploads/logo-movistar-grande.jpg" tvg-name="MOVISTAR"  group-title="DEPORTES",MOVISTAR LA LIGA
@@ -781,6 +855,11 @@ http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/49763.ts
 http://45.225.93.154:8000/play/a029
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" tvg-name="GOLTV"  group-title="DEPORTES",GOL TV2
 http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/56374.ts
+
+#EXTINF:-1,  tvg-logo="https://www.unionrayo.es/wp-content/uploads/2018/07/logo-laliga_280.jpg" tvg-name="LALIGA"  group-title="DEPORTES",LA LIGA 1
+http://185.207.145.71:8000/play/a033/index.m3u8
+#EXTINF:-1,  tvg-logo="https://www.unionrayo.es/wp-content/uploads/2018/07/logo-laliga_280.jpg" tvg-name="LALIGA"  group-title="DEPORTES",LA LIGA 2
+http://185.207.145.71:8000/play/a01m/index.m3u8
 #EXTINF:-1,  tvg-logo="https://www.areacucuta.com/wp-content/uploads/2015/11/directv.jpg" tvg-name="DIRECTTV"  group-title="DEPORTES",DIRECT TV SPORTS
 
 #EXTINF:-1,  tvg-logo="https://www.areacucuta.com/wp-content/uploads/2015/11/directv.jpg" tvg-name="DIRECTTV"  group-title="DEPORTES",DIRECT TV SPORTS 2
@@ -794,7 +873,15 @@ http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/56374.ts
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" tvg-name="GARAGETV"  group-title="DEPORTES",GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
+
+
+
+
+
+
 #EXTINF:0,tvg-logo="https://img.freepik.com/vector-gratis/poster-abstracto-grunge-musica-directo_1017-9864.jpg?size=338&ext=jpg" group-title="LIVE MUSIC",---LIVE MUSIC---
+
+
 
 #EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",LOS TIGRES DEL NORTE EN FOLSOM PRISON
 http://5.9.94.182/master/Peliculas1/Los%20Tigres%20Del%20Norte%20En%20La%20Prisi%c3%b3n%20de%20Folsom%20(2019).mkv
@@ -805,7 +892,16 @@ https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Pan
 #EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",EURODANCE VIDEOMIX
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 
+
+
+
+
+
+
 #EXTINF:0,tvg-logo="" group-title="MUSICAL",---MUSICAL---
+
+
+
 
 #EXTINF:-1,  tvg-logo="https://tvnewsoficial.files.wordpress.com/2013/12/hiper-tv-tvn.jpg" tvg-name="HIPERTV"  group-title="MUSICAL",HIPER TV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8
@@ -829,3 +925,4 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/c1gN9s5w/top-music.png" tvg-name="MUSICTOP"  group-title="MUSICAL",MUSIC TOP
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
