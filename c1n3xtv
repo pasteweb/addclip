@@ -69,10 +69,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d6a8fcd8-f689-11ea-b314-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" tvg-name="PLUTOTV"  group-title="TV CINEMA",PLUTO TV CINE TERROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00bc8ba0-f68d-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" tvg-name="PLUTOTV"  group-title="TV CINEMA",PLUTO TV CINE LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png" tvg-name="AMERICATV"  group-title="TV CINEMA",AMERICA TVChile
 
 #EXTINF:-1,  tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_borealTV.png.670436e2072d13a97442d954c3c8a45e.png" tvg-name="BOREALTV"  group-title="TV CINEMA",BOREAL TV
-https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
+
 #EXTINF:-1,  tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb_fb.jpg" tvg-name="CINEEXTREMA"  group-title="TV CINEMA",CINE EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://musavision.com/wp-content/uploads/2020/04/MUSAVISION-LG-WEB.png" tvg-name="MUSAVISION"  group-title="TV CINEMA",MUSAVISION
@@ -109,58 +111,61 @@ http://187.188.147.165:8000/play/a026/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARFAMILY"  group-title="Cine PREMIUM",STAR FAMILY 2
 http://187.189.119.135:8000/play/a03q/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARACTION"  group-title="Cine PREMIUM",STAR ACTION
-http://201.168.205.12:8000/play/a098/index.m3u8
+http://181.198.252.231:8000/play/a033/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARACTION"  group-title="Cine PREMIUM",STAR ACTION 2
 http://187.189.119.135:8000/play/a021/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCINEMA"  group-title="Cine PREMIUM",STAR CINEMA
-http://201.168.205.12:8000/play/a099/index.m3u8
+http://200.54.19.131:8500/play/a0e8/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCINEMA"  group-title="Cine PREMIUM",STAR CINEMA 2
 http://187.189.119.135:8000/play/a022/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARSERIES"  group-title="Cine PREMIUM",STAR SERIES
-http://201.168.205.12:8000/play/a0c6/index.m3u8
+http://181.198.252.231:8000/play/a04y/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARSERIES"  group-title="Cine PREMIUM",STAR SERIES 2
 http://187.189.119.135:8000/play/a01h/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCLASSICS"  group-title="Cine PREMIUM",STAR CLASSICS
-http://201.168.205.12:8000/play/a0do/index.m3u8
+http://181.198.252.231:8000/play/a035/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCLASSICS"  group-title="Cine PREMIUM",STAR CLASSICS 2
 http://187.189.119.135:8000/play/a03r/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCOMEDY"  group-title="Cine PREMIUM",STAR COMEDY
 http://200.54.19.131:8500/play/a0e9/index.m3u8
+#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCOMEDY"  group-title="Cine PREMIUM",STAR COMEDY 2
+http://200.54.19.131:8500/play/a0e9/index.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO 
-http://201.168.205.12:8000/play/a0c5/index.m3u8
+http://200.54.19.131:8500/play/a0e5/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO west
 http://187.189.119.135:8000/play/a02i/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO 2
-http://201.168.205.12:8000/play/a0ct/index.m3u8
+http://200.54.19.131:8500/play/a0e6/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO 2 west
 http://187.189.119.135:8000/play/a00m/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Family
-http://201.168.205.12:8000/play/a0cu/index.m3u8
+http://200.54.19.131:8500/play/a0ky/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Plus
-http://201.168.205.12:8000/play/a0cv/index.m3u8
+http://200.54.19.131:8500/play/a0l0/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Xtreme
 http://45.225.93.154:8000/play/a03h
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Pop
-
+http://200.54.19.131:8500/play/a0l3/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Signature
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/22987.ts
+http://200.54.19.131:8500/play/a0l1/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Mundi
 http://200.54.19.131:8500/play/a0k4/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN
-
+http://200.54.19.131:8500/play/a0hd/index.m3u8
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN EDGE
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/32637.ts
+http://200.54.19.131:8500/play/a0di/index.m3u8
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN PLUS
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/16548.ts
+
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN PREMIER
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/16533.ts
+
 
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="Cine PREMIUM",TNT
 http://45.225.93.154:8000/play/a02z
 #EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" tvg-name="TCM"  group-title="Cine PREMIUM",TCM
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/16527.ts
+http://200.54.19.131:8500/play/a0he/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/ydyK4zHb/sp4c3chnl.png" tvg-name="SPACE"  group-title="Cine PREMIUM",SPACE
 http://45.225.93.154:8000/play/a03a
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FXM.png" tvg-name="FXM"  group-title="Cine PREMIUM",FXM
@@ -178,7 +183,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINEPREMIUM/20-hls/live-media
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" tvg-name="SYFY"  group-title="Cine PREMIUM",SYFY
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" tvg-name="SYFY"  group-title="Cine PREMIUM",SYFY Latam
-http://45.231.168.6:9981/stream/channelid/1281069916?ticket=6458F8EC0C1EF11A65F54E00813915EFC83CFC37&profile=pass
+http://200.54.19.131:8500/play/a0ie/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" tvg-name="FX"  group-title="Cine PREMIUM",FX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" tvg-name="AMC"  group-title="Cine PREMIUM",AMC
@@ -192,15 +197,25 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CINECANAL/40-hls/live-media.m
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" tvg-name="CINECANAL"  group-title="Cine PREMIUM",CINECANAL Oeste
 http://187.189.119.135:8000/play/a00i/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" tvg-name="CINEMAX"  group-title="Cine PREMIUM",CINEMAX 
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINEMAX/40-hls/live-media.m3u8
-
-
+http://200.73.117.225:8000/play/a0bn
+#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" tvg-name="CINEMAX"  group-title="Cine PREMIUM",CINEMAX Opc2
+http://187.189.119.135:8000/play/a01x/index.m3u8
 
 
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINECLUB",---CINECLUB---
 
-
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CONFINADOS (2021)
+http://multicuentastv.com:8000/movie/MiguelPaguay01/1IJYWVD/134818.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA LIGA DE LA JUSTICIA 2 (2020)
+http://vod.tuxchannel.tv/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",VICTIMA DEL PODER (2020)
+http://vod.tuxchannel.tv/peliculas/720/most%20wanted%202020.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",GENERACION Y (2020)
+http://vod.tuxchannel.tv/peliculas/720/echo%20boomers%202020.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA ASISTENTE (2019)
+http://tv.nousiptv.com:8080/movie/david/david1234/1068041.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",FUGA DE PRETORIA (2020)
+http://player.flumx.mx:80/Moviesmp4/Fuga+de+Pretoria+-+Escape+From+Pretoria+(2020).mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EVANGELION (2021)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Evangelion%2030%2B10%20%282021%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",HEROES HUMILDES (2018)
@@ -524,10 +539,10 @@ http://bit.ly/MRAQCASTI
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CIUDAD DE ANGELES
 https://lh3.googleusercontent.com/MweLhRyKTuAKLL6tBSUki2vJK07lhs893cVUl3QOoUnupyqSVs5E6j_s5oO5ki68KguDrT9FK08QBRpTBsDwWJaBGZBz0m2zixDTcnxaJZLjJBCWcGXJShHA_WhLcv-9yb1Ke7MC2Q=m22
 
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA MUJER MARAVILLA
-https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214505&authkey=AHVdC6O2hEfJ0mU
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA MUJER MARAVILLA 1984
 https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214504&authkey=AHFmRO0dD-1Y9AQ
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA MUJER MARAVILLA
+https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214505&authkey=AHVdC6O2hEfJ0mU
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LOS 4 FANTASTICOS
 http://fina.dyndns.tv/Peliculas/4%20Fantasticos.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",AVENGERS ENDGAME
@@ -570,6 +585,8 @@ http://bit.ly/2w5zZIw
 http://cecegeek@goo.gl/FDyHpL
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",TREN A BUSAN
 http://cecegeek@goo.gl/Wp2NpT
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",APOCALYPTO
+http://tux-vod.dynu.com/peliculas/720/apocalypto.mkv
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL GRADUADO (1967)
 http://mint.mes.edu.cu/PROGRAMA%20DE%20FOMENTO%20DE%20LA%20CULTURA%20AUDIOVISUAL/1.%20PELICULAS%20CLASICAS%20COMPRIMIDAS/2.%20INTERNACIONALES/73%20El%20graduado/El%20graduado.avi
@@ -654,6 +671,12 @@ https://ia802905.us.archive.org/17/items/noches-sin-lunas-ni-soles-1984/Noches%2
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINE FAMILIAR",---CINE FAMILIAR---
 
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",UN MUNDO AL REVES
+http://vod.tuxchannel.tv/peliculas/720/bia%20un%20mundo%20al%20reves%202021.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOM Y JERRY LA PELICULA
+http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",RAYA Y EL ULTIMO DRAGON
+http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA VIDA SECRETA DE TUS MASCOTAS
 http://goo.gl/0uCpJT
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA VIDA SECRETA DE TUS MASCOTAS 2
@@ -708,7 +731,8 @@ http://193.34.144.178/Bryan/pelisdisney/toy%20story.mp4
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%202.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 3
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%203.mp4
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 4
+http://tux-vod.dynu.com/peliculas/720/toy%20story%204%202019.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MONSTERS INC
 http://5.9.94.182/master/Peliculas1/Monsters,%20Inc.%20(2001).mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MONSTERS UNIVERSITY
@@ -878,8 +902,8 @@ http://193.34.144.178/Bryan/Peliculas/Ver%20Rock%20my%20Heart%20Online%20Castell
 
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="SCARY MOVIES",---SCARY MOVIES---
 
-
-
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",LA ULTIMA FASE
+http://tv.nousiptv.com:8080/movie/david/david1234/1067778.mkv
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",THE CURRENTE OCUPANT
 https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",LOS GRITOS DEL DEMONIO
