@@ -107,7 +107,7 @@ http://200.54.19.131:8500/play/a0ig/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARMOVIES"  group-title="Cine PREMIUM",STAR MOVIES 2
 http://187.189.119.135:8000/play/a020/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARFAMILY"  group-title="Cine PREMIUM",STAR FAMILY
-http://187.188.147.165:8000/play/a026/index.m3u8
+http://zutv.online:2086/live/LMz68t8wpM/CuH5DV6xZm/300.ts
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARFAMILY"  group-title="Cine PREMIUM",STAR FAMILY 2
 http://187.189.119.135:8000/play/a03q/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARACTION"  group-title="Cine PREMIUM",STAR ACTION
@@ -203,6 +203,7 @@ http://187.189.119.135:8000/play/a01x/index.m3u8
 
 
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINECLUB",---CINECLUB---
+
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CONFINADOS (2021)
 http://multicuentastv.com:8000/movie/MiguelPaguay01/1IJYWVD/134818.mp4
@@ -374,6 +375,8 @@ http://cecegeek@goo.gl/fdhMNg
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",SAYAKO VS KAYAKO
 http://cecegeek@goo.gl/iU1U32
 
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",BLACK HOLE EXTINCION
+http://flumx.mx:80/Moviesmp4/the-black-hole.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",GHOST OF MARS
 http://fina.dyndns.tv/Peliculas/Ghosts%20Of%20Mars%202001.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",MARTE
@@ -384,8 +387,6 @@ http://5.9.94.182/master/peliculas/Life%20Vida%20Inteligente%20(2017).mp4
 http://www.hirubosi.asia/d1/d1_peliculas/2010_odisea_dos_1984.flv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",TERMINUS
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",PROMETEUS
-https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",THE CLOVERFIELD PARADOX
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA TIERRA vs LOS PLATILLOS VOLADORES(1956)
@@ -400,16 +401,31 @@ https://www.dropbox.com/s/lnjdb05etspokvt/OP-UF0-2018.mp4?dl=1
 http://fina.dyndns.tv/Peliculas/Elysium.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EXPLOSION SOLAR
 http://fina.dyndns.tv/Peliculas/Explosion%20Solar.mkv
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",ALIEN EL REGRESO (1986)
+https://archive.org/download/desaparecido-en-combate-1984_202101/ALIENS%20EL%20REGRESO%201986.MP4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",ALIEN RESURRECCION (1997)
+https://archive.org/download/desaparecido-en-combate-1984_202101/Alien%20Resurreccio%CC%81n%20%281997%29.mp4
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",PROMETEUS ALIEN
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",A I RISING
 http://193.34.144.178/Bryan/Peliculas/Ver%20Ederlezi%20Rising%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",GOODZILLA REY DE LOS MOUNSTROS
 http://193.34.144.178/Bryan/Peliculas/Ver%20Godzilla%20II-%20Rey%20de%20los%20monstruos%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",INVASION
+https://archive.org/download/desaparecido-en-combate-1984_202101/Starship%20Troopers%20%28Las%20brigadas%20del%20espacio%29%20%281997%29.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",DIA DE LA INDEPENDENCIA
+https://archive.org/download/desaparecido-en-combate-1984_202101/Independence%20Day%20%281996%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",DIA DE LA INDEPENDENCIA
 http://fina.dyndns.tv/Peliculas/Independence%20Day.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",BATALLA NAVAL
 https://archive.org/download/train-to-busan-2-peninsula/Battleship%20%282012%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",OBLIVION
 http://fina.dyndns.tv/Peliculas/Oblivion.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",ATRACCTION FIN DE LA HUMANIDAD
+https://archive.org/download/the-immortal-wars-resurgence-2019/Attraction%20%282017%29-1.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",FINAL FANTASY XV
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Final%20Fantasy%20XV%20La%20peli%CC%81cula%20%282016%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",GHOST IN THE SHELL The Rising
@@ -474,6 +490,8 @@ https://ia801300.us.archive.org/31/items/peliculas_201507/tarzanlucero.mp4?cnt=0
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA ESPADA DEL INMORTAL
 http://185.198.184.23:8088/pelis/Agosto2019/La%20espada%20del%20inmortal%20%5b1080p%5d%5bEspa%c3%b1ol%5d.mp4
 
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",TRIPLE FRONTERA
+http://tv.iptv5latino.cl:8000/movie/JohanNavarroGamboa/59strtvQBr/60367.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CUARTO DE GUERRA
 http://jaqconsultor.com/peliculas/CUARTO%20DE%20GUERRA(El%20Poder%20de%20la%20Orac.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",GREYHOUND enemigos bajo el mar (2020)
@@ -482,7 +500,8 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031221
 http://193.34.144.178/Bryan/Peliculas/Ver%20T-34%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",HOTEL MUMBAI el atentado
 http://193.34.144.178/Bryan/Peliculas/Ver%20Hotel%20Mumbai%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",STALINGRADO
+https://archive.org/download/train-to-busan-2-peninsula/STALINGRADO.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL ASEDIO JADOTVILLE
 https://content-na.drive.amazonaws.com/cdproxy/share/nZuuYWBizVdGATuzWJtM0PwtQVd6A7RE0ONqQu4WKf9/nodes/5xNOR1vKSUWYG74PSFwD9g?nonce=wYgZ31pY74GVYQYN7bZPsc4DSCj54BmKTVUSrwuZDzykz0E24RUQa7sEVP0KshvF
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",MISION SUBMARINO
@@ -491,6 +510,8 @@ https://content-na.drive.amazonaws.com/cdproxy/share/tklXpBUeJK6eV78Z63HyXw6CSxX
 https://content-na.drive.amazonaws.com/cdproxy/share/jVS86E9cwSVuuzw0QIULQ5GY4OoOydLnmdnGqJhFHTH/nodes/ro2ZNsCHStyvARPBWY9clg?nonce=GLGxfyax2Aq0gbtqbLKm_8C2mXXuLQNq3RITrfODC4Dl_v5QlYFaJyvGEWFgWpE4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LOS GRITOS DEL SILENCIO
 https://dl.dropboxusercontent.com/s/w7y4gwxp6csxupl/Los%20Gritos%20del%20Silencio%20%281984%29%20Gratis%20Online%20HD%20-%20PelisGrati.mp4?dl=0
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",SALVANDO AL SOLDADO RYAN
+https://archive.org/download/desaparecido-en-combate-1984_202101/Salvar%20al%20soldado%20Ryan%20%281998%29.mp4
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",MESSI
 http://5.9.94.182/master/Peliculas1/Messi%20(2014).mkv
@@ -518,6 +539,8 @@ http://fina.dyndns.tv/Peliculas/El%20Sentido%20de%20la%20vida.mkv
 http://mint.mes.edu.cu/PROGRAMA%20DE%20FOMENTO%20DE%20LA%20CULTURA%20AUDIOVISUAL/1.%20PELICULAS%20CLASICAS%20COMPRIMIDAS/2.%20INTERNACIONALES/23%20Belleza%20Americana/American.Beauty.avi
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL SECRETO
 https://aprossec.com/wp-content/uploads/mvp-file-dir/Videos/El%20Secreto%20-%20The%20Secret%20%282006%29.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL SECRETO
+http://vod.tuxchannel.tv/peliculas/720/the%20secret%20dare%20to%20dream%202020.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",QUIEN MATO A JESUS
 http://fina.dyndns.tv/Peliculas/Killing%20Jesus.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",BEN HUR (1959)
@@ -538,13 +561,18 @@ https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mk
 http://bit.ly/MRAQCASTI
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CIUDAD DE ANGELES
 https://lh3.googleusercontent.com/MweLhRyKTuAKLL6tBSUki2vJK07lhs893cVUl3QOoUnupyqSVs5E6j_s5oO5ki68KguDrT9FK08QBRpTBsDwWJaBGZBz0m2zixDTcnxaJZLjJBCWcGXJShHA_WhLcv-9yb1Ke7MC2Q=m22
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL JUEZ DREDD
+https://archive.org/download/desaparecido-en-combate-1984_202101/Juez%20Dredd%20%281995%29.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",SPAWN
+https://archive.org/download/desaparecido-en-combate-1984_202101/Spawn%20%281997%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA MUJER MARAVILLA 1984
 https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214504&authkey=AHFmRO0dD-1Y9AQ
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA MUJER MARAVILLA
 https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214505&authkey=AHVdC6O2hEfJ0mU
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LOS 4 FANTASTICOS
 http://fina.dyndns.tv/Peliculas/4%20Fantasticos.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",AVENGERS INFINITY WAR
+https://archive.org/download/wonder-woman-1984-2020_202012/Vengadores%20Infinity%20War%20%282018%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",AVENGERS ENDGAME
 http://193.34.144.178/Bryan/Peliculas/end%20game.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",SHAZAM
@@ -677,6 +705,16 @@ http://vod.tuxchannel.tv/peliculas/720/bia%20un%20mundo%20al%20reves%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",RAYA Y EL ULTIMO DRAGON
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SOUL
+https://archive.org/download/Amadrinadas/SOULD.mp4
+
+
+LOS CROODS 2
+https://archive.org/download/Amadrinadas/Los%20Croods%20Una%20nueva%20era%20%282020%29.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MAMA AL VOLANTE
+http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BOB ESPONJA AL RESCATE
+http://vod.tuxchannel.tv/peliculas/720/the%20spongebob%20movie%20sponge%20on%20the%20run%202020.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA VIDA SECRETA DE TUS MASCOTAS
 http://goo.gl/0uCpJT
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA VIDA SECRETA DE TUS MASCOTAS 2
@@ -691,7 +729,8 @@ https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SAHARA (2017)
 http://bit.ly/SAHARAMOVIE
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MULAN
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MR PEABODY Y SHERMAN
 http://5.9.94.182/master/Peliculas1/Mr%20Peabody%20and%20Sherman%20(2014).mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",FANTASIA
@@ -727,12 +766,17 @@ http://5.9.94.182/master/Peliculas1/Puss%20in%20Boots%20(2011).mkv
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 1
 http://193.34.144.178/Bryan/pelisdisney/toy%20story.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 1
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%201%20%281995%29.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 2
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%202.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 2
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%281999%29.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 3
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%203.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 4
 http://tux-vod.dynu.com/peliculas/720/toy%20story%204%202019.mkv
+
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MONSTERS INC
 http://5.9.94.182/master/Peliculas1/Monsters,%20Inc.%20(2001).mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MONSTERS UNIVERSITY
@@ -764,6 +808,8 @@ https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/An
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ET EL EXTRATERRESTRE
+http://tux-vod.dynu.com/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS PEQUEÑOS TRAVIESOS
 http://5.9.94.182/master/Peliculas1/Los%20Peque%c3%b1os%20Traviesos%20(1994).mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",GUARDIANES DE LA GALAXIA
@@ -902,6 +948,10 @@ http://193.34.144.178/Bryan/Peliculas/Ver%20Rock%20my%20Heart%20Online%20Castell
 
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="SCARY MOVIES",---SCARY MOVIES---
 
+
+
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",ANTEBELLUM LA ELEGIDA
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Antebellum%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",LA ULTIMA FASE
 http://tv.nousiptv.com:8080/movie/david/david1234/1067778.mkv
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",THE CURRENTE OCUPANT
@@ -1032,6 +1082,8 @@ http://5.9.94.182/master/peliculas/El%20juego%20del%20miedo%20V%20(2008).mp4
 http://5.9.94.182/master/peliculas/El%20juego%20del%20miedo%20VI%20(2009).mp4
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",JIGSAW 7
 http://5.9.94.182/master/peliculas/El%20juego%20del%20miedo%20VII%20%20El%20cap%c3%adtulo%20final%20(2010).mp4
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",JIGSAW 7
+https://archive.org/download/wonder-woman-1984-2020_202012/Saw%20VII%20%282010%29.mp4
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",JIGSAW VIII 
 http://5.9.94.182/master/peliculas/Jigsaw%20El%20juego%20contin%c3%baa%20(2017).mp4
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",JIGSAW VIII SUBTITULADO
