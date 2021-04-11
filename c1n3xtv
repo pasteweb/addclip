@@ -205,6 +205,13 @@ http://187.189.119.135:8000/play/a01x/index.m3u8
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINECLUB",---CINECLUB---
 
 
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA FUERZA DE LA NATURALEZA
+http://5.9.25.80/pelisbeto/Force.of.Nature.2020.DUAL.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CAOS EL INICIO
+http://5.9.25.80/pelisbeto/Chaos.Walking.2021.SUB.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",DURO DE MATAR 2020
+http://5.9.25.80/pelisbeto/Hard_Kill_2020_dual.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CONFINADOS (2021)
 http://multicuentastv.com:8000/movie/MiguelPaguay01/1IJYWVD/134818.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",LA LIGA DE LA JUSTICIA 2 (2020)
@@ -305,7 +312,8 @@ https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C
 https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214501&authkey=AGWYdX8goEOoKC8
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",CIUDAD VIRTUAL
 https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214461&authkey=AM-6D1jRbqLNlvM
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",A LA DERIVA
+https://archive.org/download/dheriveichon_202005/Jugoz/dheriveichon.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",RAPIDO Y FURIOSO 1
 https://onedrive.live.com/download.aspx?cid=D5072BBB4F142590&resid=D5072BBB4F142590%214103&authkey=AA13iWl1G4bZknY
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",RAPIDO Y FURIOSO 2
@@ -537,6 +545,14 @@ http://193.34.144.178/Bryan/Peliculas/Ver%20N%c3%a1ufrago%20(2000)%20Online%20La
 http://fina.dyndns.tv/Peliculas/El%20Sentido%20de%20la%20vida.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",BELLEZA AMERICANA
 http://mint.mes.edu.cu/PROGRAMA%20DE%20FOMENTO%20DE%20LA%20CULTURA%20AUDIOVISUAL/1.%20PELICULAS%20CLASICAS%20COMPRIMIDAS/2.%20INTERNACIONALES/23%20Belleza%20Americana/American.Beauty.avi
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",PULP FICTION
+http://fina.dyndns.tv/Peliculas/Pulp%20Fiction%201994.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL CURIOSO CASO DE BENJAMIN BUTTON
+https://archive.org/download/salvefaante/BOTON/so-curio.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",DIARIO DE UNA PASION
+https://archive.org/download/3spe3c1as/r3c3t4r1o/d14r10/d14r10.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL SECRETO ATREVETE A SOÑAR
+https://archive.org/download/tutoriales_linux/El%20secreto%20Atr%C3%A9vete%20a%20so%C3%B1ar%20%282020%29.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL SECRETO
 https://aprossec.com/wp-content/uploads/mvp-file-dir/Videos/El%20Secreto%20-%20The%20Secret%20%282006%29.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="PELICULA"  group-title="CINECLUB",EL SECRETO
@@ -699,6 +715,11 @@ https://ia802905.us.archive.org/17/items/noches-sin-lunas-ni-soles-1984/Noches%2
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINE FAMILIAR",---CINE FAMILIAR---
 
 
+
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PINOCCHIO
+https://archive.org/download/interstellar-2014/Pinocchio%20%282019%29.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MAS ALLA DE LA LUNA
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback18.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",UN MUNDO AL REVES
 http://vod.tuxchannel.tv/peliculas/720/bia%20un%20mundo%20al%20reves%202021.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOM Y JERRY LA PELICULA
@@ -707,9 +728,15 @@ http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SOUL
 https://archive.org/download/Amadrinadas/SOULD.mp4
-
-
-LOS CROODS 2
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MULAN
+https://dl.dropbox.com/s/6d4wa59jdkdt65t/mulan.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MULAN
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS CROODS 1
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback31.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS CROODS 2
+https://archive.org/download/videoplayback63_202012/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback63.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS CROODS 2
 https://archive.org/download/Amadrinadas/Los%20Croods%20Una%20nueva%20era%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MAMA AL VOLANTE
 http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
@@ -729,18 +756,33 @@ https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SAHARA (2017)
 http://bit.ly/SAHARAMOVIE
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MULAN
-http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MR PEABODY Y SHERMAN
 http://5.9.94.182/master/Peliculas1/Mr%20Peabody%20and%20Sherman%20(2014).mp4
+
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",FANTASIA
 http://190.253.92.2/principal/videos_educativos/peliculas/Fantas%c3%ada.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PINOCHO
+https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PETER PAN
+https://ia601408.us.archive.org/15/items/123a_20191206/576vg.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA BELLA DURMIENTE
 http://bit.ly/LABELLAMOVIE
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BLANCA NIEVES
 http://www.hirubosi.asia/d1/d1_peliculas/blancanieves_y_los_7_enanitos1937.flv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",DUMBO
 http://193.34.144.178/Bryan/Peliculas/Ver%20Dumbo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.MP4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA DAMA Y EL VAGABUNDO
+http://archive.org/download/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/19.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ALICIA EN EL PAIS DE LAS MARAVILLAS
+http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/2.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ALICIA EN EL PAIS DE LAS MARAVILLAS
+https://archive.org/download/AEEPDLM/AEEPDLM.avi
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BAMBI
+https://dl.dropbox.com/s/n92hylc3noak6yy/bambi.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL GIGANTE DE HIERRO
+https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL LIRO DE LA SELVA
+https://dl.dropbox.com/s/dsnysowyfvx64yw/El%20Libro%20De%20La%20Selva.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LILO Y STITCH
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Lilo%20y%20Stitch%201%20Online%20Gratis.MP4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",INTENSAMENTE
@@ -749,21 +791,36 @@ https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 https://ia801008.us.archive.org/22/items/jepegamez_gmail_Coco/Coco.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BICHOS
 https://ia902503.us.archive.org/7/items/Bichos_20140512/Bichos.mp4
-
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",CARS 1
 http://193.34.144.178/Bryan/pelisdisney/cars%201.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",CARS 2
 http://193.34.144.178/Bryan/pelisdisney/cars%202.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",CARS 3
 http://193.34.144.178/Bryan/pelisdisney/cars3.mp4
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS INCREIBLES
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS INCREIBLES
 http://193.34.144.178/Bryan/pelisdisney/increibles%201.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOS INCREIBLES 2
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",6 GRANDES HEROES
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Big%20Hero%206%20_%20Grandes%20h%c3%a9roes%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL GATO CON BOTAS
 http://5.9.94.182/master/Peliculas1/Puss%20in%20Boots%20(2011).mkv
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SHREK 1
+http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jsiuwuwu.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SHREK 2
+http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jdjdkdkke.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SHREK 3
+http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jdjdjje.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SHREK 4
+http://ia801408.us.archive.org/25/items/00000_20200528_2157/004.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MI VILLANO FAVORITO 1
+http://ia601507.us.archive.org/1/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00001.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MI VILLANO FAVORITO 2
+http://ia601507.us.archive.org/1/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00002.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MI VILLANO FAVORITO 3
+http://ia601507.us.archive.org/1/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00003.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 1
 http://193.34.144.178/Bryan/pelisdisney/toy%20story.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 1
@@ -776,12 +833,18 @@ https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%28199
 http://193.34.144.178/Bryan/pelisdisney/toy%20story%203.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY 4
 http://tux-vod.dynu.com/peliculas/720/toy%20story%204%202019.mkv
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",TOY STORY TIEMPO PERDIDO
+https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MONSTERS INC
 http://5.9.94.182/master/Peliculas1/Monsters,%20Inc.%20(2001).mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MONSTERS UNIVERSITY
 http://5.9.94.182/master/Peliculas1/Monsters%20University%20(2013).mkv
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",KUNG FU PANDA 1
+http://archive.org/download/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/5.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",KUNG FU PANDA 2
+http://archive.org/download/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/6.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",KUNG FU PANDA 3
+http://archive.org/download/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/24.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",KUNG FU PANDA 3
 http://5.9.94.182/master/Peliculas1/Kung%20Fu%20Panda%203.%202016.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",KUNG FU PANDA HOLIDAY
@@ -792,21 +855,30 @@ http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%201.mkv
 http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%202%20.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",HOTEL TRANSYLVANIA 3
 http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%203.mkv
-
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BUSCANDO A NEMO
 http://193.34.144.178/Bryan/pelisdisney/buscando%20a%20nemo.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BUSCANDO A DORY
 http://193.34.144.178/Bryan/pelisdisney/dory.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS
+https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4?Pelixmax1.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS 1
+http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/3.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS 2
+http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/4.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",WALL E
 https://archive.org/download/alvasaa_20171111/alvasaa.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",FIESTA DE SALCHICHAS
 http://cecegeek@goo.gl/b9C0QX
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",CUBO Y LAS 2 CUERDAS MAGICAS
 http://cecegeek@goo.gl/NOiCDF
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS
-https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4?Pelixmax1.mp4
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANGRY BIRDS
-http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL GRINCH
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANIMALES FANTASTICOS 1
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ANIMALES FANTASTICOS 2
+https://ia801402.us.archive.org/4/items/animales-fantasticos-2/AF%202/Animales%20Fantasticos%202.mp4
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ET EL EXTRATERRESTRE
 http://tux-vod.dynu.com/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
@@ -816,18 +888,22 @@ http://5.9.94.182/master/Peliculas1/Los%20Peque%c3%b1os%20Traviesos%20(1994).mkv
 https://goo.gl/sFaEVq
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL CAZADOR Y LA REINA DEL HIELO
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MALEFICA
+https://archive.org/download/aml3_20200402/mal2.mkv
+
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",VOLVER AL FUTURO
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",VOLVER AL FUTURO 3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",HERBIE A TODA MARCHA
+http://193.34.144.178/Bryan/Peliculas/Herbie%20Fully%20Loaded%20LAT.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",BEETLEJUICE EL SUPER FANTASMA
+http://archive.org/download/xosuc_tempcloud_1/1.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SUPER RAPIDOS MEGA FURIOSOS
 http://fina.dyndns.tv/Peliculas/Superfast.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",GUATDEFOC
 http://cecegeek@goo.gl/WTXA94
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PIXELS
-http://cecegeek@goo.gl/x46RQL
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PIXELS
-https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MI AMIGO EL DRAGON
 http://cecegeek@goo.gl/6aY9yF
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MI ABUELO ES UN PELIGRO
@@ -857,19 +933,16 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL CULTO DE CHUCKY
 http://193.200.241.206:8000/movie/arturo/arturo/204.mkv
-
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",AVENTURAS DEL ORIGINAL SÚPERMAN(1952)
 http://37.59.16.111/video/d69a6b9a99b8e5e7dd498b5028ac4dfe/hnaCfiVmaM.H264-480p.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA PRINCESITA(1939)
 http://217.160.78.130/video/e6b4d5d134d0c04af560591084e0f799/bvoWvaMluP.H264-480p.mp4
-
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",FREAKY DEL TIEMPO
 http://193.34.144.178/Bryan/Peliculas/timefreak.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LO QUE ELLOS QUIEREN
 http://193.34.144.178/Bryan/Peliculas/men%20want.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ORGANIZE ISLER
 http://193.34.144.178/Bryan/Peliculas/isler.mp4
-
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA NOCHEBUENA ME CONDENA
 https://archive.org/download/wendy-2020_202012/La%20nochebuena%20es%20mi%20condena%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LUDO
@@ -890,7 +963,6 @@ https://archive.org/download/wendy-2020_202012/Spontaneous%20%282020%29.mp4
 https://archive.org/download/wendy-2020_202012/Think%20Like%20a%20Dog%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",GUERRA APOKOLIPS
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031121
-
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",CUANDO NOS CONOCIMOS
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",AL OTRO LADO DE LA LINEA
@@ -915,7 +987,52 @@ https://archive.org/download/wendy-2020_202012/El%20testamento%20de%20la%20abuel
 https://archive.org/download/wendy-2020_202012/La%20Casa%20de%20Hue%CC%81spedes%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA ISLA DE LAS ROSAS
 https://archive.org/download/wendy-2020_202012/La%20increi%CC%81ble%20historia%20de%20la%20Isla%20de%20las%20Rosas%20%282020%29.mp4
-
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",QUISIERA SER GRANDE
+http://ia801405.us.archive.org/2/items/ziduyaliri_mail-register_02/02.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",3 IDIOTAS
+http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",17 OTRA VEZ
+http://archive.org/download/PjfxjsfjddbxjJdjdjdxj/pjfxjsfjddbxj%20jdjdjdxj.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ZOMBIELAND
+http://ia601500.us.archive.org/18/items/00000_202009/0000006.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",Y DONDE ESTAN LAS RUBIAS
+http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",COMO SI FUERA LA PRIMERA VEZ
+https://ia601503.us.archive.org/24/items/012547489541643/0125474_89541643.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PIXELS
+http://cecegeek@goo.gl/x46RQL
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",PIXELS
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SANDY WEXLER
+http://cecegeek@goo.gl/kyH56Z
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SANDY WEXLER
+http://bit.ly/MRAQCSAND
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",NO TE METAS CON ZOHAN
+http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",CLICK PERDIENDO EL CONTROL
+http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LOCOS DE IRA
+http://archive.org/download/psqqqjkdkxdnxjssjxjsjxbsjxjsjakkjsjzjzzk/psqqqjkdkxdnxjssjxjsjxbsjxjsjakkjsjzjzzk.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",ZAPATERO A TUS ZAPATOS
+http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LAS VACACIONES DE MR BEAN
+http://archive.org/download/semocube0/1.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MENTIROSO MENTIROSO
+http://archive.org/download/mmsc0s0/mmsc0s0.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LAS LOCURAS DE DICK Y JANE
+http://archive.org/download/m6cd1cj4n/m6cd1cj4n.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SCARY MOVIE 1
+http://ia801402.us.archive.org/12/items/0000_20201108/00002.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SCARY MOVIE 2
+http://ia801402.us.archive.org/12/items/0000_20201108/00003.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SCARY MOVIE 3
+http://ia801404.us.archive.org/26/items/000_20201109/00005.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SCARY MOVIE 4
+http://ia601506.us.archive.org/16/items/000_20201026/00008.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SCARY MOVIE 5
+http://ia801400.us.archive.org/14/items/000_20201114/00006.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",A PRUEBA DE HOMBRES
+http://archive.org/download/killerscorpion_09_hotmail_1_20190202/Sub1d0_p4r4_5tr34ming_A85/1.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SOCIAS EN GUERRA
 https://onedrive.live.com/download.aspx?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219948&authkey=AGDCXQ94Q-uBTcg
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",QUE VOY HACER CON MI MARIDO
@@ -926,10 +1043,6 @@ http://193.34.144.178/Bryan/Peliculas/Ver%20Little%20Italy%20Online%20Castellano
 http://bit.ly/MASCOTAHUMANA
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",MI VIDA A LOS 17
 http://bit.ly/2v16m9z
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SANDY WEXLER
-http://cecegeek@goo.gl/kyH56Z
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",SANDY WEXLER
-http://bit.ly/MRAQCSAND
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",LA VENGANZA DE PORKY´S (1985)
 https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="PELICULA"  group-title="CINE FAMILIAR",EL DIARIO DE BRIDGETT JONES
@@ -1099,6 +1212,12 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 http://5.9.94.182/master/Peliculas247/peliculas%20nuevas%202019/esto%20no%20es%20berlin%202019.mkv
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL COMPLOT MONGOL
 http://5.9.94.182/master/Peliculas1/El%20Complot%20Mongol%20(2019).mkv
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",CINDY LA REGIA
+http://ia601402.us.archive.org/13/items/000_20200227/07.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",NACHO LIBRE
+http://ia801401.us.archive.org/25/items/00000_20200906/000003.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",COMO HACER UNA XXX
+http://archive.org/download/nadbkdfhk/nadbkdfhk.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",LABIOS ROJOS
 http://5.9.94.182/master/Peliculas1/Labios%20Rojos%20(2011).mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",NOSOTROS LOS NOBLES
@@ -1123,6 +1242,30 @@ http://5.9.94.182/master/Peliculas1/Macario%20(1960).mkv
 http://5.9.94.182/master/Peliculas1/El%20escapulario%20(1968).mkv
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",ANGELITOS DEL TRAPECIO (1959)
 https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",CAPULINA CONTRA LOS MOUNSTROS
+http://ia601504.us.archive.org/31/items/00_20201006/00006.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL CAMINO DE LOS ESPANTOS
+http://ia601502.us.archive.org/15/items/000_20201007/00012.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",OPERACION CARAMBOLA
+http://ia801504.us.archive.org/31/items/00_20201006/00013.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",OK MR PANCHO
+http://ia601504.us.archive.org/31/items/00_20201006/00019.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL MIEDO NO ANDA EN BURRO
+http://ia601504.us.archive.org/31/items/00_20201006/00011.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",NI DE AQUI NI DE ALLA
+http://ia601504.us.archive.org/31/items/00_20201006/00020.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",SOR TEQUILA
+http://ia601504.us.archive.org/31/items/00_20201006/00021.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL COYOTE EMPLUMADO
+http://ia801504.us.archive.org/31/items/00_20201006/00010.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL REY DEL BARRIO
+http://ia801406.us.archive.org/0/items/00002_202101/00010.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",AY AMOR COMO ME HAS PUESTO
+http://ia601504.us.archive.org/31/items/00_20201006/00008.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",NO ME DEFIENDAS COMPADRE
+http://ia801502.us.archive.org/15/items/000_20201007/0002.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL CENICIENTO
+http://ia801502.us.archive.org/15/items/000_20201007/0001.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",YO SOY MUY MACHO (1953)
 https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE MEXICANO",EL BELLO DURMIENTE (1952)
@@ -1226,6 +1369,8 @@ http://5.9.94.182/master/serie%203/DOCUMENTALES/Documental%20Sin%20censura%20-%2
 https://archive.org/download/michael-jackson-la-vida-de-un-idolo-2011_202101/Coronavirus%20El%20origen%20%282020%29.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",CORONAVIRUS
 http://5.9.94.182/master/Peliculas%202020/CORNONA%20VIRUS%202020.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EL ULTIMO CRUCERO EL INFIERNO DEL COVID-19
+http://5.9.25.80/pelisbeto/El_Ultimo_crucero_2021_lat.mp4
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",GAIA LA GRAN MADRE TIERRA
 https://www.dropbox.com/s/7je2i8fpwq8qndv/GAIA-Gr4nMadr3.mp4?dl=1
