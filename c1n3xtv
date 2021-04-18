@@ -157,8 +157,10 @@ http://200.54.19.131:8500/play/a0k4/index.m3u8
 http://200.54.19.131:8500/play/a0hd/index.m3u8
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN EDGE
 http://200.54.19.131:8500/play/a0di/index.m3u8
+#EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN EDGE
+http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN PLUS
-
+http://45.181.121.78:8000/play/a006
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN PREMIER
 
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="Cine PREMIUM",TNT
