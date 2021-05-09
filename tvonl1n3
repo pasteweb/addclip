@@ -292,6 +292,8 @@ https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 https://sony-comedias-1.roku.wurl.com/manifest/playlist_960x540_2000k.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" tvg-name="SONY"  group-title="IZZITV",SONY COMPETENCIAS
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" tvg-name="SONY"  group-title="IZZITV",SONY MOVIEZ
+http://51.52.156.22:8888/http/009
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/KANALD.png" tvg-name="KANALD"  group-title="IZZITV",KANAL D 
 
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HOMEANDHEALTH.png" tvg-name="HOMEANDHEALTH"  group-title="IZZITV",HOME & HEALTH
@@ -318,7 +320,7 @@ http://186.147.217.10:8000/play/a07y/index.m3u8
 http://186.147.217.10:8000/play/a0au/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="IZZITV",TNT
-
+http://45.182.23.211:2000/play/a0d9/index.m3u8
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="IZZITV",TNT
 http://186.147.217.10:8000/play/a06d/index.m3u8
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="IZZITV",TNT SERIES
@@ -882,11 +884,11 @@ http://209.91.213.10:8099/play/a029
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN+
 http://138.0.229.88:8000/play/a002/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 1 Opc2
-http://209.91.213.10:8099/play/a02a
+http://xgtv.club:8080/gratis9350188/gtv7404847/109785.ts
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 2 Opc2
-
+http://xgtv.club:8080/gratis9350188/gtv7404847/109786.ts
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 3 Opc2
-
+http://xgtv.club:8080/gratis9350188/gtv7404847/109787.ts
 
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SUD 1
 http://186.147.217.10:8000/play/a09b/index.m3u8
