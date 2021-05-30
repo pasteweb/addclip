@@ -101,108 +101,89 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCHANNEL" group-title="Cine PREMIUM",STAR CHANNEL 
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXCHANNEL/40-hls/live-media.m3u8
+http://187.188.147.142:8000/play/a02b/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARMOVIES"  group-title="Cine PREMIUM",STAR MOVIES
-http://200.54.19.131:8500/play/a0ig/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARMOVIES"  group-title="Cine PREMIUM",STAR MOVIES 2
-http://187.189.119.135:8000/play/a020/index.m3u8
+http://200.115.190.213:8000/play/fG79VXb6dpyJPLX8/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARFAMILY"  group-title="Cine PREMIUM",STAR FAMILY
-http://zutv.online:2086/live/LMz68t8wpM/CuH5DV6xZm/300.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARFAMILY"  group-title="Cine PREMIUM",STAR FAMILY 2
-http://187.189.119.135:8000/play/a03q/index.m3u8
+http://200.115.190.213:8000/play/nLmfZ6YJY7uAhAYT/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARACTION"  group-title="Cine PREMIUM",STAR ACTION
-http://181.198.252.231:8000/play/a033/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARACTION"  group-title="Cine PREMIUM",STAR ACTION 2
-http://187.189.119.135:8000/play/a021/index.m3u8
+http://186.101.216.211:8000/play/a0af
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCINEMA"  group-title="Cine PREMIUM",STAR CINEMA
-http://200.54.19.131:8500/play/a0e8/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCINEMA"  group-title="Cine PREMIUM",STAR CINEMA 2
-http://187.189.119.135:8000/play/a022/index.m3u8
+http://186.101.216.211:8000/play/a0ag
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARSERIES"  group-title="Cine PREMIUM",STAR SERIES
-http://181.198.252.231:8000/play/a04y/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARSERIES"  group-title="Cine PREMIUM",STAR SERIES 2
-http://187.189.119.135:8000/play/a01h/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCLASSICS"  group-title="Cine PREMIUM",STAR CLASSICS
-http://181.198.252.231:8000/play/a035/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCLASSICS"  group-title="Cine PREMIUM",STAR CLASSICS 2
-http://187.189.119.135:8000/play/a03r/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCOMEDY"  group-title="Cine PREMIUM",STAR COMEDY
-http://200.54.19.131:8500/play/a0e9/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCOMEDY"  group-title="Cine PREMIUM",STAR COMEDY 2
-http://200.54.19.131:8500/play/a0e9/index.m3u8
 
+#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCLASSICS"  group-title="Cine PREMIUM",STAR CLASSICS
+http://200.115.190.213:8000/play/Wp8HjC58CyFcJQkp/index.m3u8
+#EXTINF:-1,  tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" tvg-name="STARCOMEDY"  group-title="Cine PREMIUM",STAR COMEDY
+http://186.101.216.211:8000/play/a0ah
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO 
-http://200.54.19.131:8500/play/a0e5/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO west
-http://187.189.119.135:8000/play/a02i/index.m3u8
+http://200.115.190.213:8000/play/37HqRRJPHef5JsZJ/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO 2
-http://200.54.19.131:8500/play/a0e6/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO 2 west
-http://187.189.119.135:8000/play/a00m/index.m3u8
+http://186.101.216.211:8000/play/a0ae
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Family
-http://200.54.19.131:8500/play/a0ky/index.m3u8
+http://186.101.216.211:8000/play/a0dw
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Plus
-http://200.54.19.131:8500/play/a0l0/index.m3u8
+http://187.188.147.142:8000/play/a01b/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Xtreme
-http://45.225.93.154:8000/play/a03h
+http://186.101.216.211:8000/play/a0dx
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Pop
-http://200.54.19.131:8500/play/a0l3/index.m3u8
+http://186.101.216.211:8000/play/a0e2
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Signature
-http://200.54.19.131:8500/play/a0l1/index.m3u8
+http://186.101.216.211:8000/play/a0dz
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" tvg-name="HBO"  group-title="Cine PREMIUM",HBO Mundi
-http://200.54.19.131:8500/play/a0k4/index.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN
-http://200.54.19.131:8500/play/a0hd/index.m3u8
-#EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN EDGE
-http://200.54.19.131:8500/play/a0di/index.m3u8
+
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN EDGE
 http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
+#EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN EDGE
+
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN PLUS
-http://45.181.121.78:8000/play/a006
+
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="Cine PREMIUM",GOLDEN PREMIER
 
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="Cine PREMIUM",TNT
-http://45.181.121.78:8000/play/a020
+http://186.101.216.211:8000/play/a0dt
 #EXTINF:-1,  tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" tvg-name="TNT"  group-title="Cine PREMIUM",TNT
-http://45.225.93.154:8000/play/a02z
+
 #EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" tvg-name="TCM"  group-title="Cine PREMIUM",TCM
-http://200.54.19.131:8500/play/a0he/index.m3u8
+http://186.101.216.211:8000/play/a0e9
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/ydyK4zHb/sp4c3chnl.png" tvg-name="SPACE"  group-title="Cine PREMIUM",SPACE
-http://45.225.93.154:8000/play/a03a
+http://186.101.216.211:8000/play/a0d5
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FXM.png" tvg-name="FXM"  group-title="Cine PREMIUM",FXM
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/20-hls/live-media.m3u8
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" tvg-name="SONY"  group-title="Cine PREMIUM",SONY 
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8
+http://186.101.216.211:8000/play/a0cl
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" tvg-name="WARNER"  group-title="Cine PREMIUM",WARNER 
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/40-hls/live-media.m3u8
+http://186.101.216.211:8000/play/a02h
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" tvg-name="UNIVERSAL"  group-title="Cine PREMIUM",UNIVERSAL 
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSAL/20-hls/live-media.m3u8
+http://186.101.216.211:8000/play/a06f
 #EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" tvg-name="STUDIOUNIVERSAL"  group-title="Cine PREMIUM",STUDIO UNIVERSAL
-http://187.189.119.135:8000/play/a036/index.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEPREMIUM.png" tvg-name="CINEPREMIUM"  group-title="Cine PREMIUM",CINE PREMIUM
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINEPREMIUM/20-hls/live-media.m3u8
+http://200.115.190.213:8000/play/Um9B9zJk9LEqj7aA/index.m3u8
+#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEPREMIUM.png" tvg-name="CINEPREMIUM"  group-title="Cine PREMIUM",CINEMA CLARO PREMIUM
+http://186.101.216.211:8000/play/a0cv
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" tvg-name="SYFY"  group-title="Cine PREMIUM",SYFY
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8
+http://200.115.190.213:8000/play/s8HLStQvq2dwPhSk/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" tvg-name="SYFY"  group-title="Cine PREMIUM",SYFY Latam
-http://200.54.19.131:8500/play/a0ie/index.m3u8
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" tvg-name="FX"  group-title="Cine PREMIUM",FX
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8
+http://187.188.147.142:8000/play/a029/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" tvg-name="AMC"  group-title="Cine PREMIUM",AMC
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png" tvg-name="CINECLICK"  group-title="Cine PREMIUM",CINE CLICK
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINECLICK/20-hls/live-media.m3u8
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" tvg-name="PARAMOUNTCHANNEL"  group-title="Cine PREMIUM",PARAMOUNT
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNTCHANNEL/20-hls/live-media.m3u8
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" tvg-name="CINECANAL"  group-title="Cine PREMIUM",CINECANAL 
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CINECANAL/40-hls/live-media.m3u8
+http://200.115.190.213:8000/play/AS2ESM6kwGDqHCaX/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" tvg-name="CINECANAL"  group-title="Cine PREMIUM",CINECANAL Oeste
-http://187.189.119.135:8000/play/a00i/index.m3u8
+
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" tvg-name="CINEMAX"  group-title="Cine PREMIUM",CINEMAX 
-http://200.73.117.225:8000/play/a0bn
+http://200.115.190.213:8000/play/VudG5hu6fgnMYz56/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" tvg-name="CINEMAX"  group-title="Cine PREMIUM",CINEMAX Opc2
-http://187.189.119.135:8000/play/a01x/index.m3u8
+
 
 
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINECLUB",---CINECLUB---
@@ -1064,7 +1045,10 @@ http://193.34.144.178/Bryan/Peliculas/Ver%20Rock%20my%20Heart%20Online%20Castell
 
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="SCARY MOVIES",---SCARY MOVIES---
 
-
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",ALUCINACIONES DEL PASADO
+https://archive.org/download/tinaco_20210527/Alucinaciones%20Del%20Pasado.mkv
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",EXPERIMENTO FANTASMA
+https://archive.org/download/manguera_20210527/El.Experimento.Fantasma.mkv
 
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",ANTEBELLUM LA ELEGIDA
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Antebellum%20%282020%29.mp4
@@ -1125,6 +1109,12 @@ https://onedrive.live.com/download.aspx?cid=D5072BBB4F142590&resid=D5072BBB4F142
 https://onedrive.live.com/download.aspx?authkey=%21AGd0vd9RcRbmncw&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218433&parId=D5072BBB4F142590%212380&o=OneUp
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",LA NOCHE DE LA BRUJA
 https://onedrive.live.com/download.aspx?authkey=%21ABS3oIFBex6j_lo&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218432&parId=D5072BBB4F142590%212380&o=OneUp
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",ESTACION ZOMBIE
+http://archive.org/download/av_20210117/AY.mp4
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",CHUKY
+http://archive.org/download/y-2mate.com-chucky-1-pelicula-completa-en-espanol-quedate-encasa-2020-360p/y2mate.com%20-%20chucky%201%20pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20QuedateEncasa%202020_360p.mp4
+#EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",EL NIÑO
+http://archive.org/download/ac_20210117/AF.mp4
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",EL NIÑO
 https://onedrive.live.com/download.aspx?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219951&authkey=AKc1W6HH064yHSE
 #EXTINF:-1,  tvg-logo="https://logos.flamingtext.com/City-Logos/Scary-Water-Logo.png" tvg-name="PELICULA"  group-title="SCARY MOVIES",EL NIÑO 2
@@ -2126,6 +2116,19 @@ http://37.187.20.239/Los%20Simpsons/Temporada%2003/23%20-%20Milhouse%20se%20enam
 
 #EXTINF:0,tvg-logo="http://www.johntipton.com/wp-content/uploads/2016/06/HBO-24-7-Logo1.jpg" group-title="SERIES TV",---SERIES TV---
 
+
+#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x1 UN NEGOCIO BONITO
+http://archive.org/download/erds1b1/erds1b1.mp4
+#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x2 LA TITULAR 
+http://archive.org/download/erds1b1/Erds1b2.mp4
+#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x3 MANOSUCIA
+http://archive.org/download/erds1b1/Erds1b3.mp4
+#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x4 ESCAPE DE VALLEDUPAR
+http://archive.org/download/erds1b1/Erds1b4.mp4
+#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x5 BILLESTES MALDITOS
+http://archive.org/download/erds1b1/Erds1b5.mp4
+#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x6 TODO EL DINERO DEL MUNDO
+http://archive.org/download/erds1b1/Erds1b6.mp4
 
 #EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Hern_n_Serie_de_TV-470276830-large.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",HERNAN Cap 1
 http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x01.mkv
