@@ -377,11 +377,11 @@ http://186.101.216.211:8000/play/a0ck
 http://201.220.141.118:8000/play/a053/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="IZZITV",GOLDEN
-http://209.91.213.10:8088/play/a029
+http://190.61.37.173:8000/play/a02j/index.m3u8
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="IZZITV",GOLDEN
-http://201.220.141.118:8000/play/a039/index.m3u8
+http://190.205.118.238:8000/play/a093
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="IZZITV",GOLDEN EDGE
-http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
+http://190.205.118.238:8000/play/a07w
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="IZZITV",GOLDEN PLUS
 
 #EXTINF:-1,  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" tvg-name="GOLDEN"  group-title="IZZITV",GOLDEN PREMIER
@@ -949,7 +949,7 @@ http://186.101.216.211:8000/play/a06q
 
 
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 1
-
+http://190.61.37.173:8000/play/a03t/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 2
 http://187.188.147.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,  tvg-logo="https://pajantv.com/wp-content/uploads/2018/02/fox-sports-3-online.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 3
@@ -966,7 +966,7 @@ http://209.91.213.10:8099/play/a02b
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN
 http://209.91.213.10:8099/play/a00t
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 1
-http://187.188.147.142:8000/play/a00c/index.m3u8
+http://190.61.37.173:8000/play/a03a/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 2
 http://209.91.213.10:8099/play/a00s
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 3
@@ -976,29 +976,29 @@ http://209.91.213.10:8088/play/a019
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 1 Opc2
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 2 Opc2
-
+http://190.61.37.173:8000/play/a039/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 3 Opc2
 http://209.91.213.10:8088/play/a025
 
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SUD 1
 http://45.166.147.6:8000/play/a01i
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SUD 2
-http://200.115.190.213:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
+http://190.205.118.238:8000/play/a08t
 #EXTINF:-1,  tvg-logo="https://pajantv.com/wp-content/uploads/2018/02/fox-sports-3-online.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SUD 3
 http://209.91.213.10:8099/play/a02b
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS PREMIUM
-http://186.101.216.211:8000/play/a02j
+http://190.205.118.238:8000/play/a07t
 #EXTINF:-1,  tvg-logo="https://www.pngitem.com/pimgs/m/244-2444368_fox-racing-logo-png-fox-sports-racing-logo.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX RACING
 
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN SUD 1
-http://45.166.147.6:8000/play/a01j
+http://190.205.118.238:8000/play/a05y
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN SUD 2
-http://200.115.190.213:8000/play/3jZRN66nDhuZwLbW/index.m3u8
+http://45.166.147.6:8000/play/a01j
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN SUD 3
-http://200.115.190.213:8000/play/4hrEpujghmYgjET8/index.m3u8
+http://190.205.118.238:8000/play/a070
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN Extra SUD
-http://200.115.190.213:8000/play/7mZEEEBQpQGypd9c/index.m3u8
+http://190.205.118.238:8000/play/a09v
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 1
 http://5.255.90.184:2001/play/a05d
@@ -1013,6 +1013,7 @@ http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/22818
 http://186.101.216.211:8000/play/a0dp
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" tvg-name="GOLTV"  group-title="DEPORTES",GOL TV Opc2
 http://45.166.147.6:8000/play/a01l
+
 #EXTINF:-1,  tvg-logo="https://i.blogs.es/b84600/m-0263/450_1000.jpg" tvg-name="GOLTV"  group-title="DEPORTES",CANAL DE FUTBOL
 
 #EXTINF:-1,  tvg-logo="https://www.peculiarmanagement.net/wp-content/uploads/logo-movistar-grande.jpg" tvg-name="MOVISTAR"  group-title="DEPORTES",MOVISTAR LA LIGA
