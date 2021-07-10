@@ -953,7 +953,7 @@ http://190.61.37.173:8000/play/a03t/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 2
 http://187.188.147.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,  tvg-logo="https://pajantv.com/wp-content/uploads/2018/02/fox-sports-3-online.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 3
-http://187.188.147.142:8000/play/a00j/index.m3u8
+http://190.61.37.173:8000/play/a01k/index.m3u8
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS PREMIUM
 
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 1 Opc2
@@ -978,7 +978,7 @@ http://209.91.213.10:8088/play/a019
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 2 Opc2
 http://190.61.37.173:8000/play/a039/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN 3 Opc2
-http://209.91.213.10:8088/play/a025
+http://190.61.37.173:8000/play/a02g/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SUD 1
 http://45.166.147.6:8000/play/a01i
@@ -1094,7 +1094,5 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/c1gN9s5w/top-music.png" tvg-name="MUSICTOP"  group-title="MUSICAL",MUSIC TOP
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-
 
 
