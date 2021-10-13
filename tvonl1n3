@@ -10,7 +10,7 @@ https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A
 http://201.168.205.12:8000/play/a0cc/index.m3u8
 #EXTINF:-1,  tvg-logo="http://desafuero.com/wp-content/uploads/2016/10/programacion-imagen-television.jpg" tvg-name="IMAGENTV"  group-title="TV MEXICO",IMAGEN TV
 http://201.168.205.12:8000/play/a0d5/index.m3u8
-#EXTINF:-1,  tvg-logo="http://desafuero.com/wp-content/uploads/2016/10/programacion-imagen-television.jpg" tvg-name="IMAGENTV"  group-title="TV MEXICO",IMAGEN TV Opc2
+#EXTINF:-1,  tvg-logo="http://desafuero.com/wp-content/uploads/2016/10/programacion-imagen-television.jpg" tvg-name="IMAGENTV"  group-title="TV MEXICO",IMAGEN TV -1hr
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS XEW
 http://201.168.205.12:8000/play/a0d4/index.m3u8
@@ -18,22 +18,24 @@ http://201.168.205.12:8000/play/a0d4/index.m3u8
 http://67.73.246.186:8000/play/a015
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" tvg-name="CANAL5"  group-title="TV MEXICO",CANAL 5 XHGC
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" tvg-name="CANAL5"  group-title="TV MEXICO",CANAL 5 XHGC -1hr
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" tvg-name="CANAL5"  group-title="TV MEXICO",CANAL 5 XHGC
 http://201.168.205.12:8000/play/a0fl/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" tvg-name="CANAL6"  group-title="TV MEXICO",CANAL 6 CDMX MULTIMEDIOS
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" tvg-name="AZTECA7"  group-title="TV MEXICO",AZTECA 7
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" tvg-name="AZTECA7"  group-title="TV MEXICO",AZTECA 7 -1hr
 https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" tvg-name="AZTECA7"  group-title="TV MEXICO",AZTECA 7
 http://201.168.205.12:8000/play/a0fm/index.m3u8
-#EXTINF:-1,  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" tvg-name="a+"  group-title="TV MEXICO",A+
+#EXTINF:-1,  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" tvg-name="a+"  group-title="TV MEXICO",A+ -1hr
 https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/350px-Nueve_%282018_logo%29.png" tvg-name="NU9VE"  group-title="TV MEXICO",EL NU9VE
 
 #EXTINF:-1,  tvg-logo="https://oreox.net/images/logos-canales/90.png" tvg-name="UNICABLE"  group-title="TV MEXICO",UNICABLE
-
+http://tecnotv.club/octu11/smartv.php?c=unicable-en-vivo
+#EXTINF:-1,  tvg-logo="https://oreox.net/images/logos-canales/90.png" tvg-name="UNICABLE"  group-title="TV MEXICO",UNIMAS -1hr
+https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
 #EXTINF:-1,  tvg-logo="http://img-youpeliculas.com/images/2014/07/15/forotv.png" tvg-name="FOROTV"  group-title="TV MEXICO",FORO TV
 
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" tvg-name="TVONCE"  group-title="TV MEXICO",TV ONCE
@@ -291,7 +293,7 @@ https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
 #EXTINF:-1,  tvg-logo="https://image.flaticon.com/icons/png/512/870/870926.png" tvg-name="UNIVISION"  group-title="IZZITV",UNIVISION
 
 #EXTINF:-1,  tvg-logo="https://oreox.net/images/logos-canales/90.png" tvg-name="UNICABLE"  group-title="IZZITV",UNICABLE
-
+http://tecnotv.club/octu11/smartv.php?c=unicable-en-vivo
 #EXTINF:-1,  tvg-logo="https://oreox.net/images/logos-canales/90.png" tvg-name="UNICABLE"  group-title="IZZITV",UNIMAS
 
 #EXTINF:-1,  tvg-logo="https://www.pctv.mx/Portals/_default/Skins/Incredible/css/tvc/canales/tvc-89472.png" tvg-name="TVC"  group-title="IZZITV",TVC mx
