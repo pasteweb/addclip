@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" tvg-name="AZTECA"  group-title="TV MEXICO",AZTECA 1
-
+http://190.122.96.187:8888/http/002
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" tvg-name="AZTECA"  group-title="TV MEXICO",AZTECA 1
 
 #EXTINF:-1,  tvg-logo="http://desafuero.com/wp-content/uploads/2016/10/programacion-imagen-television.jpg" tvg-name="IMAGENTV"  group-title="TV MEXICO",IMAGEN TV
@@ -668,7 +668,7 @@ http://37.35.150.11:8000/play/a00g
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/sXj2fWVQ/TVGcult.jpg" tvg-name="TVGCULTURA"  group-title="TV CULTURAL",TVG CULTURA
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/TPqwX0Xv/STGO.jpg" tvg-name="STGOTV"  group-title="TV CULTURAL",STGO TV
-https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/QxtWk2Z9/ARTS-TV.png" tvg-name="ARTSTV"  group-title="TV CULTURAL",FILM&ARTS TV
 http://190.83.119.254:8000/play/a0vf/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/jjr599mh/TLNORD.jpg" tvg-name="TELENORD"  group-title="TV CULTURAL",TELENORD 8
@@ -693,7 +693,8 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 https://v-ny.theus6tv.tk/hls/42.6/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/AmericaTeve-Logo-300x300.jpg" tvg-name="AMERICATEVE"  group-title="TV MUNDIAL",AMERICA TeVe (USA)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-
+#EXTINF:-1,  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" tvg-name="AFV"  group-title="TV MUNDIAL",AFV (USA)
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/9zN1s6D.png" tvg-name="ELSUR"  group-title="TV MUNDIAL",TELE SUR Madrid (ESP)
 
@@ -748,6 +749,8 @@ http://201.220.134.44:8185/play/a01c/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" tvg-name="READYTV"  group-title="TV MUNDIAL",READY TV (R DOM)
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1,  tvg-logo="https://canalstv.com/images/logos/Logo-Canal-STV-Amarillo.png" tvg-name="STV"  group-title="TV MUNDIAL",STV (C RICA)
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" tvg-name="TELEUNOTV"  group-title="TV MUNDIAL",TELEUNO TV (C RICA)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" tvg-name="TELERED"  group-title="TV MUNDIAL",TELERED (C RICA)
@@ -1096,7 +1099,6 @@ http://78.201.98.110:8000/play/a07l
 
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" tvg-name="GARAGETV"  group-title="DEPORTES",GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-
 
 
 
