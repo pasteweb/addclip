@@ -165,9 +165,6 @@ http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TUDN (USA)
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TUDN (USA)
-https://cdn4.xaxa.live/keys/bli.json
-
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEMUNDO (USA)
 http://200.24.159.165:9966/play/a00i/index.m3u8
 
@@ -195,14 +192,8 @@ http://45.232.211.195:1080/play/a00f
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CHILEVISION (CHI)
 http://45.232.211.195:1080/play/a00e
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TV PUBLICA (ARG)
-https://cdn4.xaxa.live/keys/tvpuar.json
-
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TyC (ARG)
 http://45.232.211.195:1080/play/a02a
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TyC (ARG)
-https://xaxa.live/arkey/TyC_Internacional.json
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TyC 2 (ARG)
 http://45.162.135.1:1080/play/a048
@@ -210,41 +201,18 @@ http://45.162.135.1:1080/play/a048
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEFUTURO (PAR)
 http://200.41.79.165:8000/play/a0hy/index.m3u8
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 4 (URU)
-https://cdn4.xaxa.live/keys2/canal4uy.json
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 10 (URU)
-https://cdn4.xaxa.live/keys2/canal10uy.json
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEDOCE (URU)
-https://cdn4.xaxa.live/keys2/canal12uy.json
-
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",SNT (PAR)
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",RCN (COL)
 http://45.232.211.195:1080/play/a059
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",RCN (COL)
-https://cdn4.xaxa.live/keys3/rcn.json
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",GOL TV (ESP)
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2559
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CARACOL (COL)
-https://cdn4.xaxa.live/keys3/caracol.json
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",LA 1 (ESP)
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2555
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",LATINA (PERU)
-https://cdn4.xaxa.live/keys3/latina.json
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",DIRECTV (COL)
-https://cdn4.xaxa.live/keys/dtvco.json
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",DIRECTV (ECU)
-https://cdn4.xaxa.live/keys/dtvec.json
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",DIRECTV (URU)
-https://cdn4.xaxa.live/keys/dtvuy.json
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",DIRECTV (PERU)
-https://cdn4.xaxa.live/keys/dtvpe.json
 
 
 
@@ -680,23 +648,21 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/W351d439/DW.jpg" tvg-name="DW"  group-title="TV CULTURAL",DW Deutsche Welle Opc2
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" tvg-name="DMAX"  group-title="TV CULTURAL",DMAX
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29295
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" tvg-name="DMAX"  group-title="TV CULTURAL",DMAX
 
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" tvg-name="HISTORIA"  group-title="TV CULTURAL",CANAL HISTORIA
 
 #EXTINF:-1,  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" tvg-name="ODISEA"  group-title="TV CULTURAL",ODISEA
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2541
 #EXTINF:-1,  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" tvg-name="ODISEA"  group-title="TV CULTURAL",ODISEA Opc2
 
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV CULTURAL",LA 2 (ESP)
 http://37.35.150.11:8000/play/a002
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV CULTURAL",LA 2 (ESP)
 
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" tvg-name="MEGA"  group-title="TV CULTURAL",MEGA (ESP)
-
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV CULTURAL",CUATRO
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2571
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV CULTURAL",CUATRO opc2
 
 #EXTINF:-1,  tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/Madrid-Telemadrid-HD.png" tvg-name="TELEMADRID"  group-title="TV CULTURAL",TELEMadrid (ESP)
@@ -790,31 +756,31 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" tvg-name="A3SERIES"  group-title="TV MUNDIAL",A3CINE (ESP)
 
 #EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" tvg-name="ANTENA3"  group-title="TV MUNDIAL",ANTENA 3 (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2599
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="LA1"  group-title="TV MUNDIAL",LA 1 (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2555
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV MUNDIAL",LA 2 (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2554
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV MUNDIAL",LA 2 (ESP)
 
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV MUNDIAL",CUATRO (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2571
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" tvg-name="TELECINCO"  group-title="TV MUNDIAL",TELECINCO (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29230
 #EXTINF:-1,  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" tvg-name="LASEXTA"  group-title="TV MUNDIAL",LA SEXTA (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2552
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" tvg-name="NOVA"  group-title="TV MUNDIAL",NOVA (ESP)
 
 #EXTINF:-1,  tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/ver-Neox-online-o-en-android.jpg" tvg-name="NEOX"  group-title="TV MUNDIAL",NEOX (ESP)
 
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" tvg-name="MEGA"  group-title="TV MUNDIAL",MEGA (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2550
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" tvg-name="ENERGY"  group-title="TV MUNDIAL",ENERGY (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/52381
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" tvg-name="FDF"  group-title="TV MUNDIAL",FDF (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/52331
 #EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" tvg-name="DIVINITY"  group-title="TV MUNDIAL",DIVINITY (ESP)
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2566
 #EXTINF:-1,  tvg-logo="https://www.albafores.com/wp-content/uploads/2019/06/betev%C3%A9-Logo.jpg" tvg-name="BETEVE"  group-title="TV MUNDIAL",BETEVE (ESP)
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
 #EXTINF:-1,  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" tvg-name="eitb"  group-title="TV MUNDIAL",eitb (ESP)
@@ -1114,16 +1080,16 @@ http://45.5.119.202:8000/play/a00h/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN+
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN Mx 1
-https://cdn4.xaxa.live/keys/espnmx.json
+
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN Mx 2
-https://cdn4.xaxa.live/keys/espn2mx.json
+
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" tvg-name="ESPN"  group-title="DEPORTES",ESPN Mx 3
-https://cdn4.xaxa.live/keys/espn3mx.json
+
 #EXTINF:-1,  tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg" tvg-name="ESPN"  group-title="DEPORTES",ESPN 4
 
 
 #EXTINF:-1,  tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/FOX-Sports-1_730_20130305144320758_660_320.jpg" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 1 Mx
-https://cdn4.xaxa.live/keys/foxsmx.json
+
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 2
 
 #EXTINF:-1,  tvg-logo="https://pajantv.com/wp-content/uploads/2018/02/fox-sports-3-online.png" tvg-name="FOXSPORTS"  group-title="DEPORTES",FOX SPORTS 3
@@ -1158,18 +1124,18 @@ http://45.5.119.202:8000/play/a02r/index.m3u8
 
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 1
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29270
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 2
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29226
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 3
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29218
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" tvg-name="DAZN"  group-title="DEPORTES",DAZN 4
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/52349
 
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" tvg-name="TIGO"  group-title="DEPORTES",TIGO SPORTS
 
 #EXTINF:-1,  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" tvg-name="GOLTV"  group-title="DEPORTES",GOL TV
-
+http://kk03es.abcnew.site:8880/12mm10096/73156142/2559
 
 #EXTINF:-1,  tvg-logo="https://www.peculiarmanagement.net/wp-content/uploads/logo-movistar-grande.jpg" tvg-name="MOVISTAR"  group-title="DEPORTES",MOVISTAR LA LIGA
 
