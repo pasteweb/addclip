@@ -166,10 +166,10 @@ http://190.61.102.67:31589/play/a00i/index.m3u8
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEMUNDO (USA)
-http://200.24.159.165:9966/play/a00i/index.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEMUNDO (USA)
-http://45.228.234.185:8000/play/a0gv/index.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEVICENTRO (n.d.)
 http://200.24.159.165:9966/play/a05u/index.m3u8
@@ -177,56 +177,53 @@ http://200.24.159.165:9966/play/a05u/index.m3u8
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",AZTECA (GUA)
 http://45.228.234.185:8000/play/a0h3/index.m3u8
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 5 (HON)
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",AZTECA (GUA)
+http://45.228.234.185:8000/play/a0h3/index.m3u8
+
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 5 (CR7)
 http://200.52.154.125:8000/play/a05n/index.m3u8
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (HON)
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (CR7)
 http://45.162.135.1:1080/play/a09h
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (HON)
-http://200.52.154.125:8000/play/a032/index.m3u8
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (CR7)
+http://45.228.234.185:8000/play/a02v/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (HON)
 http://181.175.41.170:8000/play/a0g4
 
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (CR)
-http://45.228.234.185:8000/play/a02v/index.m3u8
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TIGO SPORTS (CR)
-https://api55.tvgratis.live/streams3/tigocr.m3u8
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 13 (GUA)
-http://190.61.102.67:31589/play/a08p/index.m3u8
-
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 13 (CHI)
 http://45.232.211.195:1080/play/a00f
+
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CANAL 13 (CHI)
+http://45.233.169.25:8000/play/a009
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CHILEVISION (CHI)
 http://45.232.211.195:1080/play/a00e
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TyC (ARG)
-http://45.232.211.195:1080/play/a02a
+
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TyC 2 (ARG)
-http://45.162.135.1:1080/play/a048
+
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",DIRECT TV (CHI)
-http://200.52.154.125:8000/play/a06p/index.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",DIRECT TV (CHI)
-http://200.52.154.125:8000/play/a06o/index.m3u8
+
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",TELEFUTURO (PAR)
 http://200.41.79.165:8000/play/a0hy/index.m3u8
-
-#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",SNT (PAR)
-https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",CARACOL (COL)
 http://200.52.154.125:8000/play/a06e/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",RCN (COL)
 http://45.232.211.195:1080/play/a059
+
+#EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",RCN (COL)
+http://45.233.169.25:8000/play/a021
 
 #EXTINF:-1,  tvg-logo="https://s1.abcstatics.com/abc/www/multimedia/deportes/2022/11/07/qatar-2022-RcPv1O6AOxXtcPP4mhsdM7L-366x256@abc.PNG" tvg-name="QATAR 2022"  group-title="QATAR 2022",GOL TV (ESP)
 http://kk03es.abcnew.site:8880/12mm10096/73156142/2559
@@ -861,7 +858,7 @@ http://190.83.119.254:8000/play/a0u3/index.m3u8
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png" tvg-name="AMERICATV"  group-title="TV MUNDIAL",AMERICA TV (CHILE)
 
 #EXTINF:-1,  tvg-logo="https://d1mm7fnxb6z2bq.cloudfront.net/static/meatme/images/ventas-corporativas/canal13.png" tvg-name="TV13"  group-title="TV MUNDIAL",TV 13 (CHILE)
-
+http://45.233.169.25:8000/play/a009
 #EXTINF:-1,  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/51/LogoMega2015.png" tvg-name="MEGAVISION"  group-title="TV MUNDIAL",MEGA MUNDIAL (CHILE)
 
 #EXTINF:-1,  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" tvg-name="CHILEVISION"  group-title="TV MUNDIAL",CHILEVISION (CHILE)
@@ -904,7 +901,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" tvg-name="BHTV"  group-title="TV MUNDIAL",BHTV (PERU)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-9OnzkLIqbRg/X_8A2O02BQI/AAAAAAAA9KE/vZQJmbJy3aIZF2qQq9pgWxgqDhjkj5CqACK8BGAsYHg/s0/2021-01-13.png" tvg-name="INKAVISION"  group-title="TV MUNDIAL",INKAVISION (PERU)
-
+#EXTINF:-1,  tvg-logo="https://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" tvg-name="UNICANAL"  group-title="TV MUNDIAL",TELEFUTURO (PAR)
+http://200.41.79.165:8000/play/a0hy/index.m3u8
 #EXTINF:-1,  tvg-logo="https://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" tvg-name="UNICANAL"  group-title="TV MUNDIAL",UNICANAL (PAR)
 http://45.55.127.106/live/unicanal_mid.m3u8
 
