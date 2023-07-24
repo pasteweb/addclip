@@ -170,8 +170,8 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS XEW
 http://200.24.204.242:6020/play/a0cr/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
-
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" tvg-name="CANAL5"  group-title="TV MEXICO",CANAL 5 XHGC
@@ -203,7 +203,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" tvg-name="ADN40"  group-title="TV MEXICO",ADN 40
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" tvg-name="MVSTV"  group-title="TV MEXICO",MVS TV
-
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" tvg-name="CANAL22"  group-title="TV MEXICO",CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" tvg-name="CANAL22"  group-title="TV MEXICO",CANAL 22 2
@@ -266,6 +266,10 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1,  tvg-logo="http://img-youpeliculas.com/images/2014/07/15/forotv.png" tvg-name="FOROTV"  group-title="NOTICIAS",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1,  tvg-logo="https://um-cdn.flipboard.com/HmGIKsHVfMIKcS1Da91-vw/uploads/avatar/b9b4c9b67c8a921216540742065def4b8ab9e6f6.png" tvg-name="NMAS"  group-title="NOTICIAS",NMAS
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1,  tvg-logo="https://um-cdn.flipboard.com/HmGIKsHVfMIKcS1Da91-vw/uploads/avatar/b9b4c9b67c8a921216540742065def4b8ab9e6f6.png" tvg-name="NMAS"  group-title="NOTICIAS",NMAS Media
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" tvg-name="CANAL6"  group-title="NOTICIAS",CANAL 6 CDMX MULTIMEDIOS
 
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1267320384568864768/f8h8X12H_400x400.jpg" tvg-name="MILENIOTV"  group-title="NOTICIAS",MILENIO TV
@@ -276,6 +280,8 @@ https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1,  tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" tvg-name="AMXNOTICIAS"  group-title="NOTICIAS",AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,  tvg-logo="https://image.flaticon.com/icons/png/512/826/826328.png" tvg-name="CNNLATINO"  group-title="NOTICIAS",CNN ESPANOL
+http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1,  tvg-logo="https://image.flaticon.com/icons/png/512/826/826328.png" tvg-name="CNNLATINO"  group-title="NOTICIAS",CNN LATINO 
 http://181.209.194.242:8080/play/a0s2/index.m3u8
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-name="EURONEWS"  group-title="NOTICIAS",EURONEWS ptv
@@ -285,7 +291,7 @@ https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png" tvg-name="FRANCE24"  group-title="NOTICIAS",FRANCE 24
 http://51.222.110.182:8000/play/a010
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" tvg-name="24HORAS"  group-title="NOTICIAS",24 Hrs
-
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1,  tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" tvg-name="24HORAS"  group-title="NOTICIAS",+24 Hrs
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" tvg-name="RTSpanish"  group-title="NOTICIAS",RT Spanish
@@ -315,6 +321,8 @@ https://live1.presstv.ir/live/hispan.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" tvg-name="TELERED"  group-title="TV RETRO",TELERED 2
 http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+#EXTINF:-1,  tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" tvg-name="TELEUNOTV"  group-title="TV RETRO",TELEUNO TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://www.freeetv.com/images/03_logo/microvision_dr.jpg" tvg-name="MICROVISION10"  group-title="TV RETRO",MICROVISION 10
 
 #EXTINF:-1,  tvg-logo="https://www.freeetv.com/images/03_logo/microvision_dr.jpg" tvg-name="MICROVISION10"  group-title="TV RETRO",MICROVISION 10 2
@@ -325,14 +333,14 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg" tvg-name="ZEEMUNDO"  group-title="TV RETRO",ZEEMUNDO
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg" tvg-name="ZEEMUNDO"  group-title="TV RETRO",ZEEMUNDO Opc2
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg" tvg-name="ZEEMUNDO"  group-title="TV RETRO",ZEEMUNDO 2
 
 #EXTINF:-1,  tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" tvg-name="ORBITTV"  group-title="TV RETRO",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1,  tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" tvg-name="ORBITTV"  group-title="TV RETRO",ORBIT TV Opc2
+#EXTINF:-1,  tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" tvg-name="ORBITTV"  group-title="TV RETRO",ORBIT TV 2
 
-#EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-8Ea5VntW8MU/X6spmWq7SLI/AAAAAAAA7LE/ruh-WJMJ0rY39THjAhMZhV7L5UbgkNffACK8BGAsYHg/s0/2020-11-10.png" tvg-name="GVISION"  group-title="TV RETRO",G VISION
-
+#EXTINF:-1,  tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/11/Template_TVMobile_Thumbnail_1920x1080-Spain-Helen-Tzoutis-1-752x423.jpg" tvg-name="MYTIME"  group-title="TV RETRO",MY TIME MOVIES
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" tvg-name="GEOVISION"  group-title="TV RETRO",GEOVISION TV
 
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/JAeBFpP.png" tvg-name="READYTV6"  group-title="TV RETRO",READY TV 6
@@ -348,8 +356,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://static.ngs.ru/news/preview/baa58191271c0f2784fa2e0c1fdca8ce062178b1_483_322_c.jpg" tvg-name="TV2WEB"  group-title="TV RETRO",TV 2 WEB
 
 #EXTINF:-1,  tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" tvg-name="RETROPLUS"  group-title="TV RETRO",RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://cdn6.aptoide.com/imgs/2/6/d/26d8672102e333522b76127869e4155a_icon.png" tvg-name="TVRETROPALMARES"  group-title="TV RETRO",TV RETRO PALMARES
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ClasicoTV.jpg" tvg-name="MITVCLASICA"  group-title="TV RETRO",MI TV CLASICA
 
@@ -364,7 +372,7 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1311309992721616896/8Lyz-9f6.jpg" tvg-name="MEGAVISION"  group-title="TV RETRO",MEGAVISION
 
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1086270000925736960/_3T-Vlgr.jpg" tvg-name="ROMANATV"  group-title="TV RETRO",ROMANA TV
-
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1,  tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" tvg-name="VALLEVISION"  group-title="TV RETRO",VALLEVISION
 
 #EXTINF:-1,  tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" tvg-name="VALLEVISION"  group-title="TV RETRO",VALLEVISION 10
@@ -375,9 +383,6 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1,  tvg-logo="https://www.uphf.fr/sites/default/files/images/actu2013-14/cine-club-logo-300-200.jpg" tvg-name="CINECLUBTV"  group-title="TV RETRO",MI TV CINE
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" tvg-name="FMTV"  group-title="TV RETRO",FMTV MOVIES
-
-
 #EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" tvg-name="PLUTOTV"  group-title="TV RETRO",PLUTO TV CINE FUNCION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" tvg-name="PLUTOTV"  group-title="TV RETRO",PLUTO TV CINE ACCION
@@ -731,8 +736,7 @@ http://ugeen.live:8080/ispoki/mrspoki223/366
 #EXTINF:-1,  tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2019/06/19/tv_unam.jpg" tvg-name="TVUNAM"  group-title="TV CULTURAL",TV UNAM
 
 #EXTINF:-1,  tvg-logo="https://s5.postimg.cc/tywbwrql3/tvcuatro2.png" tvg-name="TVCUATROCULTURA"  group-title="TV CULTURAL",TV 4.2 CULTURA
-
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/DFjN26b.jpg" tvg-name="HUMANITY"  group-title="TV CULTURAL",CULTURA HUMANITY
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PLUTOTV"  group-title="TV CULTURAL",TV AVENTURA
 https://stitcher.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -790,10 +794,8 @@ http://45.5.119.146:4000/play/a01t/index.m3u8
 
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/jjr599mh/TLNORD.jpg" tvg-name="TELENORD"  group-title="TV CULTURAL",TELENORD 10
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/jjr599mh/TLNORD.jpg" tvg-name="TELENORD"  group-title="TV CULTURAL",TELENORD 12
-
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/MpBH9xPT/RNN.png" tvg-name="CANALRNN"  group-title="TV CULTURAL",CANAL RNN
-
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
 
 
@@ -804,13 +806,15 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:0,tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2015/11/World-TV-Day.jpg" group-title="TV MUNDIAL",---TV MUNDIAL---
 
 
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1900214835/estrellatv_400x400.jpg" tvg-name="ESTRELLATV"  group-title="TV MUNDIAL",ESTRELLA TV (USA)
 
+#EXTINF:-1,  tvg-logo="https://tentulogo.com/wp-content/uploads/bbc-logo-1988.jpg" tvg-name="BBCdrama"  group-title="TV MUNDIAL",BBC DRAMA (GBR)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,  tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/AmericaTeve-Logo-300x300.jpg" tvg-name="AMERICATEVE"  group-title="TV MUNDIAL",AMERICA TeVe (USA)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 #EXTINF:-1,  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" tvg-name="AFV"  group-title="TV MUNDIAL",AFV (USA)
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1900214835/estrellatv_400x400.jpg" tvg-name="ESTRELLATV"  group-title="TV MUNDIAL",ESTRELLA TV (USA)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/9zN1s6D.png" tvg-name="ELSUR"  group-title="TV MUNDIAL",TELE SUR Madrid (ESP)
 
 #EXTINF:-1,  tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" tvg-name="CANAL33"  group-title="TV MUNDIAL",CANAL 33 MADRID (ESP)
@@ -859,7 +863,7 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-super-tv-canal-55-4109.jpg" tvg-name="SUPERTV55"  group-title="TV MUNDIAL",SUPERTV55 (R DOM)
 
 #EXTINF:-1,  tvg-logo="https://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png" tvg-name="TVDELESTE"  group-title="TV MUNDIAL",TV DEL ESTE (R DOM)
-
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
 #EXTINF:-1,  tvg-logo="https://i.ytimg.com/vi/o1H0pIR9jFY/hqdefault.jpg" tvg-name="TELESISTEMA"  group-title="TV MUNDIAL",TELESISTEMA (R DOM)
 
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1086270000925736960/_3T-Vlgr.jpg" tvg-name="ROMANATV"  group-title="TV MUNDIAL",ROMANA TV (R DOM)
