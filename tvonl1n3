@@ -172,8 +172,8 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 http://200.24.204.242:6020/play/a0cr/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
-
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" tvg-name="LASESTRELLAS"  group-title="TV MEXICO",LAS ESTRELLAS LATAM
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" tvg-name="CANAL5"  group-title="TV MEXICO",CANAL 5 XHGC
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" tvg-name="CANAL5"  group-title="TV MEXICO",CANAL 5 XHGC
@@ -196,14 +196,14 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1,  tvg-logo="http://img-youpeliculas.com/images/2014/07/15/forotv.png" tvg-name="FOROTV"  group-title="TV MEXICO",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" tvg-name="TVONCE"  group-title="TV MEXICO",TV ONCE
-
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" tvg-name="TVONCE"  group-title="TV MEXICO",TV ONCE INTERNACIONAL
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" tvg-name="TVONCE"  group-title="TV MEXICO",ONCE TV
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" tvg-name="TVONCE"  group-title="TV MEXICO",ONCE TV INTERNACIONAL
 
 #EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" tvg-name="ADN40"  group-title="TV MEXICO",ADN 40
-
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,  tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" tvg-name="MVSTV"  group-title="TV MEXICO",MVS TV
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" tvg-name="CANAL22"  group-title="TV MEXICO",CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" tvg-name="CANAL22"  group-title="TV MEXICO",CANAL 22 2
@@ -232,6 +232,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1,  tvg-logo="https://cdn-radiotime-logos.tunein.com/s90977g.png" tvg-name="CORTV"  group-title="TV MEXICO",CORTV OAXACA
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+
 #EXTINF:-1,  tvg-logo="https://s5.postimg.cc/r4t6j9yon/tvcuatro1.png" tvg-name="CUATROUNO"  group-title="TV MEXICO",TV Cuatro 4.1 Gto
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://s5.postimg.cc/tywbwrql3/tvcuatro2.png" tvg-name="CUATRODOS"  group-title="TV MEXICO",TV Cuatro 4.2 Gto
