@@ -259,6 +259,8 @@ http://51.222.110.182:8000/play/a010
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1,  tvg-name="24HORAS+"  tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NOTICIAS",+24 Hrs
 
+#EXTINF:-1,  tvg-name="ELPAISTV"  tvg-logo="https://www.prisanoticias.com/uploads/imagenes/noticias/principal/201302/principal-el-pais-tv-es_med.png" group-title="NOTICIAS",EL PAIS TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1,  tvg-name="RTSpanish"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT Spanish
 
 #EXTINF:-1,  tvg-name="CGTN"  tvg-logo="https://i.postimg.cc/bN26s9Gz/cgtn.png" group-title="NOTICIAS",CGTN
@@ -564,51 +566,43 @@ http://45.228.234.193:16000/play/a0bx/index.m3u8
 #EXTINF:0,tvg-logo="http://goodnews.church/wp-content/uploads/2018/02/Kids-Check-in-Background.jpg" group-title="TV INFANTIL",---TV INFANTIL---
 
 
-#EXTINF:-1,  tvg-logo="https://i.dlpng.com/static/png/7046265_preview.png" tvg-name="ELCHAVO"  group-title="TV INFANTIL",CSTV EL CHAVO
+#EXTINF:-1,  tvg-name="ELCHAVO"  tvg-logo="https://i.dlpng.com/static/png/7046265_preview.png" group-title="TV INFANTIL",CSTV EL CHAVO
 
-#EXTINF:-1,  tvg-logo="https://img00.deviantart.net/09ba/i/2008/339/d/f/locomotion_by_minino.png" tvg-name="LOCOMOTION"  group-title="TV INFANTIL",LOCOMOTION TV
+#EXTINF:-1,  tvg-name="LOCOMOTION"  tvg-logo="https://img00.deviantart.net/09ba/i/2008/339/d/f/locomotion_by_minino.png" group-title="TV INFANTIL",LOCOMOTION TV
 
-#EXTINF:-1,  tvg-logo="https://i.dlpng.com/static/png/7046265_preview.png" tvg-name="LOSSIMPSON"  group-title="TV INFANTIL",CSTV LOS SIMPSON
+#EXTINF:-1,  tvg-name="CACHIPUM"  tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="TV INFANTIL",CACHIPUM TV
 
-#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/coloured-cloud-server-logo-4217C4D34D-seeklogo.com.png" tvg-name="CLOUDSERVER"  group-title="TV INFANTIL",CLOUDSERVER KIDS
-
-#EXTINF:-1,  tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" tvg-name="CACHIPUM"  group-title="TV INFANTIL",CACHIPUM TV
-
-#EXTINF:-1,  tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" tvg-name="CACHIPUM"  group-title="TV INFANTIL",CACHIPUM TV SERIES
-
-#EXTINF:-1,  tvg-logo="https://www.lagovista.lib.tx.us/site-assets/images/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBSKIDS"  group-title="TV INFANTIL",PBS KIDS
+#EXTINF:-1,  tvg-name="PBSKIDS"  tvg-logo="https://www.lagovista.lib.tx.us/site-assets/images/PBS%20Kids.jpg/@@images/image.jpeg" group-title="TV INFANTIL",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" tvg-name="IPECANAL"  group-title="TV INFANTIL",IPE CHICOS
+#EXTINF:-1,  tvg-name="IPECANAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="TV INFANTIL",IPE CHICOS
 
-#EXTINF:-1,  tvg-logo="https://i2.wp.com/www.tvenserio.com/wp-content/uploads/2020/12/knadetv_01-1.png" tvg-name="KDETV"  group-title="TV INFANTIL",KANADE TV
-
-#EXTINF:-1,  tvg-logo="https://www.clusteraudiovisualgalego.com/2018_img/tvg-logo.jpg" tvg-name="TVGINFANTIL"  group-title="TV INFANTIL",TVG INFANTIL
+#EXTINF:-1,  tvg-name="TVGINFANTIL"  tvg-logo="https://www.clusteraudiovisualgalego.com/2018_img/tvg-logo.jpg" group-title="TV INFANTIL",TVG INFANTIL
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/boing_logo_500_nuevo_-2_c605.png" tvg-name="BOING"  group-title="TV INFANTIL",BOING TV
+#EXTINF:-1,  tvg-name="BOING"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/boing_logo_500_nuevo_-2_c605.png" group-title="TV INFANTIL",BOING TV
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" tvg-name="PAKAPAKA"  group-title="TV INFANTIL",PAKA PAKA
+#EXTINF:-1,  tvg-name="PAKAPAKA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="TV INFANTIL",PAKA PAKA
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" tvg-name="PAKAPAKA"  group-title="TV INFANTIL",PAKA PAKA Opc2
+#EXTINF:-1,  tvg-name="DISCOVERYKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" group-title="TV INFANTIL",DISCOVERY KIDS 
 
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" tvg-name="DISCOVERYKIDS"  group-title="TV INFANTIL",DISCOVERY KIDS 
+#EXTINF:-1,  tvg-name="NATGEOKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png" group-title="TV INFANTIL",NATGEO KIDS
 
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png" tvg-name="DISNEYCHANNEL"  group-title="TV INFANTIL",DISNEY CHANNEL 
+#EXTINF:-1,  tvg-name="DISNEYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png" group-title="TV INFANTIL",DISNEY CHANNEL 
 http://45.5.119.146:4000/play/a04r/index.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png" tvg-name="DISNEYXD"  group-title="TV INFANTIL",DISNEY XD
+#EXTINF:-1,  tvg-name="DISNEYXD"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png" group-title="TV INFANTIL",DISNEY XD
 
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png" tvg-name="DISNEYJUNIOR"  group-title="TV INFANTIL",DISNEY JUNIOR
+#EXTINF:-1,  tvg-name="DISNEYJUNIOR"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png" group-title="TV INFANTIL",DISNEY JUNIOR
 http://45.5.119.146:4000/play/a010/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1200px-Cartoon_Network_2004_logo.svg.png" tvg-name="CN"  group-title="TV INFANTIL",CARTOON NETWORKS
-http://45.5.119.146:4000/play/a00x/index.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" tvg-name="NICKTOONS"  group-title="TV INFANTIL",NICKELODEON
+#EXTINF:-1,  tvg-name="CARTOONNT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1200px-Cartoon_Network_2004_logo.svg.png" group-title="TV INFANTIL",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,  tvg-name="CARTOONITO"  tvg-logo="https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo.png" group-title="TV INFANTIL",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1,  tvg-name="NICKTOONS"  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" group-title="TV INFANTIL",NICKELODEON
 
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" tvg-name="NICKJR"  group-title="TV INFANTIL",NICKJR
+#EXTINF:-1,  tvg-name="NICKJR"  tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" group-title="TV INFANTIL",NICKJR
 
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ZOOMOO.png" tvg-name="ZOOMOO"  group-title="TV INFANTIL",BOOMERANG TV
+#EXTINF:-1,  tvg-name="BOOMERANG"  tvg-logo="https://cablego.com.pe/cache/logos/ZOOMOO.png" group-title="TV INFANTIL",BOOMERANG TV
 
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" tvg-name="TOONCAST"  group-title="TV INFANTIL",TOONCAST
-
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png" tvg-name="NATGEOKIDS"  group-title="TV INFANTIL",NATGEO KIDS
+#EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" group-title="TV INFANTIL",TOONCAST
 
 
 
@@ -692,153 +686,142 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
 
 
-#EXTINF:-1,  tvg-logo="https://tentulogo.com/wp-content/uploads/bbc-logo-1988.jpg" tvg-name="BBCdrama"  group-title="TV MUNDIAL",BBC DRAMA (GBR)
+#EXTINF:-1,  tvg-name="BBCdrama"  tvg-logo="https://tentulogo.com/wp-content/uploads/bbc-logo-1988.jpg" group-title="TV MUNDIAL",BBC DRAMA (GBR)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,  tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/AmericaTeve-Logo-300x300.jpg" tvg-name="AMERICATEVE"  group-title="TV MUNDIAL",AMERICA TeVe (USA)
+#EXTINF:-1,  tvg-name="AMERICATEVE"  tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/AmericaTeve-Logo-300x300.jpg" group-title="TV MUNDIAL",AMERICA TeVe (USA)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:-1,  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" tvg-name="AFV"  group-title="TV MUNDIAL",AFV (USA)
+#EXTINF:-1,  tvg-name="AFV"  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="TV MUNDIAL",AFV (USA)
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1900214835/estrellatv_400x400.jpg" tvg-name="ESTRELLATV"  group-title="TV MUNDIAL",ESTRELLA TV (USA)
+#EXTINF:-1,  tvg-name="ESTRELLATV"  tvg-logo="https://pbs.twimg.com/profile_images/1900214835/estrellatv_400x400.jpg" group-title="TV MUNDIAL",ESTRELLA TV (USA)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/9zN1s6D.png" tvg-name="ELSUR"  group-title="TV MUNDIAL",TELE SUR Madrid (ESP)
 
-#EXTINF:-1,  tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" tvg-name="CANAL33"  group-title="TV MUNDIAL",CANAL 33 MADRID (ESP)
+#EXTINF:-1,  tvg-name="CANAL33MADRID"  tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="TV MUNDIAL",CANAL 33 MADRID (ESP)
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" tvg-name="TVE"  group-title="TV MUNDIAL",TVE (ESP)
+#EXTINF:-1,  tvg-name="TVE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="TV MUNDIAL",TVE (ESP)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" tvg-name="A3SERIES"  group-title="TV MUNDIAL",A3SERIES (ESP)
+#EXTINF:-1,  tvg-name="A3SERIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV MUNDIAL",A3SERIES (ESP)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" tvg-name="A3SERIES"  group-title="TV MUNDIAL",A3CINE (ESP)
+#EXTINF:-1,  tvg-name="ANTENA3"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" group-title="TV MUNDIAL",ANTENA 3 (ESP)
 
-#EXTINF:-1,  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" tvg-name="ANTENA3"  group-title="TV MUNDIAL",ANTENA 3 (ESP)
+#EXTINF:-1,  tvg-name="LA1"  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV MUNDIAL",LA 1 (ESP)
 
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="LA1"  group-title="TV MUNDIAL",LA 1 (ESP)
+#EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV MUNDIAL",LA 2 (ESP)
 
-#EXTINF:-1,  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="LA2"  group-title="TV MUNDIAL",LA 2 (ESP)
+#EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV MUNDIAL",CUATRO (ESP)
 
-#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" tvg-name="CUATRO"  group-title="TV MUNDIAL",CUATRO (ESP)
+#EXTINF:-1,  tvg-name="TELECINCO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="TV MUNDIAL",TELECINCO (ESP)
 
-#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" tvg-name="TELECINCO"  group-title="TV MUNDIAL",TELECINCO (ESP)
+#EXTINF:-1,  tvg-name="LASEXTA"  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TV MUNDIAL",LA SEXTA (ESP)
 
-#EXTINF:-1,  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" tvg-name="LASEXTA"  group-title="TV MUNDIAL",LA SEXTA (ESP)
+#EXTINF:-1,  tvg-name="NOVA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" group-title="TV MUNDIAL",NOVA (ESP)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" tvg-name="NOVA"  group-title="TV MUNDIAL",NOVA (ESP)
+#EXTINF:-1,  tvg-name="NEOX"  tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/ver-Neox-online-o-en-android.jpg" group-title="TV MUNDIAL",NEOX (ESP)
 
-#EXTINF:-1,  tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/ver-Neox-online-o-en-android.jpg" tvg-name="NEOX"  group-title="TV MUNDIAL",NEOX (ESP)
+#EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" group-title="TV MUNDIAL",MEGA (ESP)
 
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" tvg-name="MEGA"  group-title="TV MUNDIAL",MEGA (ESP)
+#EXTINF:-1,  tvg-name="ENERGY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV MUNDIAL",ENERGY (ESP)
 
-#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" tvg-name="ENERGY"  group-title="TV MUNDIAL",ENERGY (ESP)
+#EXTINF:-1,  tvg-name="FDF"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TV MUNDIAL",FDF (ESP)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" tvg-name="FDF"  group-title="TV MUNDIAL",FDF (ESP)
+#EXTINF:-1,  tvg-name="DIVINITY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TV MUNDIAL",DIVINITY (ESP)
 
-#EXTINF:-1,  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" tvg-name="DIVINITY"  group-title="TV MUNDIAL",DIVINITY (ESP)
-
-#EXTINF:-1,  tvg-logo="https://www.albafores.com/wp-content/uploads/2019/06/betev%C3%A9-Logo.jpg" tvg-name="BETEVE"  group-title="TV MUNDIAL",BETEVE (ESP)
+#EXTINF:-1,  tvg-name="BETEVE"  tvg-logo="https://www.albafores.com/wp-content/uploads/2019/06/betev%C3%A9-Logo.jpg" group-title="TV MUNDIAL",BETEVE (ESP)
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
-#EXTINF:-1,  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" tvg-name="eitb"  group-title="TV MUNDIAL",eitb (ESP)
+#EXTINF:-1,  tvg-name="eitb"  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" group-title="TV MUNDIAL",eitb (ESP)
 
-#EXTINF:-1,  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" tvg-name="TVG"  group-title="TV MUNDIAL",TV-G (ESP)
+#EXTINF:-1,  tvg-name="TVG"  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" group-title="TV MUNDIAL",TV-G (ESP)
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
-#EXTINF:-1,  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" tvg-name="TVG"  group-title="TV MUNDIAL",TV-G AMERICA (ESP)
+#EXTINF:-1,  tvg-name="TVGamerica"  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" group-title="TV MUNDIAL",TV-G AMERICA (ESP)
 http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 
-#EXTINF:-1,  tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/Telecanal-28.png" tvg-name="TELECANAL28"  group-title="TV MUNDIAL",TELECANAL 28 (R DOM)
+#EXTINF:-1,  tvg-name="TELECANAL28"  tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/Telecanal-28.png" group-title="TV MUNDIAL",TELECANAL 28 (R DOM)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-super-tv-canal-55-4109.jpg" tvg-name="SUPERTV55"  group-title="TV MUNDIAL",SUPERTV55 (R DOM)
+#EXTINF:-1,  tvg-name="SUPERTV55"  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-super-tv-canal-55-4109.jpg" group-title="TV MUNDIAL",SUPERTV55 (R DOM)
 
-#EXTINF:-1,  tvg-logo="https://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png" tvg-name="TVDELESTE"  group-title="TV MUNDIAL",TV DEL ESTE (R DOM)
+#EXTINF:-1,  tvg-name="TVDELESTE"  tvg-logo="https://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png" group-title="TV MUNDIAL",TV DEL ESTE (R DOM)
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
-#EXTINF:-1,  tvg-logo="https://i.ytimg.com/vi/o1H0pIR9jFY/hqdefault.jpg" tvg-name="TELESISTEMA"  group-title="TV MUNDIAL",TELESISTEMA (R DOM)
+#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.ytimg.com/vi/o1H0pIR9jFY/hqdefault.jpg" group-title="TV MUNDIAL",TELESISTEMA (R DOM)
 
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/1086270000925736960/_3T-Vlgr.jpg" tvg-name="ROMANATV"  group-title="TV MUNDIAL",ROMANA TV (R DOM)
+#EXTINF:-1,  tvg-name="ROMANATV"  tvg-logo="https://pbs.twimg.com/profile_images/1086270000925736960/_3T-Vlgr.jpg" group-title="TV MUNDIAL",ROMANA TV (R DOM)
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1,  tvg-name="READYTV"  tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="TV MUNDIAL",READY TV (R DOM)
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" tvg-name="READYTV"  group-title="TV MUNDIAL",READY TV (R DOM)
-
-#EXTINF:-1,  tvg-logo="https://canalstv.com/images/logos/Logo-Canal-STV-Amarillo.png" tvg-name="STV"  group-title="TV MUNDIAL",STV (C RICA)
+#EXTINF:-1,  tvg-name="STV"  tvg-logo="https://canalstv.com/images/logos/Logo-Canal-STV-Amarillo.png" group-title="TV MUNDIAL",STV (C RICA)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" tvg-name="TELEUNOTV"  group-title="TV MUNDIAL",TELEUNO TV (C RICA)
+#EXTINF:-1,  tvg-name="TELEUNOTV"  tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" group-title="TV MUNDIAL",TELEUNO TV (C RICA)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" tvg-name="TELERED"  group-title="TV MUNDIAL",TELERED (C RICA)
+#EXTINF:-1,  tvg-name="TELEsistema"  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" group-title="TV MUNDIAL",TELESISTEMA (C RICA)
 http://k4.usastreams.com/ARBtv/teleplus/.m3u8
-#EXTINF:-1,  tvg-logo="https://i.ytimg.com/vi/o1H0pIR9jFY/hqdefault.jpg" tvg-name="TELESISTEMA"  group-title="TV MUNDIAL",TELESISTEMA (C RICA)
+#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.ytimg.com/vi/o1H0pIR9jFY/hqdefault.jpg" group-title="TV MUNDIAL",TELESISTEMA (C RICA)
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
-#EXTINF:-1,  tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" tvg-name="TELESUR"  group-title="TV MUNDIAL",TELESUR (C RICA)
+#EXTINF:-1,  tvg-name="TELESUR"  tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="TV MUNDIAL",TELESUR (C RICA)
 
-#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/T/teletica-logo-7AD01613AD-seeklogo.com.png" tvg-name="TELETICA"  group-title="TV MUNDIAL",TELETICA (C RICA)
+#EXTINF:-1,  tvg-name="TELETICA"  tvg-logo="https://seeklogo.com/images/T/teletica-logo-7AD01613AD-seeklogo.com.png" group-title="TV MUNDIAL",TELETICA (C RICA)
 
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/mmj1BUK.png" tvg-name="TICAVISION"  group-title="TV MUNDIAL",TICAVISION (C RICA)
+#EXTINF:-1,  tvg-name="TICAVISION"  tvg-logo="https://i.imgur.com/mmj1BUK.png" group-title="TV MUNDIAL",TICAVISION (C RICA)
 
-#EXTINF:-1,  tvg-logo="https://television-live.com/uploads/posts/2019-06/1560762555_repretel.png" tvg-name="REPRETEL"  group-title="TV MUNDIAL",REPRETEL (C RICA)
+#EXTINF:-1,  tvg-name="REPRETEL"  tvg-logo="https://television-live.com/uploads/posts/2019-06/1560762555_repretel.png" group-title="TV MUNDIAL",REPRETEL (C RICA)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" tvg-name="CANAL8MULTIMEDIOS"  group-title="TV MUNDIAL",CANAL 8 MULTIMEDIOS (C RICA)
+#EXTINF:-1,  tvg-name="CANAL8multimedios"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="TV MUNDIAL",CANAL 8 MULTIMEDIOS (C RICA)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/TCS_2_2016.png" tvg-name="CANAL2"  group-title="TV MUNDIAL",CANAL 2 (ESA)
+#EXTINF:-1,  tvg-name="GMEGAVISION"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Grupo_Megavisi%C3%B3n_%282018%29.svg" group-title="TV MUNDIAL",GRUPO MEGAVISION (ESA)
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:-1,  tvg-name="CANAL2ESA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/TCS_2_2016.png" group-title="TV MUNDIAL",CANAL 2 (ESA)
 http://45.5.118.213:16000/play/a0mn/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" tvg-name="CANAL4"  group-title="TV MUNDIAL",CANAL 4 (ESA)
+#EXTINF:-1,  tvg-name="CANAL4ESA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="TV MUNDIAL",CANAL 4 (ESA)
 http://45.5.118.213:16000/play/a0mm/index.m3u8
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg" tvg-name="CANAL6"  group-title="TV MUNDIAL",CANAL 6 (ESA)
+#EXTINF:-1,  tvg-name="CANAL6ESA"  tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg" group-title="TV MUNDIAL",CANAL 6 (ESA)
 http://45.5.118.213:16000/play/a0kb/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVES_Canal_10.png/1200px-TVES_Canal_10.png" tvg-name="CANAL10"  group-title="TV MUNDIAL",CANAL 10 (ESA)
+#EXTINF:-1,  tvg-name="CANAL10ESA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVES_Canal_10.png/1200px-TVES_Canal_10.png" group-title="TV MUNDIAL",CANAL 10 (ESA)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" tvg-name="AZTECAGuate"  group-title="TV MUNDIAL",AZTECAGuate (GUA)
+#EXTINF:-1,  tvg-name="AZTECAGuate"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" group-title="TV MUNDIAL",AZTECAGuate (GUA)
 http://190.122.96.187:8888/http/002
-#EXTINF:-1,  tvg-logo="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png" tvg-name="GUATEVISION"  group-title="TV MUNDIAL",CANAL 3 (GUA)
+#EXTINF:-1,  tvg-name="GUATEVISION"  tvg-logo="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png" group-title="TV MUNDIAL",CANAL 3 (GUA)
 http://45.228.234.193:16000/play/a0dn/index.m3u8
-#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" tvg-name="CANAL5"  group-title="TV MUNDIAL",CANAL 5 (HON)
+#EXTINF:-1,  tvg-name="CANAL5HON"  tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="TV MUNDIAL",CANAL 5 (HON)
 http://45.5.118.213:16000/play/a0mo/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png" tvg-name="CANAL11"  group-title="TV MUNDIAL",CANAL 11 (HON)
+#EXTINF:-1,  tvg-name="CANAL11HON"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png" group-title="TV MUNDIAL",CANAL 11 (HON)
 http://45.5.118.213:16000/play/a0lg/index.m3u8
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/800px-Telecadena7y42018.png" tvg-name="TELECADENA"  group-title="TV MUNDIAL",TELECADENA (HON)
+#EXTINF:-1,  tvg-name="TELECADENA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/800px-Telecadena7y42018.png" group-title="TV MUNDIAL",TELECADENA (HON)
 
-#EXTINF:-1,  tvg-logo="https://d1mm7fnxb6z2bq.cloudfront.net/static/meatme/images/ventas-corporativas/canal13.png" tvg-name="TV13"  group-title="TV MUNDIAL",TV 13 (CHILE)
+#EXTINF:-1,  tvg-name="TV13"  tvg-logo="https://d1mm7fnxb6z2bq.cloudfront.net/static/meatme/images/ventas-corporativas/canal13.png" group-title="TV MUNDIAL",TV 13 (CHILE)
 
-#EXTINF:-1,  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/51/LogoMega2015.png" tvg-name="MEGAVISION"  group-title="TV MUNDIAL",MEGA MUNDIAL (CHILE)
-
-#EXTINF:-1,  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" tvg-name="CHILEVISION"  group-title="TV MUNDIAL",CHILEVISION (CHILE)
+#EXTINF:-1,  tvg-name="CHILEVISION"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION (CHILE)
 
 
-#EXTINF:-1,  tvg-logo="http://revistafibra.info/wp-content/uploads/2015/04/telefe-logo.jpg" tvg-name="TELEFE"  group-title="TV MUNDIAL",TELEFE (ARG)
+#EXTINF:-1,  tvg-name="TELEFE"  tvg-logo="http://revistafibra.info/wp-content/uploads/2015/04/telefe-logo.jpg" group-title="TV MUNDIAL",TELEFE (ARG)
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" tvg-name="TLX"  group-title="TV MUNDIAL",TLX TELEMAX (ARG)
+#EXTINF:-1,  tvg-name="TLX"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="TV MUNDIAL",TLX TELEMAX (ARG)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-#EXTINF:-1,  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" tvg-name="MULTIVISION"  group-title="TV MUNDIAL",CANAL 9 MULTIVISION (ARG)
+#EXTINF:-1,  tvg-name="MULTIVISION"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="TV MUNDIAL",MULTIVISION (ARG)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1,  tvg-name="GARAGETV"  tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" group-title="TV MUNDIAL",GARAGE TV (ARG)
 
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" tvg-name="GARAGETV"  group-title="TV MUNDIAL",GARAGE TV (ARG)
-
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" tvg-name="13RIOJA"  group-title="TV MUNDIAL",13 RIOJA (ARG)
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/R0Phmrmt/cnl3pnmr.png" tvg-name="PINAMAR"  group-title="TV MUNDIAL",CANAL 3 PINAMAR (ARG)
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/MpTgLg9N/cnl4jjy.png" tvg-name="JUJUY"  group-title="TV MUNDIAL",CANAL 4 JUJUY (ARG)
+#EXTINF:-1,  tvg-name="4JUJUY"  tvg-logo="https://i.postimg.cc/MpTgLg9N/cnl4jjy.png" group-title="TV MUNDIAL",CANAL 4 JUJUY (ARG)
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
 
-#EXTINF:-1,  tvg-logo="https://www.agenciapi.co/sites/default/files/2018-11/Canal-RCN.jpg" tvg-name="RCN"  group-title="TV MUNDIAL",RCN (COL)
+#EXTINF:-1,  tvg-name="RCN"  tvg-logo="https://www.agenciapi.co/sites/default/files/2018-11/Canal-RCN.jpg" group-title="TV MUNDIAL",RCN (COL)
 
-#EXTINF:-1,  tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" tvg-name="NORTEvision"  group-title="TV MUNDIAL",NORTEvision (COL)
+#EXTINF:-1,  tvg-name="NORTEvision"  tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="TV MUNDIAL",NORTEvision (COL)
 
-#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/canales/telecaribe-3307.jpg" tvg-name="TELECARIBE"  group-title="TV MUNDIAL",TELECARIBE (COL)
+#EXTINF:-1,  tvg-name="TELECARIBE"  tvg-logo="https://cdn.colombia.com/canales/telecaribe-3307.jpg" group-title="TV MUNDIAL",TELECARIBE (COL)
 
-#EXTINF:-1,  tvg-logo="https://cdn.colombia.com/canales/telecaribe-3307.jpg" tvg-name="TELECARIBE"  group-title="TV MUNDIAL",TELECARIBE (COL)
+#EXTINF:-1,  tvg-name="CALITV"  tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg" group-title="TV MUNDIAL",CALI TV (COL)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" tvg-name="MUNDOMAS"  group-title="TV MUNDIAL",M+ (COL)
-
-#EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg" tvg-name="CALITV"  group-title="TV MUNDIAL",CALI TV (COL)
-
-
-#EXTINF:-1,  tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg" tvg-name="AMERICATV"  group-title="TV MUNDIAL",AMERICA TV (PERU)
+#EXTINF:-1,  tvg-name="AMERICATV"  tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg" group-title="TV MUNDIAL",AMERICA TV (PERU)
 http://51.222.110.182:8000/play/a002
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/BnZYzpQk/panamtvperu.png" tvg-name="PANAMERICANA"  group-title="TV MUNDIAL",PANAMERICANA (PERU)
+#EXTINF:-1,  tvg-name="PANAMERICANA"  tvg-logo="https://i.postimg.cc/BnZYzpQk/panamtvperu.png" group-title="TV MUNDIAL",PANAMERICANA (PERU)
 http://51.222.110.182:8000/play/a003
-#EXTINF:-1,  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-unitel-peru-en-vivo-271x190.jpg" tvg-name="UNITEL"  group-title="TV MUNDIAL",UNITEL (PERU)
+#EXTINF:-1,  tvg-name="UNITEL"  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-unitel-peru-en-vivo-271x190.jpg" group-title="TV MUNDIAL",UNITEL (PERU)
 
-#EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" tvg-name="BHTV"  group-title="TV MUNDIAL",BHTV (PERU)
+#EXTINF:-1,  tvg-name="BHTV"  tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="TV MUNDIAL",BHTV (PERU)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-9OnzkLIqbRg/X_8A2O02BQI/AAAAAAAA9KE/vZQJmbJy3aIZF2qQq9pgWxgqDhjkj5CqACK8BGAsYHg/s0/2021-01-13.png" tvg-name="INKAVISION"  group-title="TV MUNDIAL",INKAVISION (PERU)
+#EXTINF:-1,  tvg-name="INKAVISION"  tvg-logo="https://lh3.googleusercontent.com/-9OnzkLIqbRg/X_8A2O02BQI/AAAAAAAA9KE/vZQJmbJy3aIZF2qQq9pgWxgqDhjkj5CqACK8BGAsYHg/s0/2021-01-13.png" group-title="TV MUNDIAL",INKAVISION (PERU)
 
-#EXTINF:-1,  tvg-logo="https://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" tvg-name="UNICANAL"  group-title="TV MUNDIAL",TELEFUTURO (PAR)
+#EXTINF:-1,  tvg-name="TELEFUTURO"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="TV MUNDIAL",TELEFUTURO (PAR)
 
-#EXTINF:-1,  tvg-logo="https://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" tvg-name="UNICANAL"  group-title="TV MUNDIAL",UNICANAL (PAR)
+#EXTINF:-1,  tvg-name="UNICANAL"  tvg-logo="https://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" group-title="TV MUNDIAL",UNICANAL (PAR)
 
 
 
@@ -847,191 +830,157 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",LOS LOCOS ADDAMS
+#EXTINF:-1,  tvg-name="PTVLocosAddams"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS LOCOS ADDAMS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50615
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PIXAR
+#EXTINF:-1,  tvg-name="PTVDisneyPixar"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PIXAR
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50579
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",EL PAJARO LOCO
+#EXTINF:-1,  tvg-name="PTVPajaroLoco"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL PAJARO LOCO
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58086
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",LA PANTERA ROSA
+#EXTINF:-1,  tvg-name="PTVPanteraRosa"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LA PANTERA ROSA
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24674.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",LOS PICAPIEDRA
+#EXTINF:-1,  tvg-name="PTVPicapiedra"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS PICAPIEDRA
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24494.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",CORAJE EL PERRO COBARDE
+#EXTINF:-1,  tvg-name="PTVCorajePerro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CORAJE EL PERRO COBARDE
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24603.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ANIME KIDS
+#EXTINF:-1,  tvg-name="PTVAnimeKids"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIME KIDS
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV BOB ESPONJA
+#EXTINF:-1,  tvg-name="PTVBobEsponja"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV BOB ESPONJA
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV PADRINOS MAGICOS
+#EXTINF:-1,  tvg-name="PTVPadrinosMagicos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV PADRINOS MAGICOS
 https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",EL MUNDO DE BEAKMAN
+#EXTINF:-1,  tvg-name="PTVBeakman"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL MUNDO DE BEAKMAN
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26537.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",EL LABORATORIO DE DEXTER
+#EXTINF:-1,  tvg-name="PTVDexter"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL LABORATORIO DE DEXTER
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24605.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",LOS SIMPSON 1-5
+#EXTINF:-1,  tvg-name="PTVSimpson1-5"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS SIMPSON 1-5
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24661.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",LOS SIMPSON 6-10
+#EXTINF:-1,  tvg-name="PTVSimpson6-10"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS SIMPSON 6-10
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102338.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",FUTURAMA
+#EXTINF:-1,  tvg-name="PTVFuturama"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",FUTURAMA
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24618.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ANIME CLASICO
+#EXTINF:-1,  tvg-name="PTVAnimeClasico"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIME CLASICO
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ANIME ACCION
+#EXTINF:-1,  tvg-name="PTVAnimeAccion"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIME ACCION
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV TOONS CLASICO
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV RETRO CARTOONS
+#EXTINF:-1,  tvg-name="PTVRetroCartoons"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV RETRO CARTOONS
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV DARIA
+#EXTINF:-1,  tvg-name="PTVDaria"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV DARIA
 https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV SOUTH PARK
+#EXTINF:-1,  tvg-name="PTVSouthPark"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SOUTH PARK
 https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV SERIES
+#EXTINF:-1,  tvg-name="PTVSeries"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV SERIES RETRO 
+#EXTINF:-1,  tvg-name="PTVRetro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES RETRO 
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV SERIES LATINAS
+#EXTINF:-1,  tvg-name="PTVLatinas"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES LATINAS
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV HECHIZADA
+#EXTINF:-1,  tvg-name="PTVHechizada"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HECHIZADA
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",EL AUTO INCREIBLE
+#EXTINF:-1,  tvg-name="PTVAutoIncreible"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL AUTO INCREIBLE
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/91990
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MAC GYVER
+#EXTINF:-1,  tvg-name="PTVMacGyver"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MAC GYVER
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",LA ROSA DE GUADALUPE
+#EXTINF:-1,  tvg-name="PTVRosaGuadalupe"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LA ROSA DE GUADALUPE
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309882.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",FAMILIA PELUCHE
+#EXTINF:-1,  tvg-name="PTVFamiliaPeluche"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",FAMILIA PELUCHE
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/327730.ts
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV COMEDY CENTRAL
+#EXTINF:-1,  tvg-name="PTVComedyCentral"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COMEDY CENTRAL
 https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MTV DRAG
-https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MTV RIDICULOUSNESS
+#EXTINF:-1,  tvg-name="PTVRidiculousness"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MTV RIDICULOUSNESS
 https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV FAILARMY
+#EXTINF:-1,  tvg-name="PTVFailArmy"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV FAILARMY
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV HUMOR
+#EXTINF:-1,  tvg-name="PTVHumor"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HUMOR
 https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV COMPETENCIAS
+#EXTINF:-1,  tvg-name="PTVCompetencias"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COMPETENCIAS
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV RECETAS
+#EXTINF:-1,  tvg-name="PTVRecetas"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV RECETAS
 https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV HOGAR 
+#EXTINF:-1,  tvg-name="PTVHogar"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HOGAR 
 https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV COCINA
+#EXTINF:-1,  tvg-name="PTVCocina"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COCINA
 https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV IRONCHEF
+#EXTINF:-1,  tvg-name="PTVIronchef"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV IRONCHEF
 https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MASTERCHEF
+#EXTINF:-1,  tvg-name="PTVMasterchef"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MASTERCHEF
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV REALITY
+#EXTINF:-1,  tvg-name="PTVReality"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV REALITY
 https://i.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV COPS
+#EXTINF:-1,  tvg-name="PTVCops"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COPS
 https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV CSI MIAMI
+#EXTINF:-1,  tvg-name="PTVCSIMiami"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CSI MIAMI
 https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV NCIS
+#EXTINF:-1,  tvg-name="PTVNCIS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NCIS
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",FBI T1
+#EXTINF:-1,  tvg-name="PTVFBI"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",FBI T1
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36595.ts
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",MENTES CRIMINALES
+#EXTINF:-1,  tvg-name="PTVCriminalMinds"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",MENTES CRIMINALES
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101937.ts
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV WALKING DEAD
+#EXTINF:-1,  tvg-name="PTVWalkingDead"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV WALKING DEAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV CUENTOS DE GREEN 
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MI OBSESION FAVORITA
+#EXTINF:-1,  tvg-name="PTVObsesion"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MI OBSESION FAVORITA
 https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV EMPEÑOS A LO BESTIA 
+#EXTINF:-1,  tvg-name="PTVEmpeños"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV EMPEÑOS A LO BESTIA 
 https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV DOG EL CAZARRECOMPENSAS 
+#EXTINF:-1,  tvg-name="PTVDog"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV DOG EL CAZARRECOMPENSAS 
 https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ASESINATOS DE MIDSOMER 
 
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV AVENTURA
+#EXTINF:-1,  tvg-name="PTVAventura"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV AVENTURA
 https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV PILOTOS DEL HIELO
+#EXTINF:-1,  tvg-name="PTVPilotosHielo"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV PILOTOS DEL HIELO
 https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV NATURALEZA
+#EXTINF:-1,  tvg-name="PTVNaturaleza"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NATURALEZA
 https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV PAISAJE POR STINGRAY
+#EXTINF:-1,  tvg-name="PTVPaisajes"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV PAISAJE POR STINGRAY
 https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ANIMALES
+#EXTINF:-1,  tvg-name="PTVAnimales"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIMALES
 https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV EL ENCANTADOR DE PERROS
+#EXTINF:-1,  tvg-name="PTVEncantador"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV EL ENCANTADOR DE PERROS
 https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV CIENCIA
+#EXTINF:-1,  tvg-name="PTVCiencia"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CIENCIA
 https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV DOCUMENTALES
+#EXTINF:-1,  tvg-name="PTVDocumentales"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV DOCUMENTALES
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",MAYDAY CATASTROFES AEREAS
+#EXTINF:-1,  tvg-name="PTVMayday"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",MAYDAY CATASTROFES AEREAS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49166
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV HISTORIA
+#EXTINF:-1,  tvg-name="PTVHistoria"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HISTORIA
 https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV CHANNEL SMITHSONIAN
+#EXTINF:-1,  tvg-name="PTVSmithsonian"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CHANNEL SMITHSONIAN
 https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV CAZADOR DE HOMICIDAS
+#EXTINF:-1,  tvg-name="PTVCazadorHomicidas"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CAZADOR DE HOMICIDAS
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV INVESTIGA
+#EXTINF:-1,  tvg-name="PTVInvestiga"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV INVESTIGA
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ARCHIVOS FORENSES
+#EXTINF:-1,  tvg-name="PTVArchivosForenses"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ARCHIVOS FORENSES
 https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ARCHIVOS FORENSES
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MISTERIOS SIN RESOLVER
+#EXTINF:-1,  tvg-name="PTVSinResolver"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MISTERIOS SIN RESOLVER
 https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ARCHIVOS DEL FBI
+#EXTINF:-1,  tvg-name="PTVFBI"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ARCHIVOS DEL FBI
 https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV ARCHIVOS DEL FBI 2
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV LOS NUEVOS DETECTIVES
+#EXTINF:-1,  tvg-name="PTVNuevosDetectives"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV LOS NUEVOS DETECTIVES
 https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV NOSEY CASOS
+#EXTINF:-1,  tvg-name="PTVNoseyCasos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NOSEY CASOS
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV NOSEY ESCANDALOS
+#EXTINF:-1,  tvg-name="PTVNoseyEscandalos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NOSEY ESCANDALOS
 https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MISTERIOS
+#EXTINF:-1,  tvg-name="PTVMisterio"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MISTERIOS
 https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MISTERIOS MEDICOS
+#EXTINF:-1,  tvg-name="PTVMedicos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MISTERIOS MEDICOS
 https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV HISTORIAS DE ULTRATUMBA
+#EXTINF:-1,  tvg-name="PTVUltratumba"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HISTORIAS DE ULTRATUMBA
 https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV PARANORMAL
 
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV SCI FI
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV VELOCIDAD
+#EXTINF:-1,  tvg-name="PTVvelocidad"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV VELOCIDAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MOTOR
+#EXTINF:-1,  tvg-name="PTVMotor"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MOTOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV MOTORVISION
+#EXTINF:-1,  tvg-name="PTVMotorvision"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MOTORVISION
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV TOP GEAR
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV DEPORTES
-https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV FUTBOL
-https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",PTV CONCIERTOS POR STINGRAY
-https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" tvg-name="PTV"  group-title="SERIES 24-7",
-
-
 
 
 
@@ -1146,53 +1095,19 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/48958.ts
 
 
 
-
-
 #EXTINF:0,tvg-logo="https://img.freepik.com/vector-gratis/poster-abstracto-grunge-musica-directo_1017-9864.jpg?size=338&ext=jpg" group-title="LIVE MUSIC",---LIVE MUSIC---
 
 
-#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",CONCIERTOS LIVE
+#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 1
 
-#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",LOS TIGRES DEL NORTE EN FOLSOM PRISON
+#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 2
 
-#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",YANNI IN LIVE Concert 2006
+#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 3
 
-#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",80s VIDEOMIX vol 1
+#EXTINF:-1,  tvg-name="VIDEOMIX80s"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",80s VIDEOMIX vol 1
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
-#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" tvg-name="LIVEMUSIC"  group-title="LIVE MUSIC",EURODANCE VIDEOMIX
+#EXTINF:-1,  tvg-name="EURODANCE"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",EURODANCE MIX
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 
 
-
-
-
-
-
-#EXTINF:0,tvg-logo="" group-title="MUSICAL",---MUSICAL---
-
-
-
-
-#EXTINF:-1,  tvg-logo="https://tvnewsoficial.files.wordpress.com/2013/12/hiper-tv-tvn.jpg" tvg-name="HIPERTV"  group-title="MUSICAL",HIPER TV
-http://inliveserver.com:1935/11010/11010/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-DyIuKRtpRK8/X2uZ3GpxnuI/AAAAAAAA50w/YmfriUDnYf0_mJ3yvWS7VWoUcbOXBfsygCK8BGAsYHg/s0/2020-09-23.jpg" tvg-name="INTERNATV"  group-title="MUSICAL",INTERNA TV
-
-#EXTINF:-1,  tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png" tvg-name="RETROTV"  group-title="MUSICAL",RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1,  tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" tvg-name="RETROPLUS"  group-title="MUSICAL",RETRO PLUS 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" tvg-name="RETROPLUS"  group-title="MUSICAL",RETRO PLUS 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" tvg-name="RETROPLUS"  group-title="MUSICAL",RETRO PLUS HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" tvg-name="MEGAMUNDIAL"  group-title="MUSICAL",MEGA MUNDIAL
-
-#EXTINF:-1,  tvg-logo="https://s5.postimg.cc/n9psgy7vr/logtlrm.png" tvg-name="TELERITMO"  group-title="MUSICAL",TELERITMO
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1,  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Top_Latino_TV.png/revision/latest/scale-to-width-down/240?cb=20180127154512" tvg-name="TOPLATINO"  group-title="MUSICAL",TOP LATINO
-
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" tvg-name="DJINGIBIZA"  group-title="MUSICAL",DJING IBIZA
-
-#EXTINF:-1,  tvg-logo="https://i.postimg.cc/c1gN9s5w/top-music.png" tvg-name="MUSICTOP"  group-title="MUSICAL",MUSIC TOP
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
