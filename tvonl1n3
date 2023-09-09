@@ -162,6 +162,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1,  tvg-name="CANALJUDICIAL"  tvg-logo="https://aldeasolutions.mx/api/data/image/get/c694c2a7-d98e-4ab9-935d-11f93bb12a6b.png" group-title="TV MEXICO",JUSTICIA TV
 
+#EXTINF:-1,  tvg-name="ANTENATV"  tvg-logo="https://radioenvivo.com.mx/uploads/img/antena-102-5-fm.jpg" group-title="TV MEXICO",ANTENA FM TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1,  tvg-name="TVLOBO"  tvg-logo="https://i.ytimg.com/vi/WEiad0o_-Jk/hqdefault.jpg" group-title="TV MEXICO",TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1,  tvg-name="CORTV"  tvg-logo="https://cdn-radiotime-logos.tunein.com/s90977g.png" group-title="TV MEXICO",CORTV OAXACA
@@ -188,7 +190,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,  tvg-name="10CANCUN"  tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="TV MEXICO",CANAL 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,  tvg-name="SIPSETV"  tvg-logo="https://corporativo.sipse.com/wp-content/uploads/revslider/corporativo-sipse/gsipse-logo-medium.png" group-title="TV MEXICO",SIPSE TV CANCUN
 
 
 
@@ -235,82 +236,6 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,  tvg-name="HISPANTV"  tvg-logo="https://media.cdnandroid.com/8d/f8/3a/c2/imagen-hispan-tv-movil-0thumb.jpeg" group-title="NOTICIAS",HISPAN TV
 https://live1.presstv.ir/live/hispan.m3u8
-
-
-
-
-
-
-#EXTINF:0,tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/56/64/retro-tv-logo-design-flat-icon-vector-8035664.jpg" group-title="TV RETRO",---TV RETRO---
-
-
-
-#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" group-title="TV RETRO",TELESISTEMA
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
-#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" group-title="TV RETRO",TELESISTEMA 2
-http://k4.usastreams.com/ARBtv/teleplus/.m3u8
-#EXTINF:-1,  tvg-name="TVUNO"  tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" group-title="TV RETRO",TV UNO
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1,  tvg-name="MICROVISION10"  tvg-logo="https://www.freeetv.com/images/03_logo/microvision_dr.jpg" group-title="TV RETRO",MICROVISION 10
-
-#EXTINF:-1,  tvg-name="WOW"  tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="TV RETRO",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1,  tvg-name="WOW"  tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="TV RETRO",WOW TV 2
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1,  tvg-name="ZEEMUNDO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg" group-title="TV RETRO",ZEEMUNDO
-
-#EXTINF:-1,  tvg-name="ORBITTV"  tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="TV RETRO",ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1,  tvg-name="ORBITTV"  tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="TV RETRO",ORBIT TV 2
-
-#EXTINF:-1,  tvg-name="MYTIME"  tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/11/Template_TVMobile_Thumbnail_1920x1080-Spain-Helen-Tzoutis-1-752x423.jpg" group-title="TV RETRO",MY TIME MOVIES
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,  tvg-name="MYTIMETV"  tvg-logo="https://www.uphf.fr/sites/default/files/images/actu2013-14/cine-club-logo-300-200.jpg" group-title="TV RETRO",MY TIME TV
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,  tvg-name="GEOVISION"  tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="TV RETRO",GEOVISION TV
-
-#EXTINF:-1,  tvg-name="READYTV6"  tvg-logo="https://i.imgur.com/JAeBFpP.png" group-title="TV RETRO",READY TV 6
-
-#EXTINF:-1,  tvg-name="RETROPLUS"  tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV RETRO",RETRO PLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1,  tvg-name="MITVCLASICA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ClasicoTV.jpg" group-title="TV RETRO",MI TV CLASICA
-
-#EXTINF:-1,  tvg-name="CINEEXTREMA"  tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb_fb.jpg" group-title="TV RETRO",CINE EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,  tvg-name="FAROVISION"  tvg-logo="https://dominicanchannels.net/wp-content/uploads/2014/09/farovision.jpg" group-title="TV RETRO",FAROVISION
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
-#EXTINF:-1,  tvg-name="MEGAVISION"  tvg-logo="https://pbs.twimg.com/profile_images/1311309992721616896/8Lyz-9f6.jpg" group-title="TV RETRO",MEGAVISION
-
-#EXTINF:-1,  tvg-name="ROMANATV"  tvg-logo="https://pbs.twimg.com/profile_images/1086270000925736960/_3T-Vlgr.jpg" group-title="TV RETRO",ROMANA TV
-https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1,  tvg-name="VALLEVISION"  tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="TV RETRO",VALLEVISION 10
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1,  tvg-name="UNITEL"  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-unitel-peru-en-vivo-271x190.jpg" group-title="TV RETRO",UNITEL
-
-#EXTINF:-1,  tvg-name="PLUTOTVfuncion"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE FUNCION
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,  tvg-name="PLUTOTVaccion"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ACCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVadranalina"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ADRENALINA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
-#EXTINF:-1,  tvg-name="PLUTOTVestelar"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ESTELAR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVcomedia"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE COMEDIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVdrama"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE DRAMA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVfamilia"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE FAMILIAR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVromance"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ROMANCE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVsuspenso"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE SUSPENSO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d6a8fcd8-f689-11ea-b314-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1,  tvg-name="PLUTOTVterror"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVlatino"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE LATINO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTVclasico"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -912,6 +837,79 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
 
 
+#EXTINF:0,tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/56/64/retro-tv-logo-design-flat-icon-vector-8035664.jpg" group-title="TV RETRO",---TV RETRO---
+
+
+
+#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" group-title="TV RETRO",TELESISTEMA
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/gkCQB86P/telrd-cr.png" group-title="TV RETRO",TELESISTEMA 2
+http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+#EXTINF:-1,  tvg-name="TVUNO"  tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" group-title="TV RETRO",TV UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1,  tvg-name="MICROVISION10"  tvg-logo="https://www.freeetv.com/images/03_logo/microvision_dr.jpg" group-title="TV RETRO",MICROVISION 10
+
+#EXTINF:-1,  tvg-name="WOW"  tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="TV RETRO",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,  tvg-name="WOW"  tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="TV RETRO",WOW TV 2
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,  tvg-name="ZEEMUNDO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg" group-title="TV RETRO",ZEEMUNDO
+
+#EXTINF:-1,  tvg-name="ORBITTV"  tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="TV RETRO",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1,  tvg-name="MYTIME"  tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/11/Template_TVMobile_Thumbnail_1920x1080-Spain-Helen-Tzoutis-1-752x423.jpg" group-title="TV RETRO",MY TIME MOVIES
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,  tvg-name="MYTIMETV"  tvg-logo="https://www.uphf.fr/sites/default/files/images/actu2013-14/cine-club-logo-300-200.jpg" group-title="TV RETRO",MY TIME TV
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,  tvg-name="GEOVISION"  tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="TV RETRO",GEOVISION TV
+
+#EXTINF:-1,  tvg-name="READYTV6"  tvg-logo="https://i.imgur.com/JAeBFpP.png" group-title="TV RETRO",READY TV 6
+
+#EXTINF:-1,  tvg-name="RETROPLUS"  tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV RETRO",RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1,  tvg-name="MITVCLASICA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ClasicoTV.jpg" group-title="TV RETRO",MI TV CLASICA
+
+#EXTINF:-1,  tvg-name="CINEEXTREMA"  tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb_fb.jpg" group-title="TV RETRO",CINE EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,  tvg-name="FAROVISION"  tvg-logo="https://dominicanchannels.net/wp-content/uploads/2014/09/farovision.jpg" group-title="TV RETRO",FAROVISION
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+#EXTINF:-1,  tvg-name="MEGAVISION"  tvg-logo="https://pbs.twimg.com/profile_images/1311309992721616896/8Lyz-9f6.jpg" group-title="TV RETRO",MEGAVISION
+
+#EXTINF:-1,  tvg-name="ROMANATV"  tvg-logo="https://pbs.twimg.com/profile_images/1086270000925736960/_3T-Vlgr.jpg" group-title="TV RETRO",ROMANA TV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1,  tvg-name="VALLEVISION"  tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="TV RETRO",VALLEVISION 10
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1,  tvg-name="UNITEL"  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-unitel-peru-en-vivo-271x190.jpg" group-title="TV RETRO",UNITEL
+
+#EXTINF:-1,  tvg-name="PLUTOTVfuncion"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE FUNCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,  tvg-name="PLUTOTVaccion"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ACCION
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVadranalina"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ADRENALINA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
+#EXTINF:-1,  tvg-name="PLUTOTVestelar"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ESTELAR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVcomedia"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVdrama"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE DRAMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVfamilia"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE FAMILIAR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVromance"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE ROMANCE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVsuspenso"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE SUSPENSO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d6a8fcd8-f689-11ea-b314-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1,  tvg-name="PLUTOTVterror"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE TERROR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVlatino"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE LATINO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PLUTOTVclasico"  tvg-logo="https://m.media-amazon.com/images/I/41R1LU4PUKL.png" group-title="TV RETRO",PLUTO TV CINE CLASICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
 
 #EXTINF:0,tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2015/11/World-TV-Day.jpg" group-title="TV MUNDIAL",---TV MUNDIAL---
 
@@ -1059,20 +1057,23 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
-
 #EXTINF:0,tvg-logo="https://img.freepik.com/vector-gratis/poster-abstracto-grunge-musica-directo_1017-9864.jpg?size=338&ext=jpg" group-title="LIVE MUSIC",---LIVE MUSIC---
 
 
-#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 1
+#EXTINF:-1,  tvg-name="ARMINVANBUUREN"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",ARMIN VAN BUUREN, A State Of Trance
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694229342/ei/_o77ZP6QDNeIkwbxvK-QDQ/ip/13.88.101.242/id/5lMmnfVylEE.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0-1CQDxWhAbk5cyFfZPlNbrlRgAEA0za23ulQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfkhKdmifZPQlmtBkvZF2hpQw4JwCStp5Q7QkvvMXH2oCIDexkuG6qf9hlrFdCUXpet2aLXAnMRADARebTbnzfW5R/file/index.m3u8
 
-#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 2
+#EXTINF:-1,  tvg-name="DEEPHOUSE"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",DEEP HOUSE VIDEOS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694229395/ei/M4_7ZOiEF8vJsfIPweigyA8/ip/13.88.101.242/id/19hKXI1ENrY.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzv6vQyYiP05jCsC-THgR2u2GcLRIEfDtKphqg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO2dFNiIvMFK2W_har3UNdNOktK8HabPJMr5Sq8s1zb_AiEAhr7a1gm4cMBHJbRhazNZiyYJnV0rXaRdHiKoJXzuDuE%3D/file/index.m3u8
 
-#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 3
+#EXTINF:-1,  tvg-name="CHILLOUTMUSICMIX"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CHILL OUT MUSIC MIX
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694229396/ei/NI_7ZJj9GpzKsfIPz4KW2A4/ip/13.88.101.242/id/m52ynxt1mOo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8WyAlCYsg8Pbe-aSHwHocBIwHlNt5-TYYVvrw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI2oitVbHythPJC2aHPAuUK2zW_0te6TnPUKMUKR4xpZAiB9nKIh2j-XxkS0G6QBHAlH_SsMjA22cY91uqt1kD9HVg%3D%3D/file/index.m3u8
 
 #EXTINF:-1,  tvg-name="VIDEOMIX80s"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",80s VIDEOMIX vol 1
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
 #EXTINF:-1,  tvg-name="EURODANCE"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",EURODANCE MIX
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
 
+#EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://www.pngkit.com/png/detail/933-9335764_livemusic-music-musiclive-musica-en-vivo-calypso.png" group-title="LIVE MUSIC",CONCIERTOS LIVE 3
 
 
