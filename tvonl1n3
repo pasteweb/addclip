@@ -309,7 +309,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY 
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156179
 #EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY MOVIES
-
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/251046
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER 
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156191
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER O2
@@ -545,19 +545,23 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10271.ts
 
 #EXTINF:-1,  tvg-name="TIGOcen"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS CEN
 http://45.5.119.155:8000/play/a02v/index.m3u8
-#EXTINF:-1,  tvg-name="TIGOcr"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS CR
-http://190.216.162.155:8000/play/a019
 #EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS HON
 http://iptvmedia.live:8080/F27091/3fb29cc1/9006
-#EXTINF:-1,  tvg-name="FUTV"  tvg-logo="https://i.postimg.cc/k4GQDp7S/futv.png" group-title="DEPORTES",FUTV
+#EXTINF:-1,  tvg-name="TIGOcr"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS CR
+http://190.216.162.155:8000/play/a019
+#EXTINF:-1,  tvg-name="FUTV"  tvg-logo="https://i.postimg.cc/k4GQDp7S/futv.png" group-title="DEPORTES",FUTV CR
 
-#EXTINF:-1,  tvg-name="GOLTV"  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" group-title="DEPORTES",GOL TV
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156153
+#EXTINF:-1,  tvg-name="ECDF"  tvg-logo="https://i.postimg.cc/Fs6k3RPB/ecdfecu.png" group-title="DEPORTES",ECDF ECU
+http://adamnk.me:8080/negritaC69/6dN328ThKA/1127082
+#EXTINF:-1,  tvg-name="ECDF"  tvg-logo="https://i.postimg.cc/Fs6k3RPB/ecdfecu.png" group-title="DEPORTES",ECDF ECU O2
+http://adamnk.me:8080/negritaC69/6dN328ThKA/1127081
+#EXTINF:-1,  tvg-name="GOLTV"  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" group-title="DEPORTES",GOL TV PER
+http://redima.pro:8880/briones50/briones50/317
+#EXTINF:-1,  tvg-name="MOVIDEPORTES"  tvg-logo="https://i.postimg.cc/4xjkbbG9/MVSDEPRTS.png" group-title="DEPORTES",MOVI DEPORTES PER
+http://iptvmedia.live:8080/F27091/3fb29cc1/9003
 
 #EXTINF:-1,  tvg-name="PARAMOUNTligapremier"  tvg-logo="https://i.postimg.cc/Zny6xvBK/ParmntPL.png" group-title="DEPORTES",PARAMOUNT LIGA PREMIER
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1,  tvg-name="MOVIDEPORTES"  tvg-logo="https://i.postimg.cc/4xjkbbG9/MVSDEPRTS.png" group-title="DEPORTES",MOVI DEPORTES
-http://iptvmedia.live:8080/F27091/3fb29cc1/9003
 #EXTINF:-1,  tvg-name="TYCSPORTS"  tvg-logo="https://i.postimg.cc/HsPfd4Vh/TyCSPRT.png" group-title="DEPORTES",TYC SPORTS
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156189
 #EXTINF:-1,  tvg-name="BEINSPORTS"  tvg-logo="https://aquihaypelotas.es/wp-content/uploads/2018/07/bein-sports.jpg" group-title="DEPORTES",BEIN SPORTS
