@@ -322,7 +322,7 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19436
 #EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZITV",DHE
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156129
 #EXTINF:-1,  tvg-name="SYFY"  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" group-title="IZZITV",SYFY
-
+http://45.4.168.14:8089/play/a10t/index.m3u8
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="IZZITV",FX
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156149
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" group-title="IZZITV",PARAMOUNT
@@ -498,7 +498,7 @@ http://45.5.119.155:8000/play/a0ix/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt Extra
 http://45.5.119.155:8000/play/a05l/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN DEPORTES
-http://peeweeh.biz:8000/hiallrestreamer/AmMGXHFLyN/181
+http://sysadminhost.net:8080/mariopalberto/d72830ce91/6446
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="DEPORTES",FOX SPORTS Nt 1
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19452
@@ -512,7 +512,7 @@ http://45.189.148.24:8000/play/a027/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156137
 #EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156143
+http://45.70.201.252:8889/play/a02o/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud3"  tvg-logo="https://i.postimg.cc/3JFk5ZTQ/espnsd3.png" group-title="DEPORTES",ESPN SUD 3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11662.ts
 #EXTINF:-1,  tvg-name="ESPNsud4"  tvg-logo="https://i.postimg.cc/vZ8cQ6Yg/espnsd4.png" group-title="DEPORTES",ESPN SUD 4
@@ -521,7 +521,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11662.ts
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156142
 
 #EXTINF:-1,  tvg-name="FOXlat1"  tvg-logo="https://i.postimg.cc/d0LP6JBS/fxsplat1.png" group-title="DEPORTES",FOX SPORTS Lat 1
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3331.ts
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/90177
 #EXTINF:-1,  tvg-name="FOXlat2"  tvg-logo="https://i.postimg.cc/6qVDqqWT/fxsplat2.png" group-title="DEPORTES",FOX SPORTS Lat 2
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156148
 #EXTINF:-1,  tvg-name="FOXlat3"  tvg-logo="https://i.postimg.cc/44zCBL6Z/fxsplat3.png" group-title="DEPORTES",FOX SPORTS Lat 3
