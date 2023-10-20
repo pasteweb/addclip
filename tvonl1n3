@@ -5,11 +5,12 @@
 
 #EXTINF:0,tvg-logo="https://www.savoiabenincasa.gov.it/wp-content/uploads/2016/10/Sport.jpg" group-title="PANAMERICANOS",---PANAMERICANOS---
 
-#EXTINF:-1,  tvg-name="CHILEVISIONDEPORTES"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="PANAMERICANOS",CHV DEPORTES CHI
-https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1,  tvg-name="CHILEVISIONCONTIGO"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="PANAMERICANOS",CHILEVISION CONTIGO (CHILE)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
-
+#EXTINF:-1,  tvg-name="CHILEVISIONCONTIGO"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="PANAMERICANOS",CHILEVISION PANAM
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156122
+#EXTINF:-1,  tvg-name="CHILEVISIONDEPORTES"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="PANAMERICANOS",CHV DEPORTES CHI
+https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 
 #EXTINF:0,tvg-logo="https://eitmedia.mx/media/k2/items/cache/8d034f027c82ad7715976b4cdc357985_XL.jpg" group-title="IZZIsd",---IZZIsd---
