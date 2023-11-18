@@ -123,21 +123,23 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 #EXTINF:-1,  tvg-name="LASESTRELLASlatam"  tvg-logo="https://i.postimg.cc/RFnccpDn/lsestrllslatm.png" group-title="TV MEXICO",LAS ESTRELLAS Latam
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="TV MEXICO",FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/214
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC
 http://iptvmedia.live:8080/F27091/3fb29cc1/9024
+#EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC O2
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/270
 #EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/247.ts
 #EXTINF:-1,  tvg-name="a+"  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" group-title="TV MEXICO",A+
 
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE GALAVISION
-http://45.5.119.155:8000/play/a04j/index.m3u8
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/272
 #EXTINF:-1,  tvg-name="ONCETV"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV
-
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/212
 #EXTINF:-1,  tvg-name="ONCETVinternl"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV INTERNACIONAL
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="TV MEXICO",ADN 40
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/211
 #EXTINF:-1,  tvg-name="MVSTV"  tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="TV MEXICO",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,  tvg-name="CANAL22"  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="TV MEXICO",CANAL 22
