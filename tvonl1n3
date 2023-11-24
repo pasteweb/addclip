@@ -8,25 +8,25 @@
 #EXTINF:-1,  tvg-name="TELEMUNDO"  tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" group-title="IZZIsd",TELEMUNDO
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19339
 #EXTINF:-1,  tvg-name="UNIVISION"  tvg-logo="https://i.postimg.cc/QtBqfdHC/unv1si0n.png" group-title="IZZIsd",UNIVISION
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/95
+
 #EXTINF:-1,  tvg-name="TRUTV"  tvg-logo="https://static.wixstatic.com/media/696a2f_04a977bd015b433d96838d18f71ad9d9.png" group-title="IZZIsd",TRU TV
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/65
+
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZIsd",E!
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156150
+http://38.43.150.120:8000/play/a01u/index.m3u8
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZIsd",A&E
 http://138.59.177.34:8000/play/a052/index.m3u8
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" group-title="IZZIsd",AXN
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156119
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2998
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZIsd",AMC
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156117
+
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="IZZIsd",TNT
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13436.ts
 #EXTINF:-1,  tvg-name="TNTSERIES"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZIsd",TNT SERIES
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/64
+http://38.43.150.120:8000/play/a044/index.m3u8
 #EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZIsd",TCM
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/59
+http://38.43.150.120:8000/play/a010/index.m3u8
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZIsd",SPACE
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/54
+http://38.43.150.120:8000/play/a02d/index.m3u8
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZIsd",SONY 
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5914.ts
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZIsd",WARNER 
@@ -34,9 +34,9 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5943.ts
 #EXTINF:-1,  tvg-name="MULTIPREMIER"  tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/mp.png" group-title="IZZIsd",MULTIPREMIER
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19466
 #EXTINF:-1,  tvg-name="MULTICINEMA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="IZZIsd",MULTICINEMA
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/168155
+
 #EXTINF:-1,  tvg-name="SYFY"  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" group-title="IZZIsd",SYFY
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/57
+http://38.43.150.120:8000/play/a015/index.m3u8
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="IZZIsd",FX
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13480.ts
 #EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZIsd",DHE
@@ -44,9 +44,9 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19338
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" group-title="IZZIsd",PARAMOUNT
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6014.ts
 #EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZIsd",CINECANAL 
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/6
+http://38.43.150.120:8000/play/a00t/index.m3u8
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZIsd",CINEMAX
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/7
+http://38.43.150.120:8000/play/a02a/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVERSALSTUDIO"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",STUDIO UNIVERSAL
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13376.ts
 #EXTINF:-1,  tvg-name="UNIVERSAL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL 
@@ -54,11 +54,11 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13035.ts
 #EXTINF:-1,  tvg-name="UNIVERSALCN"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Cinema
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/250.ts
 #EXTINF:-1,  tvg-name="UNIVERSALCM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Comedy
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291224
 #EXTINF:-1,  tvg-name="UNIVERSALCR"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Crimen
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291222
 #EXTINF:-1,  tvg-name="UNIVERSALPM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Premiere
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298831
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13628.ts
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN EDGE
@@ -68,39 +68,39 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3358.ts
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN PREMIER
 
 #EXTINF:-1,  tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="IZZIsd",STAR CHANNEL 
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/23
+
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO 1
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/218721
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3055
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO 2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156157
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3056
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Family
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3057
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Plus
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3058
 #EXTINF:-1,  tvg-name="HBOXT"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Xtreme
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/148927
 #EXTINF:-1,  tvg-name="HBOPOP"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Pop
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3069
 #EXTINF:-1,  tvg-name="HBOSIG"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Signature
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3059
 #EXTINF:-1,  tvg-name="HBOMND"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Mundi
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/226015
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZIsd",ID
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/14
+http://38.43.150.120:8000/play/a00f/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZIsd",DISCOVERY CHANNEL
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/11
+http://38.43.150.120:8000/play/a01r/index.m3u8
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZIsd",HISTORY CHANNEL
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/43
+http://38.43.150.120:8000/play/a00s/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZIsd",H2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19401
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZIsd",NATGEO
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19400
+http://38.43.150.120:8000/play/a00r/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZIsd",ANIMAL PLANET
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13834.ts
 #EXTINF:-1,  tvg-name="DISCOVERYSCIENCE"  tvg-logo="https://i.postimg.cc/qR37xMWk/DICVRYSCINC.png" group-title="IZZIsd",DISCOVERY SCIENCE 
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13825.ts
 #EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZIsd",DISCOVERY TURBO
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5975.ts
+http://38.43.150.120:8000/play/a02h/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYWORLD"  tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="IZZIsd",DISCOVERY WORLD
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19408
 
@@ -113,33 +113,37 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19408
 
 
 #EXTINF:-1,  tvg-name="AZTECA"  tvg-logo="https://i.postimg.cc/yxcyzphz/aztkinl.png" group-title="TV MEXICO",AZTECA Internl
-http://45.228.234.41:16000/play/a0av/index.m3u8
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/9025
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN TV
 http://iptvmedia.live:8080/F27091/3fb29cc1/9039
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS XEW
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/23514
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156167
+http://38.43.150.120:8000/play/a024/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLASlatam"  tvg-logo="https://i.postimg.cc/RFnccpDn/lsestrllslatm.png" group-title="TV MEXICO",LAS ESTRELLAS Latam
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="TV MEXICO",FORO TV
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/214
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5782
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC
 http://iptvmedia.live:8080/F27091/3fb29cc1/9024
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC O2
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/270
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/9024
 #EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/247.ts
+#EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7 O2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/9026
 #EXTINF:-1,  tvg-name="a+"  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" group-title="TV MEXICO",A+
 
+#EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298919
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE GALAVISION
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/272
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/71860
 #EXTINF:-1,  tvg-name="ONCETV"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/212
+
 #EXTINF:-1,  tvg-name="ONCETVinternl"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV INTERNACIONAL
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="TV MEXICO",ADN 40
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/211
+
 #EXTINF:-1,  tvg-name="MVSTV"  tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="TV MEXICO",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,  tvg-name="CANAL22"  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="TV MEXICO",CANAL 22
@@ -152,7 +156,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 
 #EXTINF:-1,  tvg-name="UNICABLE"  tvg-logo="https://oreox.net/images/logos-canales/90.png" group-title="TV MEXICO",UNICABLE
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5804
 #EXTINF:-1,  tvg-name="UNIMAS"  tvg-logo="https://oreox.net/images/logos-canales/90.png" group-title="TV MEXICO",UNIMAS
 
 #EXTINF:-1,  tvg-name="CANAL34"  tvg-logo="https://cmll.com/wp-content/uploads/2020/07/logoNew.png" group-title="TV MEXICO",CANAL 34 MEXIQUENSE
@@ -210,7 +214,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1,  tvg-name="CANAL6cdmx"  tvg-logo="https://i.postimg.cc/zvn6PB48/c6cdmx.png" group-title="NOTICIAS",CANAL 6 CDMX MULTIMEDIOS
 
 #EXTINF:-1,  tvg-name="MILENIOTV"  tvg-logo="https://pbs.twimg.com/profile_images/1267320384568864768/f8h8X12H_400x400.jpg" group-title="NOTICIAS",MILENIO TV
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7067
 #EXTINF:-1,  tvg-name="TELEFORMULA"  tvg-logo="https://i.postimg.cc/mrPMs6R6/tlfrmula.png" group-title="NOTICIAS",TELEFORMULA
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 #EXTINF:-1,  tvg-name="AMXNOTICIAS"  tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="NOTICIAS",AMX NOTICIAS
@@ -236,7 +240,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,  tvg-name="CGTN"  tvg-logo="https://i.postimg.cc/DZsXWJSr/cgtnspnsh.png" group-title="NOTICIAS",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,  tvg-name="HISPANTV"  tvg-logo="https://media.cdnandroid.com/8d/f8/3a/c2/imagen-hispan-tv-movil-0thumb.jpeg" group-title="NOTICIAS",HISPAN TV
-http://191.102.90.97:8000/play/a02m/index.m3u8
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/187027
 
 
 
@@ -273,7 +277,7 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19383
 #EXTINF:-1,  tvg-name="FOXLIFE"  tvg-logo="https://cablego.com.pe/cache/logos/FOXLIFE.png" group-title="IZZITV",STAR LIFE
 
 #EXTINF:-1,  tvg-name="GOURMET"  tvg-logo="https://i.postimg.cc/zD4CNyqk/gourmt.png" group-title="IZZITV",GOURMET
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156146
+
 #EXTINF:-1,  tvg-name="LIFETIME"  tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" group-title="IZZITV",LIFETIME
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19362
 #EXTINF:-1,  tvg-name="TRUTV"  tvg-logo="https://static.wixstatic.com/media/696a2f_04a977bd015b433d96838d18f71ad9d9.png" group-title="IZZITV",TRU TV
@@ -288,63 +292,63 @@ http://190.95.220.212:8000/play/a02k/index.m3u8
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19488
 
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZITV",A&E
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156118
+http://38.43.150.120:8000/play/a021/index.m3u8
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" group-title="IZZITV",AXN
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156119
+http://38.43.150.120:8000/play/a02c/index.m3u8
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZITV",AMC
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156117
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6696
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="IZZITV",TNT
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156184
+http://38.43.150.120:8000/play/a012/index.m3u8
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="IZZITV",TNT O2
 
 #EXTINF:-1,  tvg-name="TNTseries"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZITV",TNT SERIES
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156186
-#EXTINF:-1,  tvg-name="TNTseries"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZITV",TNT SERIES O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19371
+#EXTINF:-1,  tvg-name="TNTseries"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZITV",TNT SERIES O2
+
 #EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZITV",TCM
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19390
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156180
-#EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE O2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
-#EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY 
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156179
-#EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY MOVIES
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/251046
-#EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER 
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156191
-#EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER O2
+#EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE O2
 
+#EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY 
+http://38.43.150.120:8000/play/a02b/index.m3u8
+#EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY MOVIES
+
+#EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER 
+http://38.43.150.120:8000/play/a01t/index.m3u8
+#EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER O2
+http://38.43.150.120:8000/play/a032/index.m3u8
 
 #EXTINF:-1,  tvg-name="MULTIPREMIER"  tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/mp.png" group-title="IZZITV",MULTIPREMIER
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19436
 #EXTINF:-1,  tvg-name="CINELATINO"  tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png" group-title="IZZITV",CINE LATINO
 
 #EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZITV",DHE
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156129
+
 #EXTINF:-1,  tvg-name="SYFY"  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" group-title="IZZITV",SYFY
 http://45.4.168.14:8089/play/a10t/index.m3u8
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="IZZITV",FX
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156149
+http://38.43.150.120:8000/play/a02e/index.m3u8
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" group-title="IZZITV",PARAMOUNT
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19423
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" group-title="IZZITV",PARAMOUNT O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/23505
 #EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZITV",CINECANAL 
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156127
-#EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZITV",CINECANAL O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/23546
+#EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZITV",CINECANAL O2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/49452
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156128
-#EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/23524
+#EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5770
 
 #EXTINF:-1,  tvg-name="UNIVERSALST"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",STUDIO UNIVERSAL
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156182
+
 #EXTINF:-1,  tvg-name="UNIVERSALST"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",STUDIO UNIVERSAL O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19425
 #EXTINF:-1,  tvg-name="UNIVERSAL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL 
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156190
+http://38.43.150.120:8000/play/a00u/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVERSAL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19387
 #EXTINF:-1,  tvg-name="UNIVERSALCN"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL Cinema
@@ -365,25 +369,25 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19379
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN EDGE O2
 
 #EXTINF:-1,  tvg-name="GOLDENPLUS"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN PLUS
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156155
+
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN PREMIER
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19378
 
 #EXTINF:-1,  tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="IZZITV",STAR CHANNEL 
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156176
+http://38.43.150.120:8000/play/a00z/index.m3u8
 #EXTINF:-1,  tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="IZZITV",STAR CHANNEL O2
 http://iptvmedia.live:8080/F27091/3fb29cc1/280374
 
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 1 
 http://190.95.220.212:8000/play/a00s/index.m3u8
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 1 O2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156158
+
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156156
+http://38.43.150.120:8000/play/a049/index.m3u8
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 2 O2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5888.ts
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Family
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156157
+
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Family O2
 
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Plus
@@ -393,7 +397,7 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/61.ts
 #EXTINF:-1,  tvg-name="HBOXT"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Xtreme
 
 #EXTINF:-1,  tvg-name="HBOPOP"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Pop
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156160
+http://38.43.150.120:8000/play/a034/index.m3u8
 #EXTINF:-1,  tvg-name="HBOSIG"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Signature
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/23508
 #EXTINF:-1,  tvg-name="HBOSIG"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Signature O2
@@ -406,35 +410,37 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19429
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZITV",ID
 http://iptvmedia.live:8080/F27091/3fb29cc1/9056
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZITV",ID O2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156164
+
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZITV",DISCOVERY CHANNEL
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156131
-#EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZITV",DISCOVERY CHANNEL O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19398
+#EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZITV",DISCOVERY CHANNEL O2
+
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL
 http://iptvmedia.live:8080/F27091/3fb29cc1/9050
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL O2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156163
+
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156162
-#EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2 O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19401
+#EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2 O2
+
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156173
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19400
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO O2
 
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156121
-#EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET O2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19421
+#EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET O2
+http://38.43.150.120:8000/play/a01s/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYSCIENCE"  tvg-logo="https://i.postimg.cc/qR37xMWk/DICVRYSCINC.png" group-title="IZZITV",DISCOVERY SCIENCE 
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19332
 #EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZITV",DISCOVERY TURBO
 http://iptvmedia.live:8080/F27091/3fb29cc1/9058
+#EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZITV",DISCOVERY TURBO O2
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5975.ts
 #EXTINF:-1,  tvg-name="DISCOVERYWORLD"  tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="IZZITV",DISCOVERY WORLD
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156134
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6705
 #EXTINF:-1,  tvg-name="DISCOVERYTEAT"  tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="IZZITV",DISCOVERY TEATRO
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156133
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3022
 
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="IZZITV",TUDN USA
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/23113
@@ -445,21 +451,21 @@ http://138.59.177.34:8000/play/a06h/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="IZZITV",ESPN Nt 1
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73079
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="IZZITV",ESPN Nt 2
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/215002
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298057
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="IZZITV",ESPN Nt 3
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/71727
-#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="IZZITV",ESPN Nt Extra
-http://sysadminhost.net:8080/mariopalberto/d72830ce91/285105
-#EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="IZZITV",ESPN NTE
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156144
+#EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="IZZITV",ESPN Nt Deportes
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6446
+#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="IZZITV",ESPN Extra
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/285105
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="IZZITV",FOX Nt 1
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22120
 #EXTINF:-1,  tvg-name="FOXSPORTS2"  tvg-logo="https://i.postimg.cc/4xgrDz1t/fxsp2.png" group-title="IZZITV",FOX Nt 2
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10270.ts
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://i.postimg.cc/x13WncsZ/fxsp3.png" group-title="IZZITV",FOX Nt 3
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13572.ts
+
 #EXTINF:-1,  tvg-name="FOXPREMIUM"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="IZZITV",FOX SPORT PREMIUM
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/27857
+
 
 
 
@@ -469,12 +475,13 @@ http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/27857
 #EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/37168
 #EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN O2 
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/397
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298903
+#EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN XTRA
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/31784
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA
 http://45.189.148.24:8000/play/a00k/index.m3u8
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA O2
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/395
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298904
 
 #EXTINF:-1,  tvg-name="TVC"  tvg-logo="https://i.postimg.cc/HLRwctnP/tvcdep.png" group-title="DEPORTES",TVC DEPORTES
 
@@ -486,7 +493,7 @@ http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/395
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="DEPORTES",CLARO Sports
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19453
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/cC0rrDyW/clrosport2.png" group-title="DEPORTES",CLARO Sports 2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/251016
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/297205
 
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="DEPORTES",ESPN Nt1
 http://138.59.177.34:8000/play/a058/index.m3u8
@@ -495,13 +502,13 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73078
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19441
 #EXTINF:-1,  tvg-name="ESPN4"  tvg-logo="https://i.postimg.cc/WbkdWP9z/espn4.png" group-title="DEPORTES",ESPN Nt 4
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/218701
+
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt Extra
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/218702
+http://sysadminhost.net:8080/mariopalberto/d72830ce91/285105
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN DEPORTES
 http://sysadminhost.net:8080/mariopalberto/d72830ce91/6446
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN PREMIUM
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/218746
+
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="DEPORTES",FOX SPORTS Nt 1
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19452
@@ -513,7 +520,7 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19451
 http://45.189.148.24:8000/play/a027/index.m3u8
 
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156137
+http://sysadminhost.net:8080/mariopalberto/d72830ce91/5779
 #EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2
 http://45.233.169.13:8000/play/a0ae/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud3"  tvg-logo="https://i.postimg.cc/3JFk5ZTQ/espnsd3.png" group-title="DEPORTES",ESPN SUD 3
@@ -521,46 +528,46 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11662.ts
 #EXTINF:-1,  tvg-name="ESPNsud4"  tvg-logo="https://i.postimg.cc/vZ8cQ6Yg/espnsd4.png" group-title="DEPORTES",ESPN SUD 4
 http://45.233.169.13:8000/play/a0ag/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD EXTRA
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156142
+
 
 #EXTINF:-1,  tvg-name="FOXlat1"  tvg-logo="https://i.postimg.cc/d0LP6JBS/fxsplat1.png" group-title="DEPORTES",FOX SPORTS Lat 1
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/90177
-#EXTINF:-1,  tvg-name="FOXlat2"  tvg-logo="https://i.postimg.cc/6qVDqqWT/fxsplat2.png" group-title="DEPORTES",FOX SPORTS Lat 2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156148
-#EXTINF:-1,  tvg-name="FOXlat3"  tvg-logo="https://i.postimg.cc/44zCBL6Z/fxsplat3.png" group-title="DEPORTES",FOX SPORTS Lat 3
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156152
-
-#EXTINF:-1,  tvg-name="FOXsp1"  tvg-logo="https://i.postimg.cc/ZRtmZPDS/FXSP1.png" group-title="DEPORTES",FOX SP 1
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73081
-#EXTINF:-1,  tvg-name="FOXsp2"  tvg-logo="https://i.postimg.cc/155Q93Mf/FXSP2.png" group-title="DEPORTES",FOX SP 2
+#EXTINF:-1,  tvg-name="FOXlat2"  tvg-logo="https://i.postimg.cc/6qVDqqWT/fxsplat2.png" group-title="DEPORTES",FOX SPORTS Lat 2
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/73080
-#EXTINF:-1,  tvg-name="FOXsp3"  tvg-logo="https://i.postimg.cc/X7H0X6Dx/FXSP3.png" group-title="DEPORTES",FOX SP 3
+#EXTINF:-1,  tvg-name="FOXlat3"  tvg-logo="https://i.postimg.cc/44zCBL6Z/fxsplat3.png" group-title="DEPORTES",FOX SPORTS Lat 3
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10271.ts
 
+#EXTINF:-1,  tvg-name="FOXsp1"  tvg-logo="https://i.postimg.cc/ZRtmZPDS/FXSP1.png" group-title="DEPORTES",FOX SP 1
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6760
+#EXTINF:-1,  tvg-name="FOXsp2"  tvg-logo="https://i.postimg.cc/155Q93Mf/FXSP2.png" group-title="DEPORTES",FOX SP 2
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/61621
+#EXTINF:-1,  tvg-name="FOXsp3"  tvg-logo="https://i.postimg.cc/X7H0X6Dx/FXSP3.png" group-title="DEPORTES",FOX SP 3
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6691
+
 #EXTINF:-1,  tvg-name="FOXsp1"  tvg-logo="https://i.postimg.cc/ZRtmZPDS/FXSP1.png" group-title="DEPORTES",FOX SParg 1
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/144
+
 #EXTINF:-1,  tvg-name="FOXsp2"  tvg-logo="https://i.postimg.cc/155Q93Mf/FXSP2.png" group-title="DEPORTES",FOX SParg 2
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/142
+
 #EXTINF:-1,  tvg-name="FOXsp3"  tvg-logo="https://i.postimg.cc/X7H0X6Dx/FXSP3.png" group-title="DEPORTES",FOX SParg 3
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/143
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13572.ts
 
 #EXTINF:-1,  tvg-name="DAZN1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTES",DAZN 1
-
-#EXTINF:-1,  tvg-name="DAZN2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTES",DAZN 2
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/64711
+#EXTINF:-1,  tvg-name="DAZN2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTES",DAZN La Liga
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/297787
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/211006
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1672
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1 O2
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/211007
+
 
 #EXTINF:-1,  tvg-name="TIGOsud"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS SUD
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/701
+
 #EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS HON
-http://iptvmedia.live:8080/F27091/3fb29cc1/9006
+
 #EXTINF:-1,  tvg-name="TIGOcr"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS CR
-http://190.216.162.155:8000/play/a019
+http://iptvmedia.live:8080/F27091/3fb29cc1/9006
 #EXTINF:-1,  tvg-name="FUTV"  tvg-logo="https://i.postimg.cc/k4GQDp7S/futv.png" group-title="DEPORTES",FUTV CR
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/251029
+
 #EXTINF:-1,  tvg-name="ECDF"  tvg-logo="https://i.postimg.cc/Fs6k3RPB/ecdfecu.png" group-title="DEPORTES",ECDF ECU
 
 #EXTINF:-1,  tvg-name="ECDF"  tvg-logo="https://i.postimg.cc/Fs6k3RPB/ecdfecu.png" group-title="DEPORTES",ECDF ECU O2
@@ -575,11 +582,11 @@ https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1,  tvg-name="PARAMOUNTligapremier"  tvg-logo="https://i.postimg.cc/Zny6xvBK/ParmntPL.png" group-title="DEPORTES",PARAMOUNT LIGA PREMIER
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1,  tvg-name="TYCSPORTS"  tvg-logo="https://i.postimg.cc/HsPfd4Vh/TyCSPRT.png" group-title="DEPORTES",TYC SPORTS
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156189
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/31315
 #EXTINF:-1,  tvg-name="BEINSPORTS"  tvg-logo="https://aquihaypelotas.es/wp-content/uploads/2018/07/bein-sports.jpg" group-title="DEPORTES",BEIN SPORTS
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/23542
 #EXTINF:-1,  tvg-name="WINSPORTS"  tvg-logo="https://i.postimg.cc/PJVFfTrw/WINSPRT.png" group-title="DEPORTES",WIN SPORTS
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156193
+
 #EXTINF:-1,  tvg-name="PLUTODEPORTES"  tvg-logo="https://i.postimg.cc/3RktzR4z/pltvdep.png" group-title="DEPORTES",PLUTO TV DEPORTES
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 
@@ -592,27 +599,27 @@ https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVLocosAddams"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS LOCOS ADDAMS
 
 #EXTINF:-1,  tvg-name="PTVLOSMONSTER"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS MONSTER
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222341
-#EXTINF:-1,  tvg-name="PTVChapulinCol"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL CHAPULIN COLORADO
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222316
-#EXTINF:-1,  tvg-name="PTVChavo8"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL CHAVO DEL 8
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222344
-#EXTINF:-1,  tvg-name="PTVLIGADJUSTICIA"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LIGA DE LA JUSTICIA
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221336
-#EXTINF:-1,  tvg-name="PTVDisneyPixar"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PIXAR
 
+#EXTINF:-1,  tvg-name="PTVChapulinCol"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL CHAPULIN COLORADO
+
+#EXTINF:-1,  tvg-name="PTVChavo8"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL CHAVO DEL 8
+
+#EXTINF:-1,  tvg-name="PTVLIGADJUSTICIA"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LIGA DE LA JUSTICIA
+
+#EXTINF:-1,  tvg-name="PTVDisneyPixar"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PIXAR
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/63810
 #EXTINF:-1,  tvg-name="PTVDISNEY"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",DISNEY
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221333
+
 #EXTINF:-1,  tvg-name="PTVPajaroLoco"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL PAJARO LOCO
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221334
+
 #EXTINF:-1,  tvg-name="PTVPanteraRosa"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LA PANTERA ROSA
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222268
+
 #EXTINF:-1,  tvg-name="PTVSUPERSONICOS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS SUPERSONICOS
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221337
+
 #EXTINF:-1,  tvg-name="PTVLooneyToones"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOONEY TOONES
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222266
+
 #EXTINF:-1,  tvg-name="PTVLTOONES"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOONEY TOONES WB
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222289
+
 #EXTINF:-1,  tvg-name="PTVLaboratoriodeDexter"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL LABORATORIO DE DEXTER
 
 #EXTINF:-1,  tvg-name="PTVCorajePerro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CORAJE EL PERRO COBARDE
@@ -626,15 +633,15 @@ https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVDonGato"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",TOPCAT
 
 #EXTINF:-1,  tvg-name="PTVBIRDMAN"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",BIRDMAN
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222302
+
 #EXTINF:-1,  tvg-name="PTV4FANTASTICOS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",4 FANTASTICOS
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222280
+
 #EXTINF:-1,  tvg-name="PTVSimpson"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS SIMPSON
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221835
+
 #EXTINF:-1,  tvg-name="PTVSimpson6-10"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS SIMPSON 6-10
 
 #EXTINF:-1,  tvg-name="PTVFuturama"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",FUTURAMA
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221834
+
 #EXTINF:-1,  tvg-name="PTVAnimeClasico"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIME CLASICO
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVAnimeAccion"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIME ACCION
@@ -647,7 +654,7 @@ https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVSouthPark"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SOUTH PARK
 https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVDINOSAURIOS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",DINOSAURIOS
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222263
+
 #EXTINF:-1,  tvg-name="PTVSeries"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVRetro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES RETRO 
@@ -657,13 +664,13 @@ https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVHechizada"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HECHIZADA
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVAutoIncreible"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL AUTO INCREIBLE
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222318
+
 #EXTINF:-1,  tvg-name="PTVMacGyver"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MAC GYVER
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVSaladeUrgencias"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",ER SALA DE URGENCIAS
 
 #EXTINF:-1,  tvg-name="PTVRosaGuadalupe"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LA ROSA DE GUADALUPE
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222336
+
 #EXTINF:-1,  tvg-name="PTVFamiliaPeluche"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",FAMILIA PELUCHE
 
 #EXTINF:-1,  tvg-name="PTVComedyCentral"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COMEDY CENTRAL
@@ -691,18 +698,22 @@ https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVCiencia"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CIENCIA
 https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:-1,  tvg-name="PTVDocumentales"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV DOCUMENTALES
-
+#EXTINF:-1,  tvg-name="Documentales"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",DOCUMENTALES
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300839
 #EXTINF:-1,  tvg-name="PTVAlertaAerop"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",ALERTA AEROPUERTO
 
 #EXTINF:-1,  tvg-name="PTV4MILENIO"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CUARTO MILENIO
-http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221836
+
 #EXTINF:-1,  tvg-name="PTVMayday"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",MAYDAY CATASTROFES AEREAS
 
+#EXTINF:-1,  tvg-name="PTVCineAlien"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CINE ALIEN 
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/56288
 #EXTINF:-1,  tvg-name="PTVHistoria"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HISTORIA
 https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVSmithsonian"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CHANNEL SMITHSONIAN
 https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+#EXTINF:-1,  tvg-name="PTVBiography"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",BIOGRAPHY
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/65216
 #EXTINF:-1,  tvg-name="PTVCazadorHomicidas"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CAZADOR DE HOMICIDAS
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 #EXTINF:-1,  tvg-name="PTVInvestiga"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV INVESTIGA
@@ -780,7 +791,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,  tvg-name="TVGINFANTIL"  tvg-logo="https://www.clusteraudiovisualgalego.com/2018_img/tvg-logo.jpg" group-title="TV INFANTIL",TVG INFANTIL
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,  tvg-name="BOING"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/boing_logo_500_nuevo_-2_c605.png" group-title="TV INFANTIL",BOING TV
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1169
 #EXTINF:-1,  tvg-name="PAKAPAKA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="TV INFANTIL",PAKA PAKA
 
 #EXTINF:-1,  tvg-name="DISCOVERYKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" group-title="TV INFANTIL",DISCOVERY KIDS 
@@ -819,15 +830,15 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19386
 #EXTINF:-1,  tvg-name="DW"  tvg-logo="https://i.postimg.cc/W351d439/DW.jpg" group-title="TV CULTURAL",DW Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1,  tvg-name="DMAX"  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" group-title="TV CULTURAL",DMAX
-http://77.81.117.202:8000/play/ES_dmax_sd/index.m3u8
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2762
 #EXTINF:-1,  tvg-name="HISTORIA"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="TV CULTURAL",CANAL HISTORIA
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1155
 #EXTINF:-1,  tvg-name="ODISEA"  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" group-title="TV CULTURAL",ODISEA
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2194
 #EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV CULTURAL",LA 2 (ESP)
 
 #EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV CULTURAL",CUATRO
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1163
 #EXTINF:-1,  tvg-name="TELEMADRID"  tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/Madrid-Telemadrid-HD.png" group-title="TV CULTURAL",TELEMadrid (ESP)
 http://77.81.117.202:8000/play/ES_33_HD/index.m3u8
 #EXTINF:-1,  tvg-name="TVUNAM"  tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2019/06/19/tv_unam.jpg" group-title="TV CULTURAL",TV UNAM
@@ -859,7 +870,7 @@ https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
 https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
 
 #EXTINF:-1,  tvg-name="BEMADTV"  tvg-logo="https://i.postimg.cc/gj5cKB38/BMAD.jpg" group-title="TV CULTURAL",BE MAD TV
-http://77.81.117.202:8000/play/ES_bemad_tv_HD/index.m3u8
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2213
 #EXTINF:-1,  tvg-name="UMAGTV"  tvg-logo="https://i.postimg.cc/C5dLkVnw/UMAG.jpg" group-title="TV CULTURAL",UMAG TV
 
 #EXTINF:-1,  tvg-name="UAOPLAY"  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-uao-play-en-vivo.jpg" group-title="TV CULTURAL",UAO PLAY
@@ -958,7 +969,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1,  tvg-name="KANALD"  tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="TV MUNDIAL",KANAL D DRAMA (TUR)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156165
+
 
 #EXTINF:-1,  tvg-name="AMERICATEVE"  tvg-logo="https://i.postimg.cc/XNtnHHDY/amricatve.png" group-title="TV MUNDIAL",AMERICA TeVe (USA)
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
@@ -970,39 +981,39 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="CANAL33MADRID"  tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="TV MUNDIAL",CANAL 33 MADRID (ESP)
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1,  tvg-name="TVE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="TV MUNDIAL",TVE (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/49480
 #EXTINF:-1,  tvg-name="A3SERIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV MUNDIAL",A3SERIES (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/9102
 #EXTINF:-1,  tvg-name="ANTENA3"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" group-title="TV MUNDIAL",ANTENA 3 (ESP)
 
 #EXTINF:-1,  tvg-name="LA1"  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV MUNDIAL",TVE La 1 (ESP)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19380
 #EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV MUNDIAL",TVE La 2 (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1150
 #EXTINF:-1,  tvg-name="TVESTAR"  tvg-logo="https://i.postimg.cc/266Qkvq0/startve.png" group-title="TV MUNDIAL",STAR TVE (ESP)
 http://45.228.234.41:16000/play/a09u/index.m3u8
 #EXTINF:-1,  tvg-name="BEMAD"  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.fRhUJj-sN4.jpg" group-title="TV MUNDIAL",BE MAD (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2213
 #EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV MUNDIAL",CUATRO (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1163
 #EXTINF:-1,  tvg-name="TELECINCO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="TV MUNDIAL",TELECINCO (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1133
 #EXTINF:-1,  tvg-name="LASEXTA"  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TV MUNDIAL",LA SEXTA (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1152
 #EXTINF:-1,  tvg-name="NOVA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" group-title="TV MUNDIAL",NOVA (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2189
 #EXTINF:-1,  tvg-name="NEOX"  tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/ver-Neox-online-o-en-android.jpg" group-title="TV MUNDIAL",NEOX (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2208
 #EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" group-title="TV MUNDIAL",MEGA (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2190
 #EXTINF:-1,  tvg-name="ENERGY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV MUNDIAL",ENERGY (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2217
 #EXTINF:-1,  tvg-name="FDF"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TV MUNDIAL",FDF (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2207
 #EXTINF:-1,  tvg-name="DIVINITY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TV MUNDIAL",DIVINITY (ESP)
-
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2795
 #EXTINF:-1,  tvg-name="BETEVE"  tvg-logo="https://www.albafores.com/wp-content/uploads/2019/06/betev%C3%A9-Logo.jpg" group-title="TV MUNDIAL",BETEVE (ESP)
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/285834
 #EXTINF:-1,  tvg-name="eitb"  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" group-title="TV MUNDIAL",eitb (ESP)
 
 #EXTINF:-1,  tvg-name="TVG"  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" group-title="TV MUNDIAL",TV-G (ESP)
@@ -1070,13 +1081,13 @@ http://138.59.177.34:8000/play/a04p/index.m3u8
 http://138.59.177.34:8000/play/a01v/index.m3u8
 
 #EXTINF:-1,  tvg-name="TVN"  tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo-thmb.png" group-title="TV MUNDIAL",TVN (CHILE)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156187
+
 #EXTINF:-1,  tvg-name="TV13"  tvg-logo="https://d1mm7fnxb6z2bq.cloudfront.net/static/meatme/images/ventas-corporativas/canal13.png" group-title="TV MUNDIAL",TV 13 (CHILE)
 
 #EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://online-television.net/uploads/posts/2022-10/thumbs/mega-hd.webp" group-title="TV MUNDIAL",MEGA (CHILE)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156170
+
 #EXTINF:-1,  tvg-name="CHILEVISION"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION (CHILE)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156122
+
 #EXTINF:-1,  tvg-name="CHILEVISIONCONTIGO"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION CONTIGO (CHILE)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #EXTINF:-1,  tvg-name="TELEFE"  tvg-logo="http://revistafibra.info/wp-content/uploads/2015/04/telefe-logo.jpg" group-title="TV MUNDIAL",TELEFE (ARG)
@@ -1091,20 +1102,20 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
 
 #EXTINF:-1,  tvg-name="CARACOL"  tvg-logo="https://uploads.concordia.net/2019/05/05141118/Caracol.png" group-title="TV MUNDIAL",CARACOL TV (COL)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156125
+
 #EXTINF:-1,  tvg-name="RCN"  tvg-logo="https://www.agenciapi.co/sites/default/files/2018-11/Canal-RCN.jpg" group-title="TV MUNDIAL",RCN (COL)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19456
 #EXTINF:-1,  tvg-name="CITYtv"  tvg-logo="https://seeklogo.com/images/C/city-tv-logo-93CC13EB21-seeklogo.com.png" group-title="TV MUNDIAL",CITYtv (COL)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19497
 #EXTINF:-1,  tvg-name="SEÑALCOLOMBIA"  tvg-logo="https://www.nicepng.com/png/detail/513-5139154_sc05-logo-de-seal-colombia.png" group-title="TV MUNDIAL",SEÑAL COLOMBIA (COL)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156174
+
 #EXTINF:-1,  tvg-name="TELECARIBE"  tvg-logo="https://cdn.colombia.com/canales/telecaribe-3307.jpg" group-title="TV MUNDIAL",TELECARIBE (COL)
 
 #EXTINF:-1,  tvg-name="CALITV"  tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg" group-title="TV MUNDIAL",CALI TV (COL)
 
 
 #EXTINF:-1,  tvg-name="AMERICATV"  tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg" group-title="TV MUNDIAL",AMERICA TV (PERU)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156120
+
 #EXTINF:-1,  tvg-name="PANAMERICANA"  tvg-logo="https://i.postimg.cc/BnZYzpQk/panamtvperu.png" group-title="TV MUNDIAL",PANAMERICANA (PERU)
 
 #EXTINF:-1,  tvg-name="UNITEL"  tvg-logo="https://i.postimg.cc/k5NCB7nV/un1tel.png" group-title="TV MUNDIAL",UNITEL (PERU)
@@ -1112,7 +1123,7 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19518
 #EXTINF:-1,  tvg-name="BHTV"  tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="TV MUNDIAL",BHTV (PERU)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,  tvg-name="LATINATV"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="TV MUNDIAL",LATINA TV (PERU)
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156168
+
 
 #EXTINF:-1,  tvg-name="C9N"  tvg-logo="https://www.telesurf.com.py/wp-content/uploads/2020/11/descarga-4-300x158.jpg" group-title="TV MUNDIAL",C9N (PAR)
 http://iptvmedia.live:8080/F27091/3fb29cc1/9008
