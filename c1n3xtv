@@ -12,27 +12,33 @@ https://www.googleapis.com/drive/v3/files/1nnOgpgfJpsz1xAQG6hY8wfV44pCEYTe7?alt=
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STARSHIP TROOPERS INVASION
 http://archive.org/download/w-17-fl-1-x-1/574r5h1p7r00p3r5%20l41nv4510n.mp4
 
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",AT0M1CA
+http://fina.dyndns.tv/Peliculas/Atomica.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",12 MONOS
 http://fina.dyndns.tv/Peliculas/12%20Monos.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SOLARIS
 http://fina.dyndns.tv/Peliculas/Solaris.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",MARTE
+http://fina.dyndns.tv/Peliculas/Marte.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",AD ASTRA
 http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",INTERESTELAR
-
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",MARTE
-
+http://fina.dyndns.tv/Peliculas/Interstellar.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EXTRATERRESTR14L
+http://fina.dyndns.tv/Peliculas/Extraterrestrial.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",DESPUES DE LA TIERRA
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ELYSIUM
-
+http://fina.dyndns.tv/Peliculas/Elysium.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",OBLIVION
-
+http://fina.dyndns.tv/Peliculas/Oblivion.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SOY LEYENDA
 http://158.69.158.102/Peliculas/Listo/30122022_1253/i_am_legend.mkv
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL NUMERO 4
 http://158.69.158.102/Peliculas/Listo/30122022_1253/i_am_number_four.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",DIA DE LA 1NDEPENDENC14
+http://fina.dyndns.tv/Peliculas/Independence%20Day.mkv
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",007 GOLDEN EYE
 http://archive.org/download/mio53_yopmail_1/1.mp4
@@ -179,6 +185,8 @@ http://fina.dyndns.tv/Peliculas/Sin%20City%20a%20dame%20to%20kill%20for.mkv
 #EXTINF:0,tvg-logo="https://radio-corporacion.com/wp-content/uploads/2017/07/512x512bb.jpg" group-title="CINEFAMILY",---CINEFAMILY---
 
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EL SR PEAB0DY & SH3RMAN
+http://fina.dyndns.tv/Peliculas/Mr%20Peabody%20and%20Sherman.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LA_VIDA_SECRETA_DE_TUS_MASCOTAS 2
 http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
 
@@ -186,6 +194,20 @@ http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
 http://archive.org/download/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/19.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ALICIA-EN-EL-PAIS-DE-LAS-MARAVILLAS
 http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/2.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",INTENSAMENTE
+http://fina.dyndns.tv/Peliculas/Del%20reves.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",DUMBO
+http://fina.dyndns.tv/Peliculas/Dumbo.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",BAMBI
+http://fina.dyndns.tv/Peliculas/Bambi.mkv
+
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",CARS 1
+http://fina.dyndns.tv/Peliculas/Cars.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",CARS 2
+http://fina.dyndns.tv/Peliculas/Cars%202.mkv
+
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EL L1BR0 DE LA SELV4
+http://fina.dyndns.tv/Peliculas/El%20Libro%20de%20la%20Selva.mkv
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",T0Y-ST0RY 1
 http://158.69.158.102/Peliculas/Listo/30122022_1136/toy_story.mkv
@@ -205,6 +227,15 @@ http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jdjdjje.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",SHREK-4
 http://ia801408.us.archive.org/25/items/00000_20200528_2157/004.mp4
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",M0NST3RS
+http://fina.dyndns.tv/Peliculas/Monsters%20Inc.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",M0NST3RS-UNIVERCITY
+http://fina.dyndns.tv/Peliculas/Monsters%20University.mkv
+
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",HOTEL-TRANSYLVANIA
+http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%201.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",HOTEL-TRANSYLVANIA 2
+http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%202%20.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",HOTEL-TRANSYLVANIA 3
 https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Infantiles/Hotel_Transylvania_3.mp4
 
@@ -269,6 +300,8 @@ https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Dramas/Podras_Perdonarme
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",Y-DONDE-ESTAN-LAS-RUBIAS
 http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",P1XELS
+http://fina.dyndns.tv/Peliculas/Pixels.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",NO-TE-METAS-CON-ZOHAN
 http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",CLICK-PERDIENDO-EL-CONTROL
@@ -782,5 +815,3 @@ http://archive.org/download/erds1b1/Erds1b4.mp4
 http://archive.org/download/erds1b1/Erds1b5.mp4
 #EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x6 TODO EL DINERO DEL MUNDO
 http://archive.org/download/erds1b1/Erds1b6.mp4
-
-
