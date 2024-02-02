@@ -593,6 +593,8 @@ http://724387382856262413.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/262413.ts
 http://724387382856165419.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165419.ts
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1 O2
 http://724387382856165418.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165418.ts
+#EXTINF:-1,  tvg-name="MOVISTARF1"  tvg-logo="https://i.postimg.cc/4xjkbbG9/MVSDEPRTS.png" group-title="DEPORTES",MOVISTAR F1
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1931
 
 #EXTINF:-1,  tvg-name="TIGOsud"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS SUD
 
@@ -608,7 +610,6 @@ http://190.90.154.73:8080/play/a051/index.m3u8
 http://190.90.154.73:8080/play/a08x/index.m3u8
 #EXTINF:-1,  tvg-name="GOLTV"  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" group-title="DEPORTES",GOL TV
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
-#EXTINF:-1,  tvg-name="MOVIDEPORTES"  tvg-logo="https://i.postimg.cc/4xjkbbG9/MVSDEPRTS.png" group-title="DEPORTES",MOVI DEPORTES PER
 
 #EXTINF:-1,  tvg-name="CHILEVISIONDEPORTES"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="DEPORTES",CHV DEPORTES CHI
 
@@ -872,13 +873,13 @@ http://190.90.154.73:8080/play/a08l/index.m3u8
 #EXTINF:-1,  tvg-name="DMAX"  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" group-title="TV CULTURAL",DMAX
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135901.ts
 #EXTINF:-1,  tvg-name="HISTORIA"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="TV CULTURAL",CANAL HISTORIA
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1920
 #EXTINF:-1,  tvg-name="ODISEA"  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" group-title="TV CULTURAL",ODISEA
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/5355
 #EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV CULTURAL",LA 2 (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1510
 #EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV CULTURAL",CUATRO
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1916
 #EXTINF:-1,  tvg-name="TELEMADRID"  tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/Madrid-Telemadrid-HD.png" group-title="TV CULTURAL",TELEMadrid (ESP)
 
 #EXTINF:-1,  tvg-name="TVUNAM"  tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2019/06/19/tv_unam.jpg" group-title="TV CULTURAL",TV UNAM
@@ -910,7 +911,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u
 
 
 #EXTINF:-1,  tvg-name="BEMADTV"  tvg-logo="https://i.postimg.cc/gj5cKB38/BMAD.jpg" group-title="TV CULTURAL",BE MAD TV
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/6670
 #EXTINF:-1,  tvg-name="UMAGTV"  tvg-logo="https://i.postimg.cc/C5dLkVnw/UMAG.jpg" group-title="TV CULTURAL",UMAG TV
 
 #EXTINF:-1,  tvg-name="UAOPLAY"  tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-uao-play-en-vivo.jpg" group-title="TV CULTURAL",UAO PLAY
@@ -1023,35 +1024,35 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 #EXTINF:-1,  tvg-name="TVE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="TV MUNDIAL",TVE (ESP)
 
 #EXTINF:-1,  tvg-name="A3SERIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV MUNDIAL",A3SERIES (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3572
 #EXTINF:-1,  tvg-name="ANTENA3"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" group-title="TV MUNDIAL",ANTENA 3 (ESP)
-http://190.90.154.73:8080/play/a06w/index.m3u8
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3574
 #EXTINF:-1,  tvg-name="LA1"  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV MUNDIAL",TVE La 1 (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1922
 #EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV MUNDIAL",TVE La 2 (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/5340
 #EXTINF:-1,  tvg-name="TVESTAR"  tvg-logo="https://i.postimg.cc/266Qkvq0/startve.png" group-title="TV MUNDIAL",STAR TVE (ESP)
 
 #EXTINF:-1,  tvg-name="BEMAD"  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.fRhUJj-sN4.jpg" group-title="TV MUNDIAL",BE MAD (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3584
 #EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV MUNDIAL",CUATRO (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1513
 #EXTINF:-1,  tvg-name="TELECINCO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="TV MUNDIAL",TELECINCO (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1941
 #EXTINF:-1,  tvg-name="LASEXTA"  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TV MUNDIAL",LA SEXTA (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1514
 #EXTINF:-1,  tvg-name="NOVA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" group-title="TV MUNDIAL",NOVA (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1861
 #EXTINF:-1,  tvg-name="NEOX"  tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/ver-Neox-online-o-en-android.jpg" group-title="TV MUNDIAL",NEOX (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3623
 #EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" group-title="TV MUNDIAL",MEGA (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1936
 #EXTINF:-1,  tvg-name="ENERGY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV MUNDIAL",ENERGY (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1835
 #EXTINF:-1,  tvg-name="FDF"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TV MUNDIAL",FDF (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1512
 #EXTINF:-1,  tvg-name="DIVINITY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TV MUNDIAL",DIVINITY (ESP)
-
+http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3594
 #EXTINF:-1,  tvg-name="BETEVE"  tvg-logo="https://www.albafores.com/wp-content/uploads/2019/06/betev%C3%A9-Logo.jpg" group-title="TV MUNDIAL",BETEVE (ESP)
 
 #EXTINF:-1,  tvg-name="eitb"  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" group-title="TV MUNDIAL",eitb (ESP)
@@ -1191,9 +1192,5 @@ https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20P
 
 #EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://i.postimg.cc/3rvsRKn3/livmusc.png" group-title="LIVE MUSIC",CONCIERTOS POR STINGRAY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
-
-
-
-
 
 
