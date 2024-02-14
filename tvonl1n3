@@ -8,11 +8,11 @@
 #EXTINF:-1,  tvg-name="TELEMUNDO"  tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" group-title="IZZIsd",TELEMUNDO
 http://190.90.154.73:8080/play/a04b/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVISION"  tvg-logo="https://i.postimg.cc/QtBqfdHC/unv1si0n.png" group-title="IZZIsd",UNIVISION
-
+http://181.78.105.146:8800/play/a05d
 #EXTINF:-1,  tvg-name="TRUTV"  tvg-logo="https://static.wixstatic.com/media/696a2f_04a977bd015b433d96838d18f71ad9d9.png" group-title="IZZIsd",TRU TV
-http://190.90.154.73:8080/play/a08m/index.m3u8
+http://181.78.105.146:8800/play/a03y
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZIsd",E!
-http://190.90.154.73:8080/play/a06q/index.m3u8
+http://191.97.14.38:4000/play/a014/index.m3u8
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZIsd",A&E
 http://138.59.177.34:8000/play/a052/index.m3u8
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" group-title="IZZIsd",AXN
@@ -20,17 +20,17 @@ http://190.90.154.73:8080/play/a01l/index.m3u8
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZIsd",AMC
 http://181.78.105.146:8800/play/a04b
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="IZZIsd",TNT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13436.ts
+http://181.78.105.146:8800/play/a04a
 #EXTINF:-1,  tvg-name="TNTSERIES"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZIsd",TNT SERIES
 http://181.78.105.146:8800/play/a042
 #EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZIsd",TCM
-http://190.90.154.73:8080/play/a066/index.m3u8
+http://45.5.119.155:8090/play/a0jw/index.m3u8
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZIsd",SPACE
 http://181.78.105.146:8800/play/a041
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZIsd",SONY 
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5914.ts
+http://191.97.14.38:4000/play/a01x/index.m3u8
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZIsd",WARNER 
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5943.ts
+http://191.97.14.38:4000/play/a013/index.m3u8
 #EXTINF:-1,  tvg-name="MULTIPREMIER"  tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/mp.png" group-title="IZZIsd",MULTIPREMIER
 http://181.78.105.146:8800/play/a06w
 #EXTINF:-1,  tvg-name="MULTICINEMA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="IZZIsd",MULTICINEMA
@@ -38,33 +38,33 @@ http://181.78.105.146:8800/play/a07p
 #EXTINF:-1,  tvg-name="SYFY"  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" group-title="IZZIsd",SYFY
 
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="IZZIsd",FX
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13480.ts
+http://181.78.105.146:8800/play/a01y
 #EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZIsd",DHE
 http://138.59.177.34:8000/play/a038/index.m3u8
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" group-title="IZZIsd",PARAMOUNT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/6014.ts
+http://181.78.105.146:8800/play/a00z
 #EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZIsd",CINECANAL 
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22160
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZIsd",CINEMAX
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22165
 #EXTINF:-1,  tvg-name="UNIVERSALSTUDIO"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",STUDIO UNIVERSAL
-http://190.90.154.73:8080/play/a083/index.m3u8
+http://181.78.105.146:8800/play/a06z
 #EXTINF:-1,  tvg-name="UNIVERSAL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL 
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13035.ts
+http://181.78.105.146:8800/play/a06u
 #EXTINF:-1,  tvg-name="UNIVERSALCN"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Cinema
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/250.ts
+
 #EXTINF:-1,  tvg-name="UNIVERSALCM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Comedy
 http://181.78.105.146:8800/play/a06b
 #EXTINF:-1,  tvg-name="UNIVERSALCR"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Crimen
-http://138.59.177.34:8000/play/a05v/index.m3u8
+
 #EXTINF:-1,  tvg-name="UNIVERSALPM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Premiere
 http://181.78.105.146:8800/play/a067
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13628.ts
+http://45.5.119.155:8090/play/a0jv/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN EDGE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13629.ts
+
 #EXTINF:-1,  tvg-name="GOLDENPLUS"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN PLUS
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3358.ts
+
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN PREMIER
 http://138.59.177.34:8000/play/a019/index.m3u8
 #EXTINF:-1,  tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="IZZIsd",STAR CHANNEL 
@@ -74,9 +74,9 @@ http://190.61.43.117:45000/play/a01w
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO 2
 http://181.78.105.146:8800/play/a016
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Family
-
+http://191.97.14.38:4000/play/a00w/index.m3u8
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Plus
-
+http://191.97.14.38:4000/play/a00u/index.m3u8
 #EXTINF:-1,  tvg-name="HBOXT"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Xtreme
 http://181.78.105.146:8800/play/a019
 #EXTINF:-1,  tvg-name="HBOPOP"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO Pop
@@ -106,7 +106,7 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/63803
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="IZZIsd",CINECLUB ALIENS
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/56288
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="IZZIsd",CINECLUB SUSPENSO
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/65439
+
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="IZZIsd",CINECLUB TERROR
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/63839
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="IZZIsd",CINECLUB TIEMPO
@@ -115,17 +115,17 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/65221
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZIsd",ID
 http://190.90.154.73:8080/play/a01n/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZIsd",DISCOVERY CHANNEL
-http://190.90.154.73:8080/play/a07g/index.m3u8
+http://191.97.14.38:4000/play/a011/index.m3u8
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZIsd",HISTORY CHANNEL
 http://190.90.154.73:8080/play/a01a/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZIsd",H2
-http://190.90.154.73:8080/play/a06p/index.m3u8
+http://45.5.119.155:8090/play/a0jp/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZIsd",NATGEO
-http://190.90.154.73:8080/play/a06o/index.m3u8
+http://45.5.119.155:8090/play/a05k/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZIsd",ANIMAL PLANET
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13834.ts
+http://191.97.14.38:4000/play/a012/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYSCIENCE"  tvg-logo="https://i.postimg.cc/qR37xMWk/DICVRYSCINC.png" group-title="IZZIsd",DISCOVERY SCIENCE 
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13825.ts
+http://181.78.105.146:8800/play/a00e
 #EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZIsd",DISCOVERY TURBO
 http://181.78.105.146:8800/play/a06n
 #EXTINF:-1,  tvg-name="DISCOVERYWORLD"  tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="IZZIsd",DISCOVERY WORLD
@@ -146,9 +146,9 @@ http://iptvmedia.live:8080/F27091/3fb29cc1/9039
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS XEW
 
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
-http://190.90.154.73:8080/play/a07z/index.m3u8
+http://45.5.119.155:8090/play/a04y/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLASlatam"  tvg-logo="https://i.postimg.cc/RFnccpDn/lsestrllslatm.png" group-title="TV MEXICO",LAS ESTRELLAS Latam
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://191.97.14.38:4000/play/a01f/index.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="TV MEXICO",FORO TV
 
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC
@@ -163,8 +163,8 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE
 
-#EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE GALAVISION
-
+#EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL 9-GALAVISION
+http://45.5.119.155:8090/play/a04j/index.m3u8
 #EXTINF:-1,  tvg-name="ONCETV"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV
 
 #EXTINF:-1,  tvg-name="ONCETVinternl"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV INTERNACIONAL
@@ -231,7 +231,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="NOTICIAS",ADN 40
-http://45.189.148.24:8000/play/a01k/index.m3u8
+
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="NOTICIAS",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,  tvg-name="NMAS"  tvg-logo="https://i.postimg.cc/g2NFWxj0/nmastv.png" group-title="NOTICIAS",NMAS
@@ -249,21 +249,21 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1,  tvg-name="CNNLATINO"  tvg-logo="https://i.postimg.cc/MGgBKbpZ/cnnspnsh.png" group-title="NOTICIAS",CNN ESPANOL
 http://190.61.43.116:45000/play/a044
 #EXTINF:-1,  tvg-name="CNNLATINO"  tvg-logo="https://i.postimg.cc/MGgBKbpZ/cnnspnsh.png" group-title="NOTICIAS",CNN ESPANOL O2
-http://190.90.154.73:8080/play/a08g/index.m3u8
+http://181.78.105.146:8800/play/a04c
 #EXTINF:-1,  tvg-name="TVESTRELLANEWS"  tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logog.png?t=1" group-title="NOTICIAS",ESTRELLA NEWS 
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="EURONEWS"  tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="NOTICIAS",EURONEWS ptv
 
-#EXTINF:-1,  tvg-name="EURONEWS"  tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="NOTICIAS",EURONEWS
-
+#EXTINF:-1,  tvg-name="TN23"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/TN232022.webp" group-title="NOTICIAS",TN23
+http://45.5.119.155:8090/play/a059/index.m3u8
 #EXTINF:-1,  tvg-name="TELESUR"  tvg-logo="https://logosave.com/images/large/common/02/telesur.png" group-title="NOTICIAS",TELESUR
-
+http://45.5.119.155:8090/play/a05i/index.m3u8
 #EXTINF:-1,  tvg-name="FRANCE24"  tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png" group-title="NOTICIAS",FRANCE 24
 http://190.90.154.73:8080/play/a02x/index.m3u8
 #EXTINF:-1,  tvg-name="DW"  tvg-logo="https://i.postimg.cc/W351d439/DW.jpg" group-title="NOTICIAS",DW Deutsche Welle
-http://190.90.154.73:8080/play/a08l/index.m3u8
+
 #EXTINF:-1,  tvg-name="24HORAS"  tvg-logo="https://i.postimg.cc/13z7DJR9/24hrs.png" group-title="NOTICIAS",24 Hrs Chile
-http://190.90.154.73:8080/play/a095/index.m3u8
+
 #EXTINF:-1,  tvg-name="ELPAISTV"  tvg-logo="https://i.postimg.cc/yxBvxTrC/epaistv.png" group-title="NOTICIAS",EL PAIS TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1,  tvg-name="CGTN"  tvg-logo="https://i.postimg.cc/DZsXWJSr/cgtnspnsh.png" group-title="NOTICIAS",CGTN
@@ -284,7 +284,7 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/67499
 #EXTINF:-1,  tvg-name="UNIVISION"  tvg-logo="https://i.postimg.cc/QtBqfdHC/unv1si0n.png" group-title="IZZITV",UNIVISION
 http://45.228.232.205:16000/play/a081/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVISION"  tvg-logo="https://i.postimg.cc/QtBqfdHC/unv1si0n.png" group-title="IZZITV",UNIVISION O2
-
+http://45.5.119.155:8090/play/a0kr/index.m3u8
 #EXTINF:-1,  tvg-name="PASIONES"  tvg-logo="https://worldscreen.com/tvdrama/wp-content/uploads/sites/11/2017/07/PASIONES_LOGO-319.jpg" group-title="IZZITV",PASIONES TV
 http://138.59.177.34:8000/play/a079/index.m3u8
 #EXTINF:-1,  tvg-name="UNIMAS"  tvg-logo="https://oreox.net/images/logos-canales/90.png" group-title="IZZITV",UNIMAS
@@ -300,25 +300,27 @@ http://138.59.177.34:8000/play/a04y/index.m3u8
 #EXTINF:-1,  tvg-name="HOMEANDHEALTH"  tvg-logo="https://cablego.com.pe/cache/logos/HOMEANDHEALTH.png" group-title="IZZITV",D HOME & HEALTH
 http://190.90.154.73:8080/play/a01b/index.m3u8
 #EXTINF:-1,  tvg-name="TLC"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="IZZITV",TLC
-
+http://45.5.119.155:8090/play/a0hh/index.m3u8
 #EXTINF:-1,  tvg-name="MASCHIC"  tvg-logo="https://cablego.com.pe/cache/logos/MASCHIC.png" group-title="IZZITV",MAS CHIC 
 http://181.78.105.146:8800/play/a00a
 #EXTINF:-1,  tvg-name="FOXLIFE"  tvg-logo="https://cablego.com.pe/cache/logos/FOXLIFE.png" group-title="IZZITV",STAR LIFE
-
+http://45.5.119.155:8090/play/a0g4/index.m3u8
 #EXTINF:-1,  tvg-name="GOURMET"  tvg-logo="https://i.postimg.cc/zD4CNyqk/gourmt.png" group-title="IZZITV",GOURMET
 http://138.59.177.34:8000/play/a043/index.m3u8
 #EXTINF:-1,  tvg-name="LIFETIME"  tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" group-title="IZZITV",LIFETIME
-http://190.90.154.73:8080/play/a081/index.m3u8
+http://45.5.119.155:8090/play/a0gb/index.m3u8
 #EXTINF:-1,  tvg-name="TRUTV"  tvg-logo="https://static.wixstatic.com/media/696a2f_04a977bd015b433d96838d18f71ad9d9.png" group-title="IZZITV",TRU TV
 http://190.90.154.73:8080/play/a025/index.m3u8
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZITV",E!
-http://190.90.154.73:8080/play/a08s/index.m3u8
+http://45.5.119.155:8090/play/a0gr/index.m3u8
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZITV",E! O2
 http://138.59.177.34:8000/play/a030/index.m3u8
+#EXTINF:-1,  tvg-name="ZONALATINA"  tvg-logo="https://pbs.twimg.com/profile_images/1680955658831552512/_F4y-RH2_400x400.jpg" group-title="IZZITV",ZONA LATINA
+http://191.97.14.38:4000/play/a00d/index.m3u8
 #EXTINF:-1,  tvg-name="COMEDYCENTRAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="IZZITV",COMEDY CENTRAL
 http://190.95.220.212:8000/play/a02k/index.m3u8
 #EXTINF:-1,  tvg-name="DISTRITOCOMEDIA"  tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/logo-distrito-comedia.jpg" group-title="IZZITV",DISTRITO COMEDIA
-
+http://45.5.119.155:8090/play/a05o/index.m3u8
 
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZITV",A&E
 http://190.90.154.73:8080/play/a00o/index.m3u8
@@ -329,19 +331,19 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6696
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="IZZITV",TNT
 http://190.90.154.73:8080/play/a01w/index.m3u8
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/76m2jLmS/tnt.png" group-title="IZZITV",TNT O2
-http://181.78.105.146:8800/play/a04a
+http://45.5.119.155:8090/play/a0hu/index.m3u8
 #EXTINF:-1,  tvg-name="TNTseries"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZITV",TNT SERIES
 http://138.59.177.34:8000/play/a076/index.m3u8
 #EXTINF:-1,  tvg-name="TNTseries"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZITV",TNT NOVELAS
-http://190.90.154.73:8080/play/a06u/index.m3u8
+http://191.97.14.38:4000/play/a04q/index.m3u8
 #EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZITV",TCM
 http://181.78.105.146:8800/play/a02c
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
+http://45.5.119.155:8090/play/a0iz/index.m3u8
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE O2
 http://190.90.154.73:8080/play/a00s/index.m3u8
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY 
-http://190.90.154.73:8080/play/a06x/index.m3u8
+http://45.5.119.155:8090/play/a0hp/index.m3u8
 #EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY MOVIES
 http://138.59.177.34:8000/play/a037/index.m3u8
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" group-title="IZZITV",WARNER 
@@ -351,14 +353,17 @@ http://190.90.154.73:8080/play/a04c/index.m3u8
 
 #EXTINF:-1,  tvg-name="MULTIPREMIER"  tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/mp.png" group-title="IZZITV",MULTIPREMIER
 http://138.59.177.34:8000/play/a06o/index.m3u8
-#EXTINF:-1,  tvg-name="CINELATINO"  tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png" group-title="IZZITV",ZONA LATINA
+#EXTINF:-1,  tvg-name="DPELICULA"  tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="IZZITV",D PELICULA
+http://45.5.119.155:8090/play/a057/index.m3u8
+#EXTINF:-1,  tvg-name="CINELATINO"  tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png" group-title="IZZITV",CINE LATINO
+http://45.5.119.155:8090/play/a0ik/index.m3u8
 
 #EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZITV",DHE
-http://190.90.154.73:8080/play/a098/index.m3u8
+http://45.5.119.155:8090/play/a0gy/index.m3u8
 #EXTINF:-1,  tvg-name="SYFY"  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" group-title="IZZITV",SYFY
 http://138.59.177.34:8000/play/a053/index.m3u8
 #EXTINF:-1,  tvg-name="USA"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="IZZITV",USA
-http://190.90.154.73:8080/play/a06z/index.m3u8
+
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" group-title="IZZITV",FX
 http://190.90.154.73:8080/play/a02x/index.m3u8
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" group-title="IZZITV",PARAMOUNT
@@ -368,16 +373,16 @@ http://190.90.154.73:8080/play/a03i/index.m3u8
 #EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZITV",CINECANAL 
 http://190.90.154.73:8080/play/a03d/index.m3u8
 #EXTINF:-1,  tvg-name="CINECANAL"  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" group-title="IZZITV",CINECANAL O2
-
+http://45.5.119.155:8090/play/a0hq/index.m3u8
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX
 http://190.90.154.73:8080/play/a022/index.m3u8
 #EXTINF:-1,  tvg-name="CINEMAX"  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" group-title="IZZITV",CINEMAX O2
-
+http://45.5.119.155:8090/play/a0il/index.m3u8
 
 #EXTINF:-1,  tvg-name="UNIVERSALST"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",STUDIO UNIVERSAL
 http://190.90.154.73:8080/play/a03j/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVERSALST"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",STUDIO UNIVERSAL O2
-
+http://181.78.105.146:8800/play/a04m
 #EXTINF:-1,  tvg-name="UNIVERSAL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL 
 http://190.90.154.73:8080/play/a01m/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVERSAL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL O2
@@ -387,11 +392,11 @@ http://190.61.43.117:45000/play/a05x
 #EXTINF:-1,  tvg-name="UNIVERSALCM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL Comedy
 http://190.61.43.117:45000/play/a06k
 #EXTINF:-1,  tvg-name="UNIVERSALCR"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL Crimen
-http://181.78.105.146:8800/play/a06a
+http://45.5.119.155:8090/play/a0i4/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVERSALPM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL Premiere
 http://190.61.43.117:45000/play/a05w
 #EXTINF:-1,  tvg-name="UNIVERSALRL"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZITV",UNIVERSAL Reality
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
+http://45.5.119.155:8090/play/a0i3/index.m3u8
 
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13628.ts
@@ -414,7 +419,7 @@ http://190.95.220.212:8000/play/a00s/index.m3u8
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 1 O2
 http://181.78.105.146:8800/play/a015
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5888.ts
+http://45.5.119.155:8090/play/a00c/index.m3u8
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 2 O2
 http://190.61.43.117:45000/play/a023
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Family
@@ -422,7 +427,7 @@ http://190.61.43.117:45000/play/a05y
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Family O2
 http://177.128.113.8:1/play/a0ad
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Plus
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/61.ts
+http://45.5.119.155:8090/play/a0l4/index.m3u8
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Plus O2
 http://181.78.105.146:8800/play/a017
 #EXTINF:-1,  tvg-name="HBOXT"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Xtreme
@@ -441,9 +446,9 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/67467
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZITV",ID
 http://190.90.154.73:8080/play/a024/index.m3u8
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZITV",ID O2
-
+http://181.78.105.146:8800/play/a05e
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZITV",DISCOVERY CHANNEL
-http://190.90.154.73:8080/play/a099/index.m3u8
+http://181.78.105.146:8800/play/a05a
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZITV",DISCOVERY CHANNEL O2
 http://138.59.177.34:8000/play/a054/index.m3u8
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL
@@ -453,7 +458,7 @@ http://190.90.154.73:8080/play/a00n/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2
 http://138.59.177.34:8000/play/a042/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2 O2
-
+http://191.97.14.38:4000/play/a04s/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO
 http://138.59.177.34:8000/play/a074/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO O2
@@ -461,36 +466,36 @@ http://190.90.154.73:8080/play/a03b/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET
 http://138.59.177.34:8000/play/a055/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET O2
-http://190.90.154.73:8080/play/a07f/index.m3u8
+http://45.5.119.155:8090/play/a0gq/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYSCIENCE"  tvg-logo="https://i.postimg.cc/qR37xMWk/DICVRYSCINC.png" group-title="IZZITV",DISCOVERY SCIENCE 
-http://190.90.154.73:8080/play/a060/index.m3u8
+
 #EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZITV",DISCOVERY TURBO
-http://190.90.154.73:8080/play/a07x/index.m3u8
+http://45.5.119.155:8090/play/a0ia/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZITV",DISCOVERY TURBO O2
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5975.ts
+http://45.5.119.155:8090/play/a0ia/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYWORLD"  tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="IZZITV",DISCOVERY WORLD
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6705
 #EXTINF:-1,  tvg-name="DISCOVERYTEAT"  tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="IZZITV",DISCOVERY TEATRO
 http://190.90.154.73:8080/play/a02p/index.m3u8
 
-#EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="IZZITV",TUDN USA
-
+#EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="IZZITV",TUDN 
+http://45.5.119.155:8090/play/tudn042/index.m3u8
 #EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="IZZITV",TUDN MX
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/67460
 #EXTINF:-1,  tvg-name="CLAROSPORTS"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="IZZITV",CLARO SPORTS
-http://138.59.177.34:8000/play/a06h/index.m3u8
+http://45.5.119.155:8090/play/a04w/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="IZZITV",ESPN Nt 1
-http://138.59.177.34:8000/play/a058/index.m3u8
+http://181.78.105.146:8800/play/a053
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="IZZITV",ESPN Nt 2
-http://138.59.177.34:8000/play/a059/index.m3u8
+http://181.78.105.146:8800/play/a055
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="IZZITV",ESPN Nt 3
-http://138.59.177.34:8000/play/a046/index.m3u8
+http://181.78.105.146:8800/play/a025
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="IZZITV",ESPN + Nt
-
+http://181.78.105.146:8800/play/a07r
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="IZZITV",ESPN Extra
 http://190.61.43.117:45000/play/a01v
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="IZZITV",FOX Nt 1
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22120
+
 #EXTINF:-1,  tvg-name="FOXSPORTS2"  tvg-logo="https://i.postimg.cc/4xgrDz1t/fxsp2.png" group-title="IZZITV",FOX Nt 2
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://i.postimg.cc/x13WncsZ/fxsp3.png" group-title="IZZITV",FOX Nt 3
@@ -523,18 +528,18 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22145
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="DEPORTES",CLARO Sports
 
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/cC0rrDyW/clrosport2.png" group-title="DEPORTES",CLARO Sports 2
-http://181.78.105.146:8800/play/a012
+http://45.5.119.155:8090/play/a03w/index.m3u8
 
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="DEPORTES",ESPN Nt1
-http://181.78.105.146:8800/play/a053
+http://45.5.119.155:8090/play/a0kg/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="DEPORTES",ESPN Nt2
-http://181.78.105.146:8800/play/a055
+http://45.5.119.155:8090/play/a0ki/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3
-http://181.78.105.146:8800/play/a025
+http://45.5.119.155:8090/play/a0kh/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN4"  tvg-logo="https://i.postimg.cc/WbkdWP9z/espn4.png" group-title="DEPORTES",ESPN Nt 4
-http://181.78.105.146:8800/play/a06r
+http://45.5.119.155:8090/play/a0ix/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt Extra
-http://181.78.105.146:8800/play/a07r
+http://45.5.119.155:8090/play/a05l/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN + DEPORTES
 http://181.78.105.146:8800/play/a04i
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN PREMIUM
@@ -552,9 +557,9 @@ http://45.189.148.24:8000/play/a027/index.m3u8
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22119
 
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1
-http://177.128.113.8:1/play/a07g
+http://191.97.14.38:4000/play/a017/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2
-
+http://191.97.14.38:4000/play/a016/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud3"  tvg-logo="https://i.postimg.cc/3JFk5ZTQ/espnsd3.png" group-title="DEPORTES",ESPN SUD 3
 http://177.128.113.8:1/play/a081
 #EXTINF:-1,  tvg-name="ESPNsud4"  tvg-logo="https://i.postimg.cc/vZ8cQ6Yg/espnsd4.png" group-title="DEPORTES",ESPN SUD 4
@@ -564,31 +569,31 @@ http://177.128.113.8:1/play/a08v
 
 
 #EXTINF:-1,  tvg-name="FOXlat1"  tvg-logo="https://i.postimg.cc/d0LP6JBS/fxsplat1.png" group-title="DEPORTES",FOX SPORTS Lat 1
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546141.ts
+http://191.97.14.38:4000/play/a049/index.m3u8
 #EXTINF:-1,  tvg-name="FOXlat2"  tvg-logo="https://i.postimg.cc/6qVDqqWT/fxsplat2.png" group-title="DEPORTES",FOX SPORTS Lat 2
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
+http://191.97.14.38:4000/play/a01g/index.m3u8
 #EXTINF:-1,  tvg-name="FOXlat3"  tvg-logo="https://i.postimg.cc/44zCBL6Z/fxsplat3.png" group-title="DEPORTES",FOX SPORTS Lat 3
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6691
+http://191.97.14.38:4000/play/a01h/index.m3u8
 
 
 #EXTINF:-1,  tvg-name="FOXsp1"  tvg-logo="https://i.postimg.cc/ZRtmZPDS/FXSP1.png" group-title="DEPORTES",FOX SP 1
-http://170.81.147.241:37000/play/a05y
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546141.ts
 #EXTINF:-1,  tvg-name="FOXsp2"  tvg-logo="https://i.postimg.cc/155Q93Mf/FXSP2.png" group-title="DEPORTES",FOX SP 2
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/61621
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
 #EXTINF:-1,  tvg-name="FOXsp3"  tvg-logo="https://i.postimg.cc/X7H0X6Dx/FXSP3.png" group-title="DEPORTES",FOX SP 3
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10271.ts
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6691
 
 #EXTINF:-1,  tvg-name="FOXsp1"  tvg-logo="https://i.postimg.cc/ZRtmZPDS/FXSP1.png" group-title="DEPORTES",FOX SParg 1
 
 #EXTINF:-1,  tvg-name="FOXsp2"  tvg-logo="https://i.postimg.cc/155Q93Mf/FXSP2.png" group-title="DEPORTES",FOX SParg 2
 
 #EXTINF:-1,  tvg-name="FOXsp3"  tvg-logo="https://i.postimg.cc/X7H0X6Dx/FXSP3.png" group-title="DEPORTES",FOX SParg 3
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13572.ts
 
-#EXTINF:-1,  tvg-name="DAZN1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTES",DAZN 1
+
+#EXTINF:-1,  tvg-name="DAZN1"  tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="DEPORTES",DAZN 1
 http://724387382856228384.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/228384.ts
-#EXTINF:-1,  tvg-name="DAZN2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="DEPORTES",DAZN La Liga
-http://724387382856262413.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/262413.ts
+#EXTINF:-1,  tvg-name="DAZN2"  tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="DEPORTES",DAZN La Liga
+
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1
 http://724387382856165419.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165419.ts
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1 O2
@@ -597,9 +602,9 @@ http://724387382856165418.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165418.ts
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1931
 
 #EXTINF:-1,  tvg-name="TIGOsud"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS SUD
-
+http://45.5.119.155:8090/play/a02v/index.m3u8
 #EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS HON
-
+http://45.5.119.155:8090/play/a04i/index.m3u8
 #EXTINF:-1,  tvg-name="TIGOcr"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS CR
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-1,  tvg-name="FUTV"  tvg-logo="https://i.postimg.cc/k4GQDp7S/futv.png" group-title="DEPORTES",FUTV CR
@@ -607,23 +612,25 @@ http://138.59.177.34:8000/play/a05z/index.m3u8
 #EXTINF:-1,  tvg-name="ECDF"  tvg-logo="https://i.postimg.cc/Fs6k3RPB/ecdfecu.png" group-title="DEPORTES",ECDF ECU
 http://190.90.154.73:8080/play/a051/index.m3u8
 #EXTINF:-1,  tvg-name="ECDF"  tvg-logo="https://i.postimg.cc/Fs6k3RPB/ecdfecu.png" group-title="DEPORTES",ECDF ECU O2
-http://190.90.154.73:8080/play/a08x/index.m3u8
+
 #EXTINF:-1,  tvg-name="GOLTV"  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" group-title="DEPORTES",GOL TV
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
 
-#EXTINF:-1,  tvg-name="CHILEVISIONDEPORTES"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="DEPORTES",CHV DEPORTES CHI
-
-
+#EXTINF:-1,  tvg-name="SKYSPORTS"  tvg-logo="https://pbs.twimg.com/profile_images/1645566918613409793/_P9O7wNA_400x400.jpg" group-title="DEPORTES",SKY SPORTS
+http://45.5.119.155:8090/play/a04e/index.m3u8
 #EXTINF:-1,  tvg-name="PARAMOUNTligapremier"  tvg-logo="https://i.postimg.cc/Zny6xvBK/ParmntPL.png" group-title="DEPORTES",PARAMOUNT LIGA PREMIER
 
 #EXTINF:-1,  tvg-name="TYCSPORTS"  tvg-logo="https://i.postimg.cc/HsPfd4Vh/TyCSPRT.png" group-title="DEPORTES",TYC SPORTS
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/31315
+http://191.97.14.38:4000/play/a019/index.m3u8
 #EXTINF:-1,  tvg-name="BEINSPORTS"  tvg-logo="https://aquihaypelotas.es/wp-content/uploads/2018/07/bein-sports.jpg" group-title="DEPORTES",BEIN SPORTS
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/23542
-#EXTINF:-1,  tvg-name="WINSPORTS"  tvg-logo="https://i.postimg.cc/PJVFfTrw/WINSPRT.png" group-title="DEPORTES",WIN SPORTS
-
+#EXTINF:-1,  tvg-name="WINSPORTS"  tvg-logo="https://i.postimg.cc/PJVFfTrw/WINSPRT.png" group-title="DEPORTES",WIN SPORTS Col
+http://191.97.14.38:4000/play/a047/index.m3u8
 #EXTINF:-1,  tvg-name="PLUTODEPORTES"  tvg-logo="https://i.postimg.cc/3RktzR4z/pltvdep.png" group-title="DEPORTES",PLUTO TV DEPORTES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
+
+
+
 
 
 
@@ -834,9 +841,9 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" group-title="TV INFANTIL",DISCOVERY KIDS 
 http://138.59.177.34:8000/play/a016/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEOKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png" group-title="TV INFANTIL",NATGEO KIDS
-
+http://45.5.119.155:8090/play/a0jl/index.m3u8
 #EXTINF:-1,  tvg-name="DISNEYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png" group-title="TV INFANTIL",DISNEY CHANNEL 
-
+http://45.5.119.155:8090/play/a0i8/index.m3u8
 #EXTINF:-1,  tvg-name="DISNEYXD"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png" group-title="TV INFANTIL",DISNEY XD
 
 #EXTINF:-1,  tvg-name="DISNEYJUNIOR"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png" group-title="TV INFANTIL",DISNEY JUNIOR
@@ -844,18 +851,17 @@ http://138.59.177.34:8000/play/a026/index.m3u8
 #EXTINF:-1,  tvg-name="CARTOONNT"  tvg-logo="https://i.postimg.cc/1RdHzWrw/crtoontwrk.png" group-title="TV INFANTIL",CARTOON NETWORK
 http://138.59.177.34:8000/play/a023/index.m3u8
 #EXTINF:-1,  tvg-name="CARTOONNT"  tvg-logo="https://i.postimg.cc/1RdHzWrw/crtoontwrk.png" group-title="TV INFANTIL",CARTOON NETWORK O2
-http://190.90.154.73:8080/play/a09e/index.m3u8
+
 #EXTINF:-1,  tvg-name="CARTOONITO"  tvg-logo="https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo.png" group-title="TV INFANTIL",CARTOONITO
 http://138.59.177.34:8000/play/a025/index.m3u8
 #EXTINF:-1,  tvg-name="NICKTOONS"  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" group-title="TV INFANTIL",NICKELODEON
-http://190.90.154.73:8080/play/a05y/index.m3u8
+
 #EXTINF:-1,  tvg-name="TEENNICK"  tvg-logo="https://www.digital-news.it/files-admin/Simone/2015/11/1449181299-teennick-logo.jpg" group-title="TV INFANTIL",TEENNICK
 
 #EXTINF:-1,  tvg-name="NICKJR"  tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" group-title="TV INFANTIL",NICKJR
 http://190.90.154.73:8080/play/a04d/index.m3u8
 #EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" group-title="TV INFANTIL",TOONCAST
-http://190.90.154.73:8080/play/a08d/index.m3u8
-
+http://45.5.119.155:8090/play/a03k/index.m3u8
 
 
 
@@ -1022,7 +1028,7 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="CANAL33MADRID"  tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="TV MUNDIAL",CANAL 33 MADRID (ESP)
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1,  tvg-name="TVE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="TV MUNDIAL",TVE (ESP)
-
+http://45.5.119.155:8090/play/a04r/index.m3u8
 #EXTINF:-1,  tvg-name="A3SERIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV MUNDIAL",A3SERIES (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3572
 #EXTINF:-1,  tvg-name="ANTENA3"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" group-title="TV MUNDIAL",ANTENA 3 (ESP)
@@ -1178,12 +1184,13 @@ http://190.90.154.73:8080/play/a08w/index.m3u8
 
 #EXTINF:0,tvg-logo="https://img.freepik.com/vector-gratis/poster-abstracto-grunge-musica-directo_1017-9864.jpg?size=338&ext=jpg" group-title="LIVE MUSIC",---LIVE MUSIC---
 
+
 #EXTINF:-1,  tvg-name="CONCERT"  tvg-logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="LIVE MUSIC",MOVISTAR MUSIC
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/90055
 #EXTINF:-1,  tvg-name="hTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="LIVE MUSIC",hTV
 
 #EXTINF:-1,  tvg-name="NICKMusic"  tvg-logo="https://i.postimg.cc/4yVqF5mY/nickmusic.png" group-title="LIVE MUSIC",NICKMusic
-http://190.90.154.73:8080/play/a07d/index.m3u8
+
 
 #EXTINF:-1,  tvg-name="VIDEOMIX80s"  tvg-logo="https://i.postimg.cc/3rvsRKn3/livmusc.png" group-title="LIVE MUSIC",80s VIDEOMIX vol 1
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
@@ -1192,9 +1199,4 @@ https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20P
 
 #EXTINF:-1,  tvg-name="LIVEMUSIC"  tvg-logo="https://i.postimg.cc/3rvsRKn3/livmusc.png" group-title="LIVE MUSIC",CONCIERTOS POR STINGRAY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
-
-
-
-
-
 
