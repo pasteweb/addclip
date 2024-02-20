@@ -382,8 +382,13 @@ http://archive.org/download/nadbkdfhk/nadbkdfhk.mp4
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",VIRIDIANA
 https://ia802303.us.archive.org/33/items/viridiana_202108/Viridiana.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",MACARIO
+https://ia802306.us.archive.org/31/items/macario-1960-hd-tv-rip/Macario%20%281960%29%20HD%20TV%20rip.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",TIZOC
+https://archive.org/download/tizoc-pelicula-remasterizada-en-hd.-pedro-infante-maria-felix/Tizoc%20Pelicula%20Remasterizada%20En%20HD.%20Pedro%20Infante%2C%20Maria%20Felix.mp4
 
-
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",FANTOCHE
+https://ia904604.us.archive.org/12/items/y-2-mate.is-pelicula-fantoche-con-joaquin-cordero-y-lilia-michel.-cine-mexicano-/Y2Mate.is%20-%20Pel%C3%ADcula%20Fantoche%20con%20Joaqu%C3%ADn%20Cordero%20y%20Lilia%20Michel.%20%20Cine%20Mexicano-bwwGbFK0TlE-720p-1629775979953%20%281%29.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LAS POBRES ILEGALES
 https://ia601509.us.archive.org/16/items/l-4s-pobres-ilegales-1982-1080p/L4s%20Pobres%20ilegales%20%281982%29%201080p.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",MUJERES SALVAJES
@@ -392,6 +397,8 @@ https://ia904606.us.archive.org/5/items/1091-mujeres-salvajes-1984-tvrip-lat-mx-
 https://ia804607.us.archive.org/0/items/video-4058-masacre-en-el-rio-tula-1985-dvdrip-lat-v.mkv/Video%204058-Masacre%20En%20El%20Rio%20Tula%20%281985%29%20DVDRip%20Lat%20v.mkv.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LA BANDA DEL CARRO ROJO
 https://ia804605.us.archive.org/7/items/la-banda-del-carro-rojo-1978-fullscreen/la%20banda%20del%20carro%20rojo%201978%20fullscreen.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",MUJER DE CABARET
+https://ia902508.us.archive.org/8/items/mujer-de-cabaret-1991/Mujer%20De%20Cabaret%20%281991%29.mp4
 
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",EL REY DEL BARRIO
@@ -444,7 +451,6 @@ https://ia804606.us.archive.org/17/items/yt-1s.com-el-hijo-del-pueblo-1974-wides
 
 
 
-#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",
 
@@ -457,8 +463,7 @@ https://ia804606.us.archive.org/17/items/yt-1s.com-el-hijo-del-pueblo-1974-wides
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",
 
 
-#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LO MEJOR DEL CHAVO DEL 8
-https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/LoMejorDelChavo_DVDR1.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",
 
 
 
@@ -473,14 +478,23 @@ https://content-na.drive.amazonaws.com/cdproxy/share/R3BMIytSccP4enRUWX8HOMKyGc0
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",SCHUMACHER
 http://158.69.158.102/Peliculas/Listo/30122022_0228/Schumacher.mp4
-
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",QUIEN MATO A JESUS
 http://fina.dyndns.tv/Peliculas/Killing%20Jesus.mkv
-
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",MH370 PERDIDOS
 https://www.dropbox.com/s/20j3blej2a0x7h4/FlightMH370%3BVanish.mp4?dl=1
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA CARA OCULTA DEL BAJO COSTO
 http://bilbohiria.com/docs2/filmak/Ryanair.%20La%20cara%20oculta%20del%20Low%20Cost.avi
+
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LOS ILLUMINATIS
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Illuminatis%2C%20la%20era%20que%20nos%20espera.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA CREACION DE ISRAEL
+https://ia600705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Cuando%20el%20mundo%20se%20tambalea%20%27El%20Sionismo%27.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EL MEDICO DE SATAN-WWII
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/F%C3%A9lix%20Kersten%2C%20el%20m%C3%A9dico%20de%20Sat%C3%A1n.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ABDUCCIONES EXTRATERRESTRES
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Misterio/Misterio_1/AbducionesExtraterrestres.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",SUMERIOS Y EL ENIGMA DE MARTE
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Misterio/Misterio_3/AnunnakisSumeriosMarteEnigmas.mp4
 
 #EXTINF:-1,  tvg-logo="https://logoeps.com/wp-content/uploads/2013/06/flag-of-usa-vector-logo.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EEUU 01 LA 2DA GUERRA MUNDIAL
 http://bilbohiria.com/docs2/filmak/La%20historia%20no%20contada%20de%20los%20Estados%20Unidos%20-%20Oliver%20Stone/01%20-%20La%20II%20Guerra%20Mundial%20194137842.mp4
@@ -503,6 +517,23 @@ http://bilbohiria.com/docs2/filmak/La%20historia%20no%20contada%20de%20los%20Est
 #EXTINF:-1,  tvg-logo="https://logoeps.com/wp-content/uploads/2013/06/flag-of-usa-vector-logo.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EEUU 10 BUSH Jr Y OBAMA ERA DEL TERROR
 http://bilbohiria.com/docs2/filmak/La%20historia%20no%20contada%20de%20los%20Estados%20Unidos%20-%20Oliver%20Stone/10%20-%20Bush%20y%20Obama%20La%20era%20del%20terror.mp4
 
+
+
+#EXTINF:-1,  tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19077209_b_v8_ap.jpg" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANCIENT ALIENS T1 Las Pruebas
+https://ia600705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Alien%C3%ADgenas%20ancestrales/T1/Alienigenas%20acenstrales.T01E01.Las%20pruebas.HDrip.mp4
+#EXTINF:-1,  tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19077209_b_v8_ap.jpg" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANCIENT ALIENS T1 Los Visitantes
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Alien%C3%ADgenas%20ancestrales/T1/Alienigenas%20ancestrales.T01E02.Los%20visitantes.HDrip.mp4
+#EXTINF:-1,  tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19077209_b_v8_ap.jpg" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANCIENT ALIENS T1 La Mision
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Alien%C3%ADgenas%20ancestrales/T1/Alienigenas%20ancestrales.T01E03.La%20mision.HDrip.mp4
+#EXTINF:-1,  tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19077209_b_v8_ap.jpg" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANCIENT ALIENS T1 Encuentros Cercanos
+https://ia600705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Alien%C3%ADgenas%20ancestrales/T1/Alienigenas%20ancestrales.T01E04.Encuentros%20cercanos.HDrip.mp4
+#EXTINF:-1,  tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19077209_b_v8_ap.jpg" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANCIENT ALIENS T1 El Regreso
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Alien%C3%ADgenas%20ancestrales/T1/Alienigenas%20ancestrales.T01E05.El%20regreso.HDrip.mp4
+#EXTINF:-1,  tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19077209_b_v8_ap.jpg" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANCIENT ALIENS T1 Naves Dioses y Mas Alla
+https://ia600705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Alien%C3%ADgenas%20ancestrales/T1/Alienigenas%20ancestrales.T01E06.Episodio%20piloto.mp4
+
+
+
 #EXTINF:-1,  tvg-logo="https://tribazik.com/wp-content/uploads/2014/08/classicrock760.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LAS 7 ERAS DEL ROCK Cap 1
 
 #EXTINF:-1,  tvg-logo="https://tribazik.com/wp-content/uploads/2014/08/classicrock760.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LAS 7 ERAS DEL ROCK Cap 2
@@ -523,6 +554,19 @@ http://bilbohiria.com/docs2/filmak/La%20historia%20no%20contada%20de%20los%20Est
 
 #EXTINF:0,tvg-logo="https://eitmedia.mx/media/k2/items/cache/8d034f027c82ad7715976b4cdc357985_XL.jpg" group-title="CARICATURAS",---CARICATURAS---
 
+
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 1
+https://ia804508.us.archive.org/16/items/lo-mejor-del-chavo-dvdr-1/LoMejorDelChavo_DVDR1.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 2
+https://ia804504.us.archive.org/23/items/lo-mejor-del-chavo-dvdr-2/LoMejorDelChavo_DVDR2.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 3
+https://ia804507.us.archive.org/30/items/lo-mejor-del-chavo-dvdr-3/LoMejorDelChavo_DVDR3.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 4
+https://archive.org/download/lo-mejor-del-chavo-dvdr-4/LoMejorDelChavo_DVDR4.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 5
+https://ia904504.us.archive.org/2/items/lo-mejor-del-chavo-dvdr-5/LoMejorDelChavo_DVDR5.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 6
+https://ia601009.us.archive.org/8/items/lo-mejor-del-chavo-dvdr-6/LoMejorDelChavo_DVDR6.mp4
 
 
 #EXTINF:-1,  tvg-logo="https://serieslan.com/tb/dyp.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",DON GATO Hawaii
