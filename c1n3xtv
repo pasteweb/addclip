@@ -404,6 +404,14 @@ http://ia801502.us.archive.org/15/items/000_20201007/0002.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",EL CENICIENTO
 http://ia801502.us.archive.org/15/items/000_20201007/0001.mp4
 
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LA LEY DEL MONTE
+https://ia804605.us.archive.org/0/items/y-2-mate.is-la-ley-del-monte-widescreen-d-1-amdx-7o-hp-q-720p-1641780089832/Y2Mate.is%20-%20La%20Ley%20Del%20Monte%20WIDESCREEN-D1AMDX7oHpQ-720p-1641780089832.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",EL TAHUR
+https://ia804605.us.archive.org/29/items/2954-el-tahur-1979-dvdrip-lat-mx-v.mkv/2954-El_Tahur_%281979%29_DVDRip_Lat_mx_v.mkv.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",TACOS AL CARBON
+https://ia804609.us.archive.org/23/items/2953-tacos-al-carbon-1972-dvdrip-lat-v.mkv/2953-Tacos_Al_Carbon_%281972%29_DVDRip_Lat_v.mkv.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",ME CAI DE LA NUBE
+https://ia801402.us.archive.org/11/items/me-cai-de-la-nube-1974-1080p/Me%20Ca%C3%AD%20de%20la%20Nube%20%281974%29%201080p.mp4
 
 #EXTINF:0,tvg-logo="http://3.bp.blogspot.com/-ddq0WzBtzMs/UxR1lFU8AoI/AAAAAAAAHpM/WrxQ8cl102k/s1600/documentales.png" group-title="VIDEOCUMENTALES",---VIDEOCUMENTALES---
 
