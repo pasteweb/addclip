@@ -379,13 +379,18 @@ http://ia801401.us.archive.org/25/items/00000_20200906/000003.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",COMO HACER UNA XXX
 http://archive.org/download/nadbkdfhk/nadbkdfhk.mp4
 
-
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LA OTRA
+https://ia902204.us.archive.org/28/items/la-otra-1946-hd/La%20Otra%20-%20%281946%29%20-%20HD.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",VIRIDIANA
 https://ia802303.us.archive.org/33/items/viridiana_202108/Viridiana.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",MACARIO
 https://ia802306.us.archive.org/31/items/macario-1960-hd-tv-rip/Macario%20%281960%29%20HD%20TV%20rip.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",TIZOC
 https://archive.org/download/tizoc-pelicula-remasterizada-en-hd.-pedro-infante-maria-felix/Tizoc%20Pelicula%20Remasterizada%20En%20HD.%20Pedro%20Infante%2C%20Maria%20Felix.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LA LLORONA
+https://ia904503.us.archive.org/15/items/la-llorona-1960/La%20Llorona%20%281960%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LA NOCHE AVANZA
+https://ia802204.us.archive.org/34/items/noche-avanza-la-1952/La%20noche%20avanza%20%281952%29%20HD.mp4
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",FANTOCHE
 https://ia904604.us.archive.org/12/items/y-2-mate.is-pelicula-fantoche-con-joaquin-cordero-y-lilia-michel.-cine-mexicano-/Y2Mate.is%20-%20Pel%C3%ADcula%20Fantoche%20con%20Joaqu%C3%ADn%20Cordero%20y%20Lilia%20Michel.%20%20Cine%20Mexicano-bwwGbFK0TlE-720p-1629775979953%20%281%29.mp4
@@ -399,7 +404,8 @@ https://ia804607.us.archive.org/0/items/video-4058-masacre-en-el-rio-tula-1985-d
 https://ia804605.us.archive.org/7/items/la-banda-del-carro-rojo-1978-fullscreen/la%20banda%20del%20carro%20rojo%201978%20fullscreen.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",MUJER DE CABARET
 https://ia902508.us.archive.org/8/items/mujer-de-cabaret-1991/Mujer%20De%20Cabaret%20%281991%29.mp4
-
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",NARCO TERROR
+https://ia902509.us.archive.org/17/items/narco-terror-1985-hd-1080p/Narco%20Terror%20%281985%29HD%201080p.ia.mp4
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",EL REY DEL BARRIO
 http://ia801406.us.archive.org/0/items/00002_202101/00010.mp4
@@ -451,8 +457,6 @@ https://ia804606.us.archive.org/17/items/yt-1s.com-el-hijo-del-pueblo-1974-wides
 
 
 
-
-#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",
 
@@ -567,6 +571,9 @@ https://archive.org/download/lo-mejor-del-chavo-dvdr-4/LoMejorDelChavo_DVDR4.mp4
 https://ia904504.us.archive.org/2/items/lo-mejor-del-chavo-dvdr-5/LoMejorDelChavo_DVDR5.mp4
 #EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 6
 https://ia601009.us.archive.org/8/items/lo-mejor-del-chavo-dvdr-6/LoMejorDelChavo_DVDR6.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 7
+https://ia804501.us.archive.org/26/items/lo-mejor-del-chavo-dvdr-7/LoMejorDelChavo_DVDR7.mp4
+
 
 
 #EXTINF:-1,  tvg-logo="https://serieslan.com/tb/dyp.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",DON GATO Hawaii
@@ -792,7 +799,8 @@ http://fina.dyndns.tv/Cartoons/Cuatro%20Fantasticos/19%20Aventuras%20en%20egipto
 #EXTINF:-1,  tvg-logo="https://kimcartoon.to/Uploads/Etc/3-11-2015/31362034.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOS 4 FANTASTICOS El director malvado
 http://fina.dyndns.tv/Cartoons/Cuatro%20Fantasticos/20%20El%20director%20terrible.mp4
 
-
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/L/looney-tunes-logo-A1BA4B0278-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOONEY TUNES Bugs Bunny La Pelicula
+https://ia902704.us.archive.org/16/items/Bugs-Correcaminos-Conejo-Fugitivo-VHS/2023-03-25%2015-39-11.mp4
 #EXTINF:-1,  tvg-logo="https://seeklogo.com/images/L/looney-tunes-logo-A1BA4B0278-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOONEY TUNES Bugs Bunny
 https://ia802607.us.archive.org/18/items/looneytunes-vhs-jano620/365%20-%20The%20Wacky%20Wabbit%20%28Redoblaje%29%20%28CN%29.mp4
 #EXTINF:-1,  tvg-logo="https://seeklogo.com/images/L/looney-tunes-logo-A1BA4B0278-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOONEY TUNES Lucas
@@ -1067,6 +1075,28 @@ http://fina.dyndns.tv/Cartoons/Pinky%20y%20Cerebro/20.mp4
 #EXTINF:0,tvg-logo="http://www.johntipton.com/wp-content/uploads/2016/06/HBO-24-7-Logo1.jpg" group-title="SERIES TV",---SERIES TV---
 
 
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 01
+https://ia800805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.01.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 02
+https://ia600805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.02.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 03
+https://ia800805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.03.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 04
+https://ia800805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.04.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 05
+https://ia600805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.05.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 06
+https://ia600805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.06.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 07
+https://ia600805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.07.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 08
+https://ia800805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.08.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 09
+https://ia600805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.09.mp4
+#EXTINF:-1,  tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF894,1000_QL80_.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",EL GENIO EINSTEIN Cap 10
+https://ia800805.us.archive.org/21/items/G3N1USE1NST31NT3MP.01EP1S.01/G3N1US_E1NST31N_T3MP.01_EP1S.10.mp4
+
+
 #EXTINF:-1,  tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/23/10/32/1346986.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Invasion S01 E01
 http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/91871.mkv
 #EXTINF:-1,  tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/23/10/32/1346986.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Invasion S01 E02
@@ -1107,48 +1137,6 @@ http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/91888
 http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/91889.mkv
 #EXTINF:-1,  tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/23/10/32/1346986.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Invasion S02 E10
 http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/91890.mkv
-
-
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E01
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59386.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E02
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59387.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E03
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59388.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E04
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59389.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E05
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59390.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E06
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59391.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E07
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59392.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E08
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59393.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E09
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59394.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S01 E10
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59395.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E01
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59396.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E02
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59397.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E03
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59398.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E04
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59399.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E05
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59400.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E06
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59401.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E07
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59402.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E08
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59403.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E09
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59404.mkv
-#EXTINF:-1,  tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/03/narcos-netflix-serie-sinopsis.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",Narcos : Mexico S02 E10
-http://goldiptvofficiel.tv:25461/series/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/59405.mkv
 
 
 #EXTINF:-1,  tvg-logo="https://parchecartago.com/wp-content/uploads/2021/07/COMPS-DD-EELIZEMATSUNAGA-1024x683.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ERASE UNA VEZ UN CRIMEN 01
