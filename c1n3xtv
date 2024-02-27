@@ -7,11 +7,13 @@
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",KONG LA ISLA CALAVERA
 https://www.googleapis.com/drive/v3/files/1nnOgpgfJpsz1xAQG6hY8wfV44pCEYTe7?alt=media&key=AIzaSyC_SfUy_PVVO8qEPumM0E0D0UWvrYybyCU
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",AUTOMATA
+http://fina.dyndns.tv/Peliculas/Automata.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",CHAPPIE
+http://fina.dyndns.tv/Peliculas/Chappie.mkv
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STARSHIP TROOPERS INVASION
 http://archive.org/download/w-17-fl-1-x-1/574r5h1p7r00p3r5%20l41nv4510n.mp4
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",AT0M1CA
 http://fina.dyndns.tv/Peliculas/Atomica.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",12 MONOS
@@ -27,18 +29,31 @@ http://fina.dyndns.tv/Peliculas/Interstellar.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EXTRATERRESTR14L
 http://fina.dyndns.tv/Peliculas/Extraterrestrial.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",DESPUES DE LA TIERRA
-
+http://fina.dyndns.tv/Peliculas/After%20Earth.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ELYSIUM
 http://fina.dyndns.tv/Peliculas/Elysium.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",OBLIVION
 http://fina.dyndns.tv/Peliculas/Oblivion.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SOY LEYENDA
 http://158.69.158.102/Peliculas/Listo/30122022_1253/i_am_legend.mkv
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",COWBOYS VS ALIENS
+http://fina.dyndns.tv/Peliculas/Cowboys%20vs%20Aliens.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL NUMERO 4
 http://158.69.158.102/Peliculas/Listo/30122022_1253/i_am_number_four.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",INVASION BATALLA LOS ANGELES
+
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",DIA DE LA 1NDEPENDENC14
 http://fina.dyndns.tv/Peliculas/Independence%20Day.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ATAQUE EXTRATERRESTRE
+http://fina.dyndns.tv/Peliculas/Attack%20The%20Block.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",LA SEÑAL
+http://fina.dyndns.tv/Peliculas/The%20signal.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",PROMETHEUS
+http://fina.dyndns.tv/Peliculas/Prometheus.mkv
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ALERTA EN LO PROFUNDO
+http://fina.dyndns.tv/Peliculas/Deep%20Blue%20Sea.mkv
+
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",007 GOLDEN EYE
 http://archive.org/download/mio53_yopmail_1/1.mp4
@@ -57,9 +72,6 @@ http://archive.org/download/mio53_yopmail_7/7.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",007 SPECTRE
 http://archive.org/download/mio53_yopmail_8/8.mp4
 
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",PULP FICTION
-http://fina.dyndns.tv/Peliculas/Pulp%20Fiction%201994.mkv
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL REHEN
 https://content-na.drive.amazonaws.com/cdproxy/share/MSVLbc7jeM5ZCsOOt7QTKHg1Hrkl9kkegjs1mWFXsWg/nodes/HGQdbg-RTa-r1I9W2dQhEg?nonce=aTuDj1S2NUWtBeANn07xoMCnqMWHa0YkDZjL1avWpnmuQjzWegsNbH3_3ruRcFzS
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",BURN OUT
@@ -67,8 +79,6 @@ https://content-na.drive.amazonaws.com/cdproxy/share/wYfeN6CS1QeEiF5TdVT6wMxHzHb
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",MILLA
 https://content-na.drive.amazonaws.com/cdproxy/share/hXrTizgGwROVCZDU3kM4QYrI2sSDrGYLYTQ24IQQzEN/nodes/3jWAaHvVQF-zWOGg5eUARQ?nonce=CWhh4UngOi6Dz0BwWgE3tIA5Rd3N70aJOnAhlGVrpAMNlEGep1xMsyTCm32e9Xlf
 
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",IP MAN Gran maestro
-http://archive.org/download/1pm-4n/1pm4n.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",JOHN WICK 1
 http://ia601408.us.archive.org/20/items/000_20191216/5.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",JOHN WICK 2 
@@ -76,29 +86,38 @@ http://ia801504.us.archive.org/13/items/000_20191225/5.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",JOHN WICK 3
 http://ia601504.us.archive.org/13/items/000_20191225/1.mp4
 
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HITMAN
+http://fina.dyndns.tv/Peliculas/Hitman.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HITMAN AGENTE 47
+http://fina.dyndns.tv/Peliculas/Hitman%20Agente%2047.mkv
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",PULP FICTION
+http://fina.dyndns.tv/Peliculas/Pulp%20Fiction%201994.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",CIUDAD DE ANGELES
+https://lh3.googleusercontent.com/MweLhRyKTuAKLL6tBSUki2vJK07lhs893cVUl3QOoUnupyqSVs5E6j_s5oO5ki68KguDrT9FK08QBRpTBsDwWJaBGZBz0m2zixDTcnxaJZLjJBCWcGXJShHA_WhLcv-9yb1Ke7MC2Q=m22
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ATENTADO-EN-EL-STADIUM
+https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Estrenos/Atentado_en_el_Estadio.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SR Y SRa SMITH
+http://158.69.158.102/Peliculas/Listo/30122022_1253/sr_y_sra_smith.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL JUSTICIERO
 https://content-na.drive.amazonaws.com/cdproxy/share/YlhJ6FiERHBQ6Qpuw8eIdVrLBCdgKejxZQezsDH3InJ/nodes/z4UM1frbQfKz8ZcIoU4A3g?nonce=qVOOZaocRbKgDc-WVqO0IRi9K0lEuxuhcb43ARe3-wRKIPuMovlroVvxpJgiTKA1
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",LA ESTAFA MAESTRA
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/8.avi
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HARRY EL SUCIO
+http://fina.dyndns.tv/Peliculas/Harry%20El%20Sucio.mkv
 
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",TOP GUN
+http://158.69.158.102/Peliculas/Listo/30122022_1233/pasion_y_gloria.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL ASEDIO JADOTVILLE
 https://content-na.drive.amazonaws.com/cdproxy/share/nZuuYWBizVdGATuzWJtM0PwtQVd6A7RE0ONqQu4WKf9/nodes/5xNOR1vKSUWYG74PSFwD9g?nonce=wYgZ31pY74GVYQYN7bZPsc4DSCj54BmKTVUSrwuZDzykz0E24RUQa7sEVP0KshvF
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL FRANCOTIRADOR
 https://content-na.drive.amazonaws.com/cdproxy/share/jVS86E9cwSVuuzw0QIULQ5GY4OoOydLnmdnGqJhFHTH/nodes/ro2ZNsCHStyvARPBWY9clg?nonce=GLGxfyax2Aq0gbtqbLKm_8C2mXXuLQNq3RITrfODC4Dl_v5QlYFaJyvGEWFgWpE4
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",DETRAS DE LAS LINEAS ENEMIGAS
 http://158.69.158.102/Peliculas/Listo/30122022_1136/behind_enemy_lines.mkv
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",TROPA-DE-EL1TE 1
 http://158.69.158.102/Peliculas/Listo/30122022_1136/tropa_de_elite.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",TROPA-DE-EL1TE 2
 http://158.69.158.102/Peliculas/Listo/30122022_0316/Tropa_de_elite_2.mp4
-
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SR Y SRa SMITH
-http://158.69.158.102/Peliculas/Listo/30122022_1253/sr_y_sra_smith.mkv
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SOLDADO UNIVERSAL
 http://158.69.158.102/Peliculas/Listo/30122022_1253/universal_soldier.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SOLDADO UNIVERSAL RETORNO
@@ -107,6 +126,8 @@ http://158.69.158.102/Peliculas/Listo/30122022_1253/universal_soldier_the_return
 http://158.69.158.102/Peliculas/Listo/30122022_1253/universal_soldier_regeneration.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SOLDADO UNIVERSAL DÍA DEL JUICIO
 http://158.69.158.102/Peliculas/Listo/30122022_1253/universal_soldier_day_of_reckoning.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL TIRADOR
+http://158.69.158.102/Peliculas/Listo/30122022_1233/shooter.mkv
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL TRANSPORTADOR 1
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/11.mkv
@@ -124,12 +145,9 @@ http://158.69.158.102/Peliculas/Listo/30122022_1402/rush_hour_2.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",PAREJA EXPLOSIVA 3
 http://158.69.158.102/Peliculas/Listo/30122022_1402/rush_hour_3.mkv
 
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ATENTADO-EN-EL-STADIUM
-https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Estrenos/Atentado_en_el_Estadio.mp4
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",MENTE BRILLANTE
 http://158.69.158.102/Peliculas/Listo/30122022_1136/una_mente_brillante.mkv
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",THE REVENANT
 http://fina.dyndns.tv/Peliculas/El%20Renacido.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ROMA
@@ -138,9 +156,8 @@ https://www.dropbox.com/s/qfrfyd0zl0qbx2a/roma-sd.mp4?dl=1
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",VICE
 http://fina.dyndns.tv/Peliculas/Vice.mkv
-
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",PULP FICTION
-http://fina.dyndns.tv/Peliculas/Pulp%20Fiction%201994.mkv
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",IP MAN Gran maestro
+http://archive.org/download/1pm-4n/1pm4n.mp4
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",LA PASION
 https://ia802307.us.archive.org/16/items/la-pasion-de-cristo_202108/La%20pasion%20de%20cristo.mp4
@@ -151,25 +168,29 @@ http://fina.dyndns.tv/Peliculas/Killing%20Jesus.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EXODO DIOSES Y REYES
 http://fina.dyndns.tv/Peliculas/Exodus%20Gods%20and%20Kings.mkv
 
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",CIUDAD DE ANGELES
-https://lh3.googleusercontent.com/MweLhRyKTuAKLL6tBSUki2vJK07lhs893cVUl3QOoUnupyqSVs5E6j_s5oO5ki68KguDrT9FK08QBRpTBsDwWJaBGZBz0m2zixDTcnxaJZLjJBCWcGXJShHA_WhLcv-9yb1Ke7MC2Q=m22
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",TANGO Y CASH
+http://158.69.158.102/Peliculas/Listo/30122022_1253/tango_and_cash.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",EL JUEZ DREDD
 https://archive.org/download/desaparecido-en-combate-1984_202101/Juez%20Dredd%20%281995%29.mp4
-
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",LOS 4 FANTASTICOS
 http://fina.dyndns.tv/Peliculas/4%20Fantasticos.mkv
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ALADDIN
+http://fina.dyndns.tv/Peliculas/Aladdin.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HELLBOY
 https://content-na.drive.amazonaws.com/cdproxy/share/JcXNRuETdQOmiKERzOqKotgkhdr6Jmsiw6slphkAVq3/nodes/DU7EoPu0SLG66GFqZvoquw?nonce=QbYAwzOB5UVNNSRpge9MqCcY4YKDeAuk2rI62VvbUDJUqxDLWq_2s5pLgx_3HP8i
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ANT-MAN
 http://fina.dyndns.tv/Peliculas/Ant%20Man.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ANT-MAN 2
 http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv
-
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",VENOM
+http://fina.dyndns.tv/Peliculas/Venon.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HULK
 http://archive.org/download/correoicfes2016_gmail_42/ulk.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",JOCKER
 http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",LA LEYENDA DE TARZAN
+http://cecegeek@goo.gl/W3X2tM
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",MAD MAX
 http://archive.org/download/durodproesa/wiimc/1.mp4
@@ -177,8 +198,7 @@ http://archive.org/download/durodproesa/wiimc/1.mp4
 http://archive.org/download/durodproesa/wiimc/2.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",MAD MAX FURIA EN EN EL CAMINO
 https://archive.org/download/029_20200428/030.avi
-#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",LA LEYENDA DE TARZAN
-http://cecegeek@goo.gl/W3X2tM
+
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SIN CITY 1
 http://fina.dyndns.tv/Peliculas/Sin%20City.mkv
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",SIN CITY 2
@@ -194,6 +214,8 @@ http://fina.dyndns.tv/Peliculas/Sin%20City%20a%20dame%20to%20kill%20for.mkv
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EL SR PEAB0DY & SH3RMAN
 http://fina.dyndns.tv/Peliculas/Mr%20Peabody%20and%20Sherman.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",CARLITOS Y SNOOPY
+http://fina.dyndns.tv/Peliculas/Carlitos%20Y%20Snoopy%20La%20Pelicula%20De%20Peanuts.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LA_VIDA_SECRETA_DE_TUS_MASCOTAS 2
 http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
 
@@ -207,14 +229,17 @@ http://fina.dyndns.tv/Peliculas/Del%20reves.mkv
 http://fina.dyndns.tv/Peliculas/Dumbo.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",BAMBI
 http://fina.dyndns.tv/Peliculas/Bambi.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LA BELLA Y LA BESTIA
+http://fina.dyndns.tv/Peliculas/Bella%20y%20la%20Bestia.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LILO Y STICH
+http://fina.dyndns.tv/Peliculas/Lilo%20y%20Stich.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EL L1BR0 DE LA SELV4
+http://fina.dyndns.tv/Peliculas/El%20Libro%20de%20la%20Selva.mkv
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",CARS 1
 http://fina.dyndns.tv/Peliculas/Cars.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",CARS 2
 http://fina.dyndns.tv/Peliculas/Cars%202.mkv
-
-#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EL L1BR0 DE LA SELV4
-http://fina.dyndns.tv/Peliculas/El%20Libro%20de%20la%20Selva.mkv
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",T0Y-ST0RY 1
 http://158.69.158.102/Peliculas/Listo/30122022_1136/toy_story.mkv
@@ -246,6 +271,22 @@ http://fina.dyndns.tv/Peliculas/Hotel%20Transylvania%202%20.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",HOTEL-TRANSYLVANIA 3
 https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Infantiles/Hotel_Transylvania_3.mp4
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LA ERA DEL HIELO 1
+http://fina.dyndns.tv/Peliculas/La%20Era%20de%20Hielo%201.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LA ERA DEL HIELO 2
+http://fina.dyndns.tv/Peliculas/La%20Era%20de%20Hielo%202.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LA ERA DEL HIELO 3
+http://fina.dyndns.tv/Peliculas/La%20Era%20de%20Hielo%203.mkv
+
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",FROZEN
+http://fina.dyndns.tv/Peliculas/Frozen.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",MEGAMENTE
+http://fina.dyndns.tv/Peliculas/Megamente.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",UPSS NOS DEJO EL ARCA
+http://fina.dyndns.tv/Peliculas/Upsss%20Donde%20esta%20Noe.mkv
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",RANGO
+http://158.69.158.102/Peliculas/Listo/30122022_0228/r4ng0.mp4
+
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EM0JI
 https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Infantiles/Emoji_La_Pelicula.mp4
 
@@ -256,9 +297,9 @@ https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Estrenos/Mis_Huellas_a_C
 http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/3.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ANGRY-BIRDS-2
 http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/4.mp4
+
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",EL-GRINCH
 http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
-
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",DE-VUELT4-AL-FUTUR0 1
 http://158.69.158.102/Peliculas/Listo/30122022_1136/volver_al_futuro.mkv
@@ -280,6 +321,7 @@ http://158.69.158.102/Peliculas/Listo/30122022_1136/un_papa_genial.mkv
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ANIMALES-FANTASTICOS 1
 http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ANIMALES-FANTASTICOS 2
 
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",BETLEJUICE-EL-SUPER-FANTASMA
 http://archive.org/download/xosuc_tempcloud_1/1.mp4
@@ -317,6 +359,8 @@ http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
 http://archive.org/download/psqqqjkdkxdnxjssjxjsjxbsjxjsjakkjsjzjzzk/psqqqjkdkxdnxjssjxjsjxbsjxjsjakkjsjzjzzk.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ZAPATERO-A-TUS-ZAPATOS
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ZAPATERO-A-TUS-ZAPATOS
+http://158.69.158.102/Peliculas/Listo/30122022_1136/zapatero_a_tus_zapatos.mkv
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LAS-VACACIONES-DEL-SR-BE4N
 http://archive.org/download/semocube0/1.mp4
 
@@ -385,6 +429,10 @@ http://ia601402.us.archive.org/13/items/000_20200227/07.mp4
 http://ia801401.us.archive.org/25/items/00000_20200906/000003.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",COMO HACER UNA XXX
 http://archive.org/download/nadbkdfhk/nadbkdfhk.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",EL MEXICANO
+http://fina.dyndns.tv/Peliculas/El%20Mexicano.mkv
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",NOSOTROS LOS NOBLES
+http://fina.dyndns.tv/Peliculas/Nosotros%20Los%20Nobles.mkv
 
 
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",ANIMAS TRUJANO
@@ -615,6 +663,57 @@ https://ia601009.us.archive.org/8/items/lo-mejor-del-chavo-dvdr-6/LoMejorDelChav
 https://ia804501.us.archive.org/26/items/lo-mejor-del-chavo-dvdr-7/LoMejorDelChavo_DVDR7.mp4
 
 
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Quien mato al petirrojo
+https://ia801601.us.archive.org/2/items/54-01-quien-mato-al-pechirrojo-1935/54%20-%2001%20%C2%BFQui%C3%A9n%20Mat%C3%B3%20al%20Pechirrojo%20%281935%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El toque de oro
+https://ia601607.us.archive.org/11/items/50-02-el-toque-de-oro-1935-2do-redoblaje/50%20-%2002%20El%20Toque%20de%20Oro%20%281935%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA La diosa de la primavera
+https://ia601605.us.archive.org/28/items/48-la-diosa-de-la-primavera-1934/48%20-%20La%20Diosa%20de%20la%20Primavera%20%281934%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA La liebre y la tortuga
+https://ia801604.us.archive.org/10/items/49-02-la-liebre-y-la-tortuga-1935-2do-redoblaje/49%20-%2002%20La%20Liebre%20y%20la%20Tortuga%20%281935%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El pequeño Hiawatha
+https://ia801401.us.archive.org/34/items/67-el-pequeno-hiawatha-1937-1er-redoblaje/67%20-%20El%20Peque%C3%B1o%20Hiawatha%20%281937%29%20%281er%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El arca de Noe
+https://ia801404.us.archive.org/7/items/35-el-arca-de-noe-1933-2do-redoblaje/35%20-%20El%20Arca%20de%20No%C3%A9%20%281933%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El viejo Rey Cole
+https://ia801605.us.archive.org/28/items/37-el-viejo-rey-cole-1933-2do-redoblaje/37%20-%20El%20Viejo%20Rey%20Cole%20%281933%29%20%28Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Los niños del bosque
+https://ia804701.us.archive.org/23/items/32-ninos-en-el-bosque-1932-2do-redoblaje/32%20-%20Ni%C3%B1os%20en%20el%20Bosque%20%281932%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El carnaval de las galletas
+https://ia801506.us.archive.org/28/items/53-el-carnaval-de-las-galletas-1935/53%20-%20El%20Carnaval%20de%20las%20Galletas%20%281935%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA La vispera de navidad
+https://ia801303.us.archive.org/21/items/40-la-noche-antes-de-navidad-1933/40%20-%20La%20Noche%20Antes%20de%20Navidad%20%281933%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Santa Claus
+https://ia801302.us.archive.org/20/items/33-el-taller-de-santa-claus-1932-censurado-redoblaje/33%20-%20El%20Taller%20de%20Santa%20Claus%20%281932%29%20%28Censurado%29%20%28Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Los 3 cerditos
+https://ia801607.us.archive.org/10/items/36-02-los-tres-cerditos-1933-2do-redoblaje/36%20-%2002%20Los%20Tres%20Cerditos%20%281933%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El cerdito practico
+https://ia904706.us.archive.org/27/items/74-01-el-cerdito-practico-1939-1er-redoblaje/74%20-%2001%20El%20Cerdito%20Pr%C3%A1ctico%20%281939%29%20%281er%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El lobo feroz
+https://ia601503.us.archive.org/13/items/44-01-el-lobo-feroz-1934/44%20-%2001%20El%20Lobo%20Feroz%20%281934%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Los 3 lobitos
+https://ia801401.us.archive.org/16/items/60-01-los-tres-lobitos-1936/60%20-%2003%20Tres%20Peque%C3%B1os%20Lobos%20%281936%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Cafe woodland
+https://ia601506.us.archive.org/22/items/66-cafe-woodland-1937-2do-redoblaje/66%20-%20Caf%C3%A9%20Woodland%20%281937%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA La tierra de los sueños
+https://ia601608.us.archive.org/16/items/38-02-la-tierra-de-los-suenos-1933-2do-redoblaje/38%20-%2002%20La%20Tierra%20de%20los%20Sue%C3%B1os%20%281933%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El flautista de Hamelin
+https://ia902601.us.archive.org/8/items/39-01-el-flautista-de-hamelin-1933/39%20-%2002%20El%20Flautista%20de%20Hamelin%20%281933%29%20%28Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El saltamontes y las hormigas
+https://ia804707.us.archive.org/27/items/42-02-el-saltamontes-y-las-hormigas-1934-2do-redoblaje/42%20-%2002%20El%20Saltamontes%20y%20las%20Hormigas%20%281934%29%20%28Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA El raton volador
+https://ia601604.us.archive.org/30/items/46-02-el-raton-volador-1934-redoblaje-parcial/46%20-%2002%20El%20Rat%C3%B3n%20Volador%20%281934%29%20%28Redoblaje%20Parcial%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA La gallinita lista
+https://ia801606.us.archive.org/35/items/45-la-gallinita-lista-1934/45%20-%20La%20Gallinita%20Lista%20%281934%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA La tienda de porcelana
+https://ia801605.us.archive.org/7/items/41-la-tienda-de-porcelana-1934/41%20-%20La%20Tienda%20de%20Porcelana%20%281934%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Curiosos pinguinos
+https://ia801500.us.archive.org/13/items/47-pinguinos-peculiares-1934-2do-redoblaje/47%20-%20Ping%C3%BCinos%20Peculiares%20%281934%29%20%282do%20Redoblaje%29.mp4
+#EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Un gatito ladron
+https://ia601408.us.archive.org/30/items/51-el-gatito-ladron-1935/51%20-%20El%20Gatito%20Ladr%C3%B3n%20%281935%29.mp4
+
+
+
 
 #EXTINF:-1,  tvg-logo="https://serieslan.com/tb/dyp.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",DON GATO Hawaii
 http://fina.dyndns.tv/Cartoons/Don%20Gato/1-01%20hawaii.mp4
@@ -812,6 +911,38 @@ https://ia801809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio
 https://ia801809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%296.mp4
 #EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Trompeta Rosa
 https://ia601809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%297.mp4
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Incordio rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/01%20-%20Incordio%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Pijama rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/02%20-%20Pijama%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Rosa encurtido
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/06%20-%20Rosa%20Encurtido.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Rosa chocante
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/08%20-%20Rosa%20Chocante.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Hielo rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/09%20-%20Hielo%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Mosquito impertinente
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/10%20-%20El%20Mosquito%20Impertinente.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Tanque rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/11%20-%20Tanque%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Anzuelo rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/13%20-%20Anzuelo%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Torero rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/14%20-%20El%20Torero%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Ponche rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/15%20-%20Ponche%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Pistones rosas
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/16%20-%20Pistones%20Rosas.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Vitamina rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/17%20-%20Vitamina%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Proyecto rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/18%20-%20El%20Proyecto%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Melodia en rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/19%20-%20Melodia%20En%20Rosa.avi
+#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Genio con la piel rosa
+http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/22%20-%20Genio%20Con%20La%20Piel%20Rosa.avi
+
+
 
 
 #EXTINF:-1,  tvg-logo="https://kimcartoon.to/Uploads/Etc/3-11-2015/31362034.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOS 4 FANTASTICOS Viaje a lo desconocido
@@ -854,6 +985,7 @@ http://fina.dyndns.tv/Cartoons/Cuatro%20Fantasticos/18%20El%20tribunal%20terribl
 http://fina.dyndns.tv/Cartoons/Cuatro%20Fantasticos/19%20Aventuras%20en%20egipto.mp4
 #EXTINF:-1,  tvg-logo="https://kimcartoon.to/Uploads/Etc/3-11-2015/31362034.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOS 4 FANTASTICOS El director malvado
 http://fina.dyndns.tv/Cartoons/Cuatro%20Fantasticos/20%20El%20director%20terrible.mp4
+
 
 #EXTINF:-1,  tvg-logo="https://seeklogo.com/images/L/looney-tunes-logo-A1BA4B0278-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",LOONEY TUNES Bugs Bunny La Pelicula
 https://ia902704.us.archive.org/16/items/Bugs-Correcaminos-Conejo-Fugitivo-VHS/2023-03-25%2015-39-11.mp4
@@ -1025,6 +1157,20 @@ https://ia802708.us.archive.org/20/items/tom-jerry-jano620/038%20-%20Mouse%20Cle
 https://ia902708.us.archive.org/20/items/tom-jerry-jano620/040%20-%20The%20Little%20Orphan.ia.mp4
 
 
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/TheSnoopyShow.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL SHOW DE SNOOPY No 1
+http://fina.dyndns.tv/Cartoons/Snoopy/The%20Snoopy%20Show%201x01.mkv
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/TheSnoopyShow.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL SHOW DE SNOOPY No 2
+http://fina.dyndns.tv/Cartoons/Snoopy/The%20Snoopy%20Show%201x02.mkv
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/TheSnoopyShow.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL SHOW DE SNOOPY No 3
+http://fina.dyndns.tv/Cartoons/Snoopy/The%20Snoopy%20Show%201x03.mkv
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/TheSnoopyShow.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL SHOW DE SNOOPY No 4
+http://fina.dyndns.tv/Cartoons/Snoopy/The%20Snoopy%20Show%201x04.mkv
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/TheSnoopyShow.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL SHOW DE SNOOPY No 5
+http://fina.dyndns.tv/Cartoons/Snoopy/The%20Snoopy%20Show%201x05.mkv
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/TheSnoopyShow.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL SHOW DE SNOOPY No 6
+http://fina.dyndns.tv/Cartoons/Snoopy/The%20Snoopy%20Show%201x06.mkv
+
+
 #EXTINF:-1,  tvg-logo="https://secure.redtienda.net/redtienda.net/storeimages/cosmoanime/pro/22834.file_a.gif" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL PAJARO LOCO Show 01
 http://fina.dyndns.tv/Cartoons/El%20Pajaro%20Loco/Show%20del%20pajaro%20loco%2001.avi
 #EXTINF:-1,  tvg-logo="https://secure.redtienda.net/redtienda.net/storeimages/cosmoanime/pro/22834.file_a.gif" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL PAJARO LOCO Show 02
@@ -1086,6 +1232,63 @@ http://fina.dyndns.tv/Cartoons/El%20Pajaro%20Loco/Show%20del%20pajaro%20loco%202
 #EXTINF:-1,  tvg-logo="https://secure.redtienda.net/redtienda.net/storeimages/cosmoanime/pro/22834.file_a.gif" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL PAJARO LOCO Show 30
 http://fina.dyndns.tv/Cartoons/El%20Pajaro%20Loco/Show%20del%20pajaro%20loco%2030.avi
 
+
+
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Insecto de adentro
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x01.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Engaño de los superpoderosos
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x02.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS El mono ve el perrito hace
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x03.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS mama temerosa
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x04.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Octi malvado
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x05.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Pelea de perros
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x06.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Mantequilla
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x07.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Logica difusa
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x08.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Sustos de boogie
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x09.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Abracadabra
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x10.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Telefonias
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x11.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Amor duro
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x12.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Gran competencia
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/01x13.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Atrapado arriba y lejos
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x01.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Escuela sacudida
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x02.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Recogela
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x03.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Supervillano
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x04.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Fiesta de cumpleaños
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x05.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Dificl de inhalar
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x06.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Vence tu sueño
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x07.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Abajo y sucio
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x08.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Plan de sueños
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x09.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Si duermes pierdes
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x10.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Esclavo de dia
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x11.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Los dos mojos
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x12.mkv
+#EXTINF:-1,  tvg-logo="https://www.clarin.com/img/2020/08/25/3fH-Eq1QZ_720x0__1.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",CHICAS SUPERPODEROSAS Una flor especial
+http://fina.dyndns.tv/Cartoons/Chicas%20Super%20Poderosas/02x13.mkv
+
+
+
 #EXTINF:-1,  tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",PINKY y CEREBRO Ep01
 http://fina.dyndns.tv/Cartoons/Pinky%20y%20Cerebro/01.mp4
 #EXTINF:-1,  tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",PINKY y CEREBRO Ep02
@@ -1126,6 +1329,63 @@ http://fina.dyndns.tv/Cartoons/Pinky%20y%20Cerebro/18.mp4
 http://fina.dyndns.tv/Cartoons/Pinky%20y%20Cerebro/19.mp4
 #EXTINF:-1,  tvg-logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",PINKY y CEREBRO Ep20
 http://fina.dyndns.tv/Cartoons/Pinky%20y%20Cerebro/20.mp4
+
+
+
+
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El arbol magico de ningun lugar
+https://ia601502.us.archive.org/4/items/Coraje-2/2x01%20-%20El%20%C3%81rbol%20M%C3%A1gico%20de%20Ning%C3%BAn%20Lugar.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Randy el robot
+https://ia801502.us.archive.org/4/items/Coraje-2/2x02%20-%20Randy%20el%20Robot.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La maldicion de shirley
+https://ia801502.us.archive.org/4/items/Coraje-2/2x03%20-%20La%20Maldici%C3%B3n%20de%20Shirley.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La gran ciudad apestosa
+https://ia601502.us.archive.org/4/items/Coraje-2/2x04%20-%20Coraje%20en%20la%20Gran%20Ciudad%20Apestosa.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Hasta en las peores familias
+https://ia601502.us.archive.org/4/items/Coraje-2/2x05%20-%20Hasta%20en%20las%20Peores%20Familias.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Mil años de coraje
+https://ia801502.us.archive.org/4/items/Coraje-2/2x06%20-%201.000%20A%C3%B1os%20de%20Coraje.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Coraje y la momia
+https://ia801502.us.archive.org/4/items/Coraje-2/2x07%20-%20Coraje%20y%20La%20Momia.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Muriel invisible
+https://ia601502.us.archive.org/4/items/Coraje-2/2x08%20-%20Muriel%20Invisible.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La aspiradora
+https://ia801502.us.archive.org/4/items/Coraje-2/2x09%20-%20La%20Aspiradora.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Mision al sol
+https://ia801502.us.archive.org/4/items/Coraje-2/2x10%20-%20Misi%C3%B3n%20al%20Sol.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La mosca coraje
+https://ia801502.us.archive.org/4/items/Coraje-2/2x11%20-%20La%20Mosca%20Coraje.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El eterno 2do lugar
+https://ia801502.us.archive.org/4/items/Coraje-2/2x12%20-%20El%20Eterno%20Segundo%20Lugar.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE TV de ningun lugar
+https://ia601502.us.archive.org/4/items/Coraje-2/2x13%20-%20Televisi%C3%B3n%20de%20Ning%C3%BAn%20Lugar.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Mega Muriel la magnifica
+https://ia801502.us.archive.org/4/items/Coraje-2/2x14%20-%20Mega%20Muriel%20la%20Magn%C3%ADfica.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE Un dia de pelos
+https://ia601502.us.archive.org/4/items/Coraje-2/2x15%20-%20Un%20D%C3%ADa%20de%20Pelos.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La gorra de oro
+https://ia601502.us.archive.org/4/items/Coraje-2/2x16%20-%20La%20Gorra%20de%20Oro.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La serpiente del rio del mal
+https://ia601502.us.archive.org/4/items/Coraje-2/2x17%20-%20La%20Serpiente%20del%20R%C3%ADo%20del%20Mal.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El transplante
+https://ia801502.us.archive.org/4/items/Coraje-2/2x18%20-%20El%20trasplante.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El extraterrestre
+https://ia801502.us.archive.org/4/items/Coraje-2/2x19%20-%20El%20Extraterrestre.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El vaquero coraje
+https://ia601502.us.archive.org/4/items/Coraje-2/2x20%20-%20El%20Vaquero%20Coraje.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La mosca
+https://ia801502.us.archive.org/4/items/Coraje-2/2x21%20-%20La%20Mosca.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El fasntasma de McPhearson
+https://ia801502.us.archive.org/4/items/Coraje-2/2x22%20-%20El%20Fantasma%20de%20McPhearson.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La maldicion
+https://ia801502.us.archive.org/4/items/Coraje-2/2x23%20-%20La%20Maldici%C3%B3n.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE El ataque de la ballena de arena
+https://ia801502.us.archive.org/4/items/Coraje-2/2x24%20-%20El%20Ataque%20de%20La%20Ballena%20de%20Arena.mp4
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/C/corage-el-perro-cobarde-logo-72C07106D0-seeklogo.com.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",CORAJE EL PERRO COBARDE La torre del Dr Zalost
+https://ia601502.us.archive.org/4/items/Coraje-2/2x25%20-%20La%20Torre%20del%20Dr.%20Zalost.mp4
+
+
+
 
 
 #EXTINF:0,tvg-logo="http://www.johntipton.com/wp-content/uploads/2016/06/HBO-24-7-Logo1.jpg" group-title="SERIES TV",---SERIES TV---
@@ -1203,6 +1463,7 @@ https://archive.org/download/como-me-converti-en-superheroe/1x2%20Elize%20Matsun
 https://archive.org/download/como-me-converti-en-superheroe/1x3%20Elize%20Matsunaga%20%C3%89rase%20una%20vez%20un%20crimen%20%282021%29.mp4
 #EXTINF:-1,  tvg-logo="https://parchecartago.com/wp-content/uploads/2021/07/COMPS-DD-EELIZEMATSUNAGA-1024x683.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ERASE UNA VEZ UN CRIMEN 04 FINAL
 https://archive.org/download/como-me-converti-en-superheroe/1x4%20Elize%20Matsunaga%20%C3%89rase%20una%20vez%20un%20crimen%20%282021%29.mp4
+
 
 #EXTINF:-1,  tvg-logo="https://cdn.colombia.com/sdi/2020/08/25/la-serie-colombiana-el-robo-del-siglo-es-de-las-mas-vistas-de-netflix-en-el-mundo-852371.jpg" tvg-name="SERIESTV"  group-title="SERIES TV",ROBO DEL SIGLO1x1 UN NEGOCIO BONITO
 http://archive.org/download/erds1b1/erds1b1.mp4
