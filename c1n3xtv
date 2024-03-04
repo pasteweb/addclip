@@ -263,6 +263,12 @@ https://ia802305.us.archive.org/34/items/videotime-cine-latino/Las%20grandes%20a
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",WINNIE POOH
 https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20%282011%29.mp4
 
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",BUZZ LIGHTYEAR
+https://ia902704.us.archive.org/24/items/Peliculas-wii/Lightyear.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",LUCA
+https://ia802704.us.archive.org/24/items/Peliculas-wii/Luca.mp4
+#EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",ELEMENTOS
+https://ia802704.us.archive.org/24/items/Peliculas-wii/Elementos.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",SOUL
 https://ia802305.us.archive.org/34/items/videotime-cine-latino/Soul.mp4
 #EXTINF:-1,  tvg-logo="https://meta-flix.com/wp-content/uploads/2019/01/Logo-Freelogodesign.png" tvg-name="VIDEOHOME"  group-title="CINEFAMILY",C0C0
@@ -533,6 +539,8 @@ https://ia802705.us.archive.org/1/items/animas-trujano-1961_202307/ANIMAS_TRUJAN
 https://ia802709.us.archive.org/34/items/escapulario-el-1968-01-18-hd/Escapulario%2C%20El%20-%20%281968%2001%2018%29%20HD.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",LA OTRA
 https://ia902204.us.archive.org/28/items/la-otra-1946-hd/La%20Otra%20-%20%281946%29%20-%20HD.mp4
+#EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",ENSAYO DE UN CRIMEN
+https://ia600507.us.archive.org/27/items/vhs-un-lugar-en-el-mundo/VHS%20ENSAYO%20DE%20UN%20CRIMEN.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",VIRIDIANA
 https://ia802303.us.archive.org/33/items/viridiana_202108/Viridiana.mp4
 #EXTINF:-1,  tvg-logo="https://www.cablevida.com.mx/assets/img/canales/TVC_Cine_Mexicano_2016.png" tvg-name="PELICULA"  group-title="CINE NACIONAL",MACARIO
@@ -653,9 +661,12 @@ https://ia804606.us.archive.org/17/items/yt-1s.com-el-hijo-del-pueblo-1974-wides
 
 
 
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",BREVE HISTORIA DE LA MUSICA ELECTRONICA EN MEXICO
+https://ia601801.us.archive.org/15/items/documentales_202012/Colores%3B%20Una%20historia%20de%20m%26uacute%3Bsica%20electr%26oacute%3Bnica%20latinoamericana.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",DENTRO DEL VOLCAN
 https://content-na.drive.amazonaws.com/cdproxy/share/R3BMIytSccP4enRUWX8HOMKyGc0I3wWmoDhiMns371C/nodes/8wrs7FmkRcaOE9UOn3O9Vg?nonce=DpOw9oio8mZTd5U4UQ6M_Jfysz2lCEGF32l7xRvkHV8J7jAO-pFg2sRVAHPes-RG
-
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",JOBS EL HIPPIE MILLONARIO
+https://archive.org/download/documentales_202012/Steve%20jobs%20el%20hippie%20millonario.mp4.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",SCHUMACHER
 http://158.69.158.102/Peliculas/Listo/30122022_0228/Schumacher.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",QUIEN MATO A JESUS
@@ -665,20 +676,31 @@ https://www.dropbox.com/s/20j3blej2a0x7h4/FlightMH370%3BVanish.mp4?dl=1
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA CARA OCULTA DEL BAJO COSTO
 http://bilbohiria.com/docs2/filmak/Ryanair.%20La%20cara%20oculta%20del%20Low%20Cost.avi
 
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EL MEDICO DE SATAN-WWII
+https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/F%C3%A9lix%20Kersten%2C%20el%20m%C3%A9dico%20de%20Sat%C3%A1n.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LOS ILLUMINATIS
 https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Illuminatis%2C%20la%20era%20que%20nos%20espera.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",LA CREACION DE ISRAEL
 https://ia600705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Cuando%20el%20mundo%20se%20tambalea%20%27El%20Sionismo%27.mp4
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EL MEDICO DE SATAN-WWII
-https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/F%C3%A9lix%20Kersten%2C%20el%20m%C3%A9dico%20de%20Sat%C3%A1n.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ABDUCCIONES EXTRATERRESTRES
 https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Misterio/Misterio_1/AbducionesExtraterrestres.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",SUMERIOS Y EL ENIGMA DE MARTE
 https://ia800705.us.archive.org/18/items/Ondas_Yaiza_videoteca/Misterio/Misterio_3/AnunnakisSumeriosMarteEnigmas.mp4
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",CUARTO MILENIO Apariciones Visitantes
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",CUARTO MILENIO Hospital del terror
 https://ia801702.us.archive.org/18/items/cuarto-milenio/CUARTO_MILENIO.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EXCENTRICAS CRIATURAS DEL OCEANO
+https://ia800509.us.archive.org/0/items/extranas-criaturas-excentricos-del-oceano/Extra%C3%B1as%20Criaturas%20-%20Exc%C3%A9ntricos%20del%20oc%C3%A9ano.mp4
+
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EL CHAPO ASCENSO Y CAIDA
+https://archive.org/download/documentales_202012/El%20Chapo%2C%20ascenso%20y%20caida.mp4.mp4
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",ANIBAL EL PEOR ENEMIGO DE ROMA
 https://ia803403.us.archive.org/17/items/anibal.-el.-peor.-enemigo.-de.-roma.-dvdr.-eng-spa.www.-movies-dvdr.com/Anibal.El.Peor.Enemigo.De.Roma.DVDR.%5BEng-Spa%5D.%5Bwww.MoviesDVDR.com%5D.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EN BUSCA DE DRACULA
+https://ia600507.us.archive.org/18/items/en-busca-de-dracula-documental-completo/En%20busca%20de%20Dr%C3%A1cula%20%28documental%20completo%29.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",MEDICI 1 NACIMIENTO DE UNA DINASTIA
+https://ia800506.us.archive.org/5/items/los-medici-i-ii/Los%20Medici.%20El%20nacimiento%20de%20una%20dinast%C3%ADa%20I.mp4
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Docu_TVE.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",MEDICI 2 LOS MAGNIFICOS
+https://ia800506.us.archive.org/5/items/los-medici-i-ii/Los%20Medici.%20Los%20magnificos%20Medici%20II.mp4
 
 #EXTINF:-1,  tvg-logo="https://logoeps.com/wp-content/uploads/2013/06/flag-of-usa-vector-logo.png" tvg-name="VIDEO"  group-title="VIDEOCUMENTALES",EEUU 01 LA 2DA GUERRA MUNDIAL
 http://bilbohiria.com/docs2/filmak/La%20historia%20no%20contada%20de%20los%20Estados%20Unidos%20-%20Oliver%20Stone/01%20-%20La%20II%20Guerra%20Mundial%20194137842.mp4
@@ -753,6 +775,12 @@ https://ia904504.us.archive.org/2/items/lo-mejor-del-chavo-dvdr-5/LoMejorDelChav
 https://ia601009.us.archive.org/8/items/lo-mejor-del-chavo-dvdr-6/LoMejorDelChavo_DVDR6.mp4
 #EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 7
 https://ia804501.us.archive.org/26/items/lo-mejor-del-chavo-dvdr-7/LoMejorDelChavo_DVDR7.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 8
+https://ia903109.us.archive.org/35/items/lo-mejor-del-chavo-dvdr-8/LoMejorDelChavo_DVDR8.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 9
+https://ia804507.us.archive.org/8/items/lo-mejor-del-chavo-dvdr-9/LoMejorDelChavo_DVDR9.mp4
+#EXTINF:-1,  tvg-logo="https://iconape.com/wp-content/png_logo_vector/el-chavo-del-ocho-logo.png" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL CHAVO DEL 8, Lo Mejor Vol 10
+https://ia801009.us.archive.org/0/items/lo-mejor-del-chavo-dvdr-10/LoMejorDelChavo_DVDR10.mp4
 
 
 #EXTINF:-1,  tvg-logo="https://pm1.aminoapps.com/6035/43982623633b4528103cb713758a1bdb7dc3cf09_00.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",UNA SINFONIA TONTA Quien mato al petirrojo
@@ -989,51 +1017,86 @@ https://ia802204.us.archive.org/15/items/los-picapiedra-serie-completa-espanol-l
 https://ia902204.us.archive.org/15/items/los-picapiedra-serie-completa-espanol-latino/Los%20picapiedra/Temporada%202/02x32-El%20%C3%80rbitro.mp4
 
 
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Rosa de Arabia
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Rosa de Arabia
 https://ia801809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%291.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Campaña Rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Campaña Rosa
 https://ia601809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%292.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Elefante Rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Buscad al fantasma 
+https://ia902704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20Buscad%20al%20Fantasma%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Elefante Rosa
 https://archive.org/download/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%293.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Monedita Rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Entrenando al recluta 
+https://ia902704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20Ense%C3%B1ando%20al%20Recluta%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Monedita Rosa
 https://ia801809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%294.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Un Triturador en Rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Can can canadiense 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20Can%20Can%20Canadiense%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Un Triturador en Rosa
 https://ia801809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%295.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Supermercado Rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en La banda hippy 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20La%20Banda%20Hippy%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Supermercado Rosa
 https://ia801809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%296.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Trompeta Rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA en Trompeta Rosa
 https://ia601809.us.archive.org/19/items/episodios-de-la-pantera-rosa-1-episodio-de-barrio-sesamo-spanish/Episodios%20de%20La%20Pantera%20Rosa%20%2B%201%20Episodio%20de%20Barrio%20Sesamo%20%28Spanish%297.mp4
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Incordio rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El amuleto 
+https://ia902704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Amuleto%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El carterista de Paris 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Carterista%20de%20Paris%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Incordio rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/01%20-%20Incordio%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Pijama rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Pijama rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/02%20-%20Pijama%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Rosa encurtido
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El caso del diamante 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Caso%20del%20Diamante%20de%20Paris%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Rosa encurtido
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/06%20-%20Rosa%20Encurtido.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Rosa chocante
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El comisionado enfermo 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Comisionado%20esta%20enfermo%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Rosa chocante
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/08%20-%20Rosa%20Chocante.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Hielo rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Hielo rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/09%20-%20Hielo%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Mosquito impertinente
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El cuervo ladron 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Cuervo%20Ladron%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Mosquito impertinente
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/10%20-%20El%20Mosquito%20Impertinente.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Tanque rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Tanque rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/11%20-%20Tanque%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Anzuelo rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en La captura de Lou Caribou
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20La%20Captura%20de%20Lau%20Caribou%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Anzuelo rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/13%20-%20Anzuelo%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Torero rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El gran robo del Louvre
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Gran%20Robo%20del%20Louvre%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Torero rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/14%20-%20El%20Torero%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Ponche rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Atrapando a la gallina todo 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Inspector%20Atrapa%20a%20la%20Gallina%20Todo%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Ponche rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/15%20-%20Ponche%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Pistones rosas
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Pistones rosas
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/16%20-%20Pistones%20Rosas.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Vitamina rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Operacion gran piedra De Gaulle
+https://ia902704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20La%20Operacion%20Gran%20Piedra%20DeGaulle%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El oso guerrero 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Oso%20Guerrero%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en El robo de las claves secretas 
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20El%20Gran%20Robo%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Vitamina rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/17%20-%20Vitamina%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Proyecto rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Proyecto rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/18%20-%20El%20Proyecto%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Melodia en rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Melodia en rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/19%20-%20Melodia%20En%20Rosa.avi
-#EXTINF:-1,  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012022/pink_panther_logo.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Genio con la piel rosa
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Un matrimonio en enredos
+https://ia802704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20Un%20Matrimonio%20en%20Enredos%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",LA PANTERA ROSA Genio con la piel rosa
 http://fina.dyndns.tv/Cartoons/Pantera%20Rosa/22%20-%20Genio%20Con%20La%20Piel%20Rosa.avi
-
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Policia en las rocas 
+https://ia902704.us.archive.org/12/items/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20Policia%20en%20las%20Rocas%28360P%29.mp4
+#EXTINF:-1,  tvg-logo="https://www.que.es/wp-content/uploads/2020/11/Inspector-clouseau.jpg" tvg-name="CARICATURAS"  group-title="CARICATURAS",EL INSPECTOR en Un caso clinico
+https://archive.org/download/el-inspector-la-banda-hippy-360-p/El%20Inspector%20-%20Un%20Caso%20Clinico%28360P%29.mp4
 
 
 
