@@ -142,11 +142,11 @@ http://181.78.105.146:8800/play/a05b
 #EXTINF:-1,  tvg-name="AZTECA"  tvg-logo="https://i.postimg.cc/yxcyzphz/aztkinl.png" group-title="TV MEXICO",AZTECA Internl
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/67492
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN TV
-http://936261971205766855.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766855.ts
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS XEW
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS INTERNACIONAL
-http://45.5.119.155:8090/play/a04y/index.m3u8
+
 #EXTINF:-1,  tvg-name="LASESTRELLASlatam"  tvg-logo="https://i.postimg.cc/RFnccpDn/lsestrllslatm.png" group-title="TV MEXICO",LAS ESTRELLAS Latam
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="TV MEXICO",FORO TV
@@ -158,19 +158,19 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7 O2
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,  tvg-name="a+"  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" group-title="TV MEXICO",A+
 
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL 9-GALAVISION
-http://45.5.119.155:8090/play/a04j/index.m3u8
+
 #EXTINF:-1,  tvg-name="ONCETV"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="ONCETVinternl"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV INTERNACIONAL
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="TV MEXICO",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1,  tvg-name="MVSTV"  tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="TV MEXICO",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,  tvg-name="CANAL22"  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="TV MEXICO",CANAL 22
@@ -201,25 +201,25 @@ https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1,  tvg-name="TVLOBO"  tvg-logo="https://i.ytimg.com/vi/WEiad0o_-Jk/hqdefault.jpg" group-title="TV MEXICO",TV LOBO
 
 #EXTINF:-1,  tvg-name="CORTV"  tvg-logo="https://i.postimg.cc/YCngTwcW/cortv.png" group-title="TV MEXICO",CORTV Oax
-https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
-#EXTINF:-1,  tvg-name="CUATROUNO"  tvg-logo="https://i.postimg.cc/B6sqgXhc/tvgto41.png" group-title="TV MEXICO",TV Cuatro 4.1 Gto
 
+#EXTINF:-1,  tvg-name="CUATROUNO"  tvg-logo="https://i.postimg.cc/B6sqgXhc/tvgto41.png" group-title="TV MEXICO",TV Cuatro 4.1 Gto
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1,  tvg-name="CUATRODOS"  tvg-logo="https://i.postimg.cc/cHmd502q/tvgto42.png" group-title="TV MEXICO",TV Cuatro 4.2 Gto
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1,  tvg-name="CUATROTRES"  tvg-logo="https://i.postimg.cc/XqY4Rt6r/tvgto43.png" group-title="TV MEXICO",TV Cuatro 4.3 Gto
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
 #EXTINF:-1,  tvg-name="RCG"  tvg-logo="https://s5.postimg.cc/xtzpztmqv/logrcg.png" group-title="TV MEXICO",RCG-1
 
 #EXTINF:-1,  tvg-name="RCG"  tvg-logo="https://s5.postimg.cc/xtzpztmqv/logrcg.png" group-title="TV MEXICO",RCG-3
 
 #EXTINF:-1,  tvg-name="TVMAS"  tvg-logo="https://i.postimg.cc/G2TwM0Sj/logtvms.png" group-title="TV MEXICO",TVMAS Veracruz
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3360.ts
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1,  tvg-name="NRT4SALTILLO"  tvg-logo="https://s5.postimg.cc/mwyeavcs7/LOG4_GDL.png" group-title="TV MEXICO",CANAL 4 NRT Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1,  tvg-name="TELEMAX"  tvg-logo="https://www.uniradioserver.com/media/news_thumbs/201911/20191114190459_61.jpg" group-title="TV MEXICO",TELEMAX Sonora
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1,  tvg-name="RTQ"  tvg-logo="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png" group-title="TV MEXICO",RTQ CANAL 10 Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
 #EXTINF:-1,  tvg-name="10CHETUMAL"  tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="TV MEXICO",CANAL 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,  tvg-name="10CANCUN"  tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="TV MEXICO",CANAL 10 Cancun
@@ -485,24 +485,25 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/67460
 #EXTINF:-1,  tvg-name="CLAROSPORTS"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="IZZITV",CLARO SPORTS
 http://45.5.119.155:8090/play/a04w/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="IZZITV",ESPN Nt 1
-http://181.78.105.146:8800/play/a053
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="IZZITV",ESPN Nt 2
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="IZZITV",ESPN Nt 3
-http://181.78.105.146:8800/play/a025
-#EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="IZZITV",ESPN + Nt
-http://181.78.105.146:8800/play/a07r
-#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="IZZITV",ESPN Extra
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="IZZITV",ESPN 4
 http://190.61.43.117:45000/play/a01v
+#EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="IZZITV",ESPN DEPORTES Nt
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="IZZITV",FOX Nt 1
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6760
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1,  tvg-name="FOXSPORTS2"  tvg-logo="https://i.postimg.cc/4xgrDz1t/fxsp2.png" group-title="IZZITV",FOX Nt 2
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://i.postimg.cc/x13WncsZ/fxsp3.png" group-title="IZZITV",FOX Nt 3
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6691
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="IZZITV",FOX PREMIUM Nt
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 #EXTINF:-1,  tvg-name="FOXPREMIUM"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="IZZITV",FOX DEPORTES
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22119
-
 
 
 #EXTINF:0,tvg-logo="https://www.savoiabenincasa.gov.it/wp-content/uploads/2016/10/Sport.jpg" group-title="DEPORTES",---DEPORTES---
@@ -537,8 +538,8 @@ http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt Extra
-
+#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN 4
+http://181.119.66.30:8000/play/a04m/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN + DEPORTES
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN PREMIUM
@@ -553,36 +554,42 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="DEPORTES",FOX PREMIUM Nt
 http://45.189.148.24:8000/play/a027/index.m3u8
 #EXTINF:-1,  tvg-name="FOXDEPORTES"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="DEPORTES",FOX DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:-1,  tvg-name="FOXDEPORTES"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="DEPORTES",FOX DEPORTES O2
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
+#EXTINF:-1,  tvg-name="FOXDEPORTES"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="DEPORTES",FOX DEPORTES O2
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1
-http://191.97.14.38:4000/play/a017/index.m3u8
+http://181.119.66.30:8000/play/a03t/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2
-http://191.97.14.38:4000/play/a016/index.m3u8
+http://181.119.66.30:8000/play/a05i/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud3"  tvg-logo="https://i.postimg.cc/3JFk5ZTQ/espnsd3.png" group-title="DEPORTES",ESPN SUD 3
-http://190.61.43.117:45000/play/a051
+http://181.119.66.30:8000/play/a03z/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud4"  tvg-logo="https://i.postimg.cc/vZ8cQ6Yg/espnsd4.png" group-title="DEPORTES",ESPN SUD 4
-http://190.61.43.117:45000/play/a06w
-#EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD EXTRA
+http://181.119.66.30:8000/play/a04m/index.m3u8
+#EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 5
+http://181.119.66.30:8000/play/a04c/index.m3u8
+#EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 6
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6691
+#EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 7
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
+#EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD PREMIUM
 http://181.119.66.30:8000/play/a05k/index.m3u8
 
 
 #EXTINF:-1,  tvg-name="FOXlat1"  tvg-logo="https://i.postimg.cc/d0LP6JBS/fxsplat1.png" group-title="DEPORTES",FOX SPORTS Lat 1
-http://191.97.14.38:4000/play/a049/index.m3u8
+
 #EXTINF:-1,  tvg-name="FOXlat2"  tvg-logo="https://i.postimg.cc/6qVDqqWT/fxsplat2.png" group-title="DEPORTES",FOX SPORTS Lat 2
-http://191.97.14.38:4000/play/a01g/index.m3u8
+
 #EXTINF:-1,  tvg-name="FOXlat3"  tvg-logo="https://i.postimg.cc/44zCBL6Z/fxsplat3.png" group-title="DEPORTES",FOX SPORTS Lat 3
-http://191.97.14.38:4000/play/a01h/index.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 
 #EXTINF:-1,  tvg-name="FOXsp1"  tvg-logo="https://i.postimg.cc/ZRtmZPDS/FXSP1.png" group-title="DEPORTES",FOX SP 1
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/546141.ts
+
 #EXTINF:-1,  tvg-name="FOXsp2"  tvg-logo="https://i.postimg.cc/155Q93Mf/FXSP2.png" group-title="DEPORTES",FOX SP 2
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
 #EXTINF:-1,  tvg-name="FOXsp3"  tvg-logo="https://i.postimg.cc/X7H0X6Dx/FXSP3.png" group-title="DEPORTES",FOX SP 3
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6691
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
 
 
 #EXTINF:-1,  tvg-name="DAZN1"  tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="DEPORTES",DAZN 1
