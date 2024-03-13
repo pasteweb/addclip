@@ -6,6 +6,14 @@
 #EXTINF:-1,  tvg-name="TV3X"  tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="ALENA_TV",MTV DRAGs
 https://r.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
 
+#EXTINF:-1,  tvg-name="TV3X"  tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="ALENA_TV",MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
+#EXTINF:-1,  tvg-name="TV3X"  tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="ALENA_TV",MIAMI TV LATINO
+https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
+#EXTINF:-1,  tvg-name="TV3X"  tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="ALENA_TV",TV3x
+http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
+
+
 
 #EXTINF:0,tvg-logo="https://pastorfergus.files.wordpress.com/2013/04/mexico-mapa.jpg" group-title="Alena_vod",---Alena_vod---
 
@@ -26,6 +34,7 @@ https://ia804508.us.archive.org/21/items/el.-lago.de.las.-virgenes.-vhsrip.-1981
 https://ia804500.us.archive.org/28/items/elhoteldelosligues-1980/Elhoteldelosligues%281980%29.mp4
 #EXTINF:-1,  tvg-name="homevideo"  tvg-logo="https://glean.net/documents/d/guest/vodhotnews_logo-png" group-title="Alena_vod",LAS ORGIAS DE EMANUELLE
 https://ia601808.us.archive.org/5/items/the-inconfessable-orgies-of-emmanuelle/The%20Inconfessable%20Orgies%20of%20Emmanuelle.mp4
+
 #EXTINF:-1,  tvg-name="homevideo"  tvg-logo="https://glean.net/documents/d/guest/vodhotnews_logo-png" group-title="Alena_vod",ABERRACIONES SEXUALES DE UNA RUBIA CALIENTE
 https://ia802201.us.archive.org/0/items/33484757-aberracionessexuales-de-una-rubia-caliente-1977-peli-erotica-completa-espano/33484757_Aberracionessexuales%20de%20una%20rubia%20caliente%20%281977%29%20-%20Peli%20Erotica%20completa%20Espa%C3%B1o.mp4
 #EXTINF:-1,  tvg-name="homevideo"  tvg-logo="https://glean.net/documents/d/guest/vodhotnews_logo-png" group-title="Alena_vod",EL OJETE DE LULU
