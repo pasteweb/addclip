@@ -135,7 +135,6 @@ http://181.78.105.146:8800/play/a05b
 
 
 
-
 #EXTINF:0,tvg-logo="https://static.cdnlogo.com/logos/f/35/formula-1-8211-f1-thumb.png" group-title="TVF1",---TVF1---
 
 
@@ -166,7 +165,6 @@ http://724387382856165418.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165418.ts
 
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN 2 F1 SUD
 http://190.0.241.181:8000/play/a06z/index.m3u8
-
 
 
 
@@ -589,9 +587,9 @@ http://181.119.66.30:8000/play/a04m/index.m3u8
 http://138.59.177.34:8000/play/a058/index.m3u8
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="DEPORTES",FOX SPORTS Nt 1
-http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22120
-#EXTINF:-1,  tvg-name="FOXSPORTS2"  tvg-logo="https://i.postimg.cc/4xgrDz1t/fxsp2.png" group-title="DEPORTES",FOX SPORTS Nt 2
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26814
+#EXTINF:-1,  tvg-name="FOXSPORTS2"  tvg-logo="https://i.postimg.cc/4xgrDz1t/fxsp2.png" group-title="DEPORTES",FOX SPORTS Nt 2
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22120
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://i.postimg.cc/x13WncsZ/fxsp3.png" group-title="DEPORTES",FOX SPORTS Nt 3
 
 #EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="DEPORTES",FOX PREMIUM Nt
