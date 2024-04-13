@@ -560,7 +560,7 @@ http://181.78.105.146:8800/play/a07e
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA
 http://45.189.148.24:8000/play/a00k/index.m3u8
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA O2
-
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="ZONATUDN"  tvg-logo="https://pbs.twimg.com/profile_images/1723513927814823936/ym2ESoO9_400x400.jpg" group-title="DEPORTES",ZONA TUDN
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 
@@ -605,21 +605,21 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6760
 
 
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1
-
+http://190.61.43.117:45000/play/a01l
 #EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2
-
+http://190.61.43.117:45000/play/a053
 #EXTINF:-1,  tvg-name="ESPNsud3"  tvg-logo="https://i.postimg.cc/3JFk5ZTQ/espnsd3.png" group-title="DEPORTES",ESPN SUD 3
-
+http://190.61.43.117:45000/play/a051
 #EXTINF:-1,  tvg-name="ESPNsud4"  tvg-logo="https://i.postimg.cc/vZ8cQ6Yg/espnsd4.png" group-title="DEPORTES",ESPN SUD 4
-
+http://190.61.43.117:45000/play/a01v
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 5
-
+http://190.61.43.117:45000/play/a06w
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 6
 http://45.167.3.81:45000/play/a063/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 7
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD PREMIUM
-
+http://190.108.85.20:9999/play/a011
 
 
 #EXTINF:-1,  tvg-name="FOXlat1"  tvg-logo="https://i.postimg.cc/d0LP6JBS/fxsplat1.png" group-title="DEPORTES",FOX SPORTS Lat 1
@@ -641,7 +641,7 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22122
 #EXTINF:-1,  tvg-name="DAZN1"  tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="DEPORTES",DAZN 1
 http://724387382856228384.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/228384.ts
 #EXTINF:-1,  tvg-name="DAZN2"  tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="DEPORTES",DAZN La Liga
-http://724387382856165393.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165393.ts
+http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/6073/index.m3u8
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1
 http://724387382856165419.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165419.ts
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1 O2
@@ -707,8 +707,8 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/63810
 
 #EXTINF:-1,  tvg-name="PTVLooneyToones"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOONEY TOONES
 
-#EXTINF:-1,  tvg-name="PTVLTOONES"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOONEY TOONES WB
-
+#EXTINF:-1,  tvg-name="PTVanimaniacs"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",ANIMANIACS
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/37879
 #EXTINF:-1,  tvg-name="PTVLaboratoriodeDexter"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL LABORATORIO DE DEXTER
 
 #EXTINF:-1,  tvg-name="PTVCorajePerro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CORAJE EL PERRO COBARDE
