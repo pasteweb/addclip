@@ -62,13 +62,13 @@ http://138.59.177.34:8000/play/a05v/index.m3u8
 #EXTINF:-1,  tvg-name="UNIVERSALPM"  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" group-title="IZZIsd",UNIVERSAL Premiere
 http://45.5.117.182:8000/play/a0ig/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN
-http://168.181.122.234:8000/play/a01a/index.m3u8
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN EDGE
-
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="GOLDENPLUS"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN PLUS
-
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZIsd",GOLDEN PREMIER
-http://138.59.177.34:8000/play/a019/index.m3u8
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="IZZIsd",STAR CHANNEL 
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZIsd",HBO 
@@ -203,7 +203,7 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE O2
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="ONCETV"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV
-
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
 #EXTINF:-1,  tvg-name="ONCETVinternl"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV INTERNACIONAL
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="TV MEXICO",ADN 40
@@ -442,6 +442,8 @@ http://190.61.43.117:45000/play/a05w
 
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN O2
+http://168.181.122.234:8000/play/a01a/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN EDGE O2
@@ -450,6 +452,8 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN PREMIER
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-goldenhd.jpg" group-title="IZZITV",GOLDEN PREMIER O2
+http://138.59.177.34:8000/play/a019/index.m3u8
 
 #EXTINF:-1,  tvg-name="STARCHANNEL" tvg-logo="https://i.postimg.cc/JzsRygNs/ST4-RChnnl.png" group-title="IZZITV",STAR CHANNEL 
 http://45.5.117.182:8000/play/a0i1/index.m3u8
@@ -527,7 +531,7 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/67460
 #EXTINF:-1,  tvg-name="ZONATUDN"  tvg-logo="https://pbs.twimg.com/profile_images/1723513927814823936/ym2ESoO9_400x400.jpg" group-title="IZZITV",ZONA TUDN
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="CLAROSPORTS"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="IZZITV",CLARO SPORTS
-
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="IZZITV",ESPN Nt 1
 http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="IZZITV",ESPN Nt 2
@@ -928,6 +932,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1,  tvg-name="DW"  tvg-logo="https://i.postimg.cc/W351d439/DW.jpg" group-title="TV CULTURAL",DW Deutsche Welle O2
 http://190.90.154.73:8080/play/a08l/index.m3u8
 #EXTINF:-1,  tvg-name="DMAX"  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" group-title="TV CULTURAL",DMAX
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+#EXTINF:-1,  tvg-name="DMAX"  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" group-title="TV CULTURAL",DMAX O2
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135901.ts
 #EXTINF:-1,  tvg-name="HISTORIA"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="TV CULTURAL",CANAL HISTORIA
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1920
@@ -993,9 +999,7 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 
 
 #EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/wM4ggF90/telsistma.png" group-title="TV RETRO",TELESISTEMA
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
-#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/wM4ggF90/telsistma.png" group-title="TV RETRO",TELESISTEMA O2
-http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-name="TVUNO"  tvg-logo="https://i.postimg.cc/qMgpjfGY/tele1tv.png" group-title="TV RETRO",TV UNO
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,  tvg-name="MICROVISION10"  tvg-logo="https://www.freeetv.com/images/03_logo/microvision_dr.jpg" group-title="TV RETRO",MICROVISION 10
@@ -1080,33 +1084,33 @@ http://45.5.119.155:8090/play/a04r/index.m3u8
 #EXTINF:-1,  tvg-name="A3SERIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV MUNDIAL",A3SERIES (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3572
 #EXTINF:-1,  tvg-name="ANTENA3"  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png" group-title="TV MUNDIAL",ANTENA 3 (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3574
+http://138.59.177.34:8000/play/a00s/index.m3u8
 #EXTINF:-1,  tvg-name="LA1"  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV MUNDIAL",TVE La 1 (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1922
 #EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV MUNDIAL",TVE La 2 (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/5340
 #EXTINF:-1,  tvg-name="TVESTAR"  tvg-logo="https://i.postimg.cc/266Qkvq0/startve.png" group-title="TV MUNDIAL",STAR TVE (ESP)
-
+http://45.5.117.182:8000/play/a0fu/index.m3u8
 #EXTINF:-1,  tvg-name="BEMAD"  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.fRhUJj-sN4.jpg" group-title="TV MUNDIAL",BE MAD (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3584
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
 #EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV MUNDIAL",CUATRO (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1513
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 #EXTINF:-1,  tvg-name="TELECINCO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="TV MUNDIAL",TELECINCO (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1941
 #EXTINF:-1,  tvg-name="LASEXTA"  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TV MUNDIAL",LA SEXTA (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1514
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1,  tvg-name="NOVA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nova_logo_2011.jpg" group-title="TV MUNDIAL",NOVA (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1861
 #EXTINF:-1,  tvg-name="NEOX"  tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/ver-Neox-online-o-en-android.jpg" group-title="TV MUNDIAL",NEOX (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3623
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
 #EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://pbs.twimg.com/profile_images/1147998775237124097/tu5bvpcE_200x200.png" group-title="TV MUNDIAL",MEGA (ESP)
 http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1936
 #EXTINF:-1,  tvg-name="ENERGY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="TV MUNDIAL",ENERGY (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1835
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
 #EXTINF:-1,  tvg-name="FDF"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TV MUNDIAL",FDF (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/1512
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
 #EXTINF:-1,  tvg-name="DIVINITY"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="TV MUNDIAL",DIVINITY (ESP)
-http://goldiptvofficiel.tv:25461/@TitancodeExchange/yVG85bvRW3nuOMIQSHFLKDGPMHJMXMSDLKHNFS/3594
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
 #EXTINF:-1,  tvg-name="BETEVE"  tvg-logo="https://www.albafores.com/wp-content/uploads/2019/06/betev%C3%A9-Logo.jpg" group-title="TV MUNDIAL",BETEVE (ESP)
 
 #EXTINF:-1,  tvg-name="eitb"  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" group-title="TV MUNDIAL",eitb (ESP)
@@ -1133,7 +1137,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1,  tvg-name="TELEUNOTV"  tvg-logo="https://i.postimg.cc/qMgpjfGY/tele1tv.png" group-title="TV MUNDIAL",TELEUNO TV (C RICA)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,  tvg-name="TELEsistema"  tvg-logo="https://i.postimg.cc/wM4ggF90/telsistma.png" group-title="TV MUNDIAL",TELESISTEMA (C RICA)
-http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+
 #EXTINF:-1,  tvg-name="CANAL4"  tvg-logo="https://i.postimg.cc/VLdzqNt2/C4CR.png" group-title="TV MUNDIAL",CANAL 4 (C RICA)
 http://45.5.118.154:16000/play/a0mv/index.m3u8
 #EXTINF:-1,  tvg-name="TICAVISION"  tvg-logo="https://i.imgur.com/mmj1BUK.png" group-title="TV MUNDIAL",TICAVISION (C RICA)
