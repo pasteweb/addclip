@@ -144,17 +144,17 @@ http://45.189.148.24:8000/play/a027/index.m3u8
 http://45.189.148.24:8000/play/a00j/index.m3u8
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX Nt 1
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX SPORTS Nt 1
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6760
 
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX Nt 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX SPORTS Nt 3
 
 
 #EXTINF:-1,  tvg-name="ESPN1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN Nt 1
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+
 
 
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://i.blogs.es/2baaa1/dazn-f1/650_1200.webp" group-title="TVF1",DAZN F1
@@ -533,25 +533,25 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="CLAROSPORTS"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="IZZITV",CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1,  tvg-name="ESPN"  tvg-logo="https://i.postimg.cc/9QTFKMxH/espn1.png" group-title="IZZITV",ESPN Nt 1
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+http://45.228.234.167:8000/play/a030/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="IZZITV",ESPN Nt 2
-http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+http://45.228.234.167:8000/play/a031/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="IZZITV",ESPN Nt 3
-http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+http://45.228.234.167:8000/play/a023/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="IZZITV",ESPN Nt 4
-http://stream.flynetwifi.com:1935/live/mobile-205/playlist.m3u8
+http://45.228.234.167:8000/play/a07q/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="IZZITV",ESPN DEPORTES Nt
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://i.postimg.cc/bNb7V61p/fxsp1.png" group-title="IZZITV",FOX Nt 1
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="FOXSPORTS2"  tvg-logo="https://i.postimg.cc/4xgrDz1t/fxsp2.png" group-title="IZZITV",FOX Nt 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://i.postimg.cc/x13WncsZ/fxsp3.png" group-title="IZZITV",FOX Nt 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="IZZITV",FOX PREMIUM Nt
 http://45.189.148.24:8000/play/a00j/index.m3u8
 #EXTINF:-1,  tvg-name="FOXPREMIUM"  tvg-logo="https://i.postimg.cc/PJv4xRdx/fxspPrm.png" group-title="IZZITV",FOX DEPORTES
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
+
 
 
 #EXTINF:0,tvg-logo="https://www.savoiabenincasa.gov.it/wp-content/uploads/2016/10/Sport.jpg" group-title="DEPORTES",---DEPORTES---
@@ -572,8 +572,8 @@ https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 
 
 #EXTINF:-1,  tvg-name="TNTSports"  tvg-logo="https://i.postimg.cc/c4CL2GXw/tntsprt1.png" group-title="DEPORTES",TNT Sports
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1,  tvg-name="TNTSports"  tvg-logo="https://i.postimg.cc/c4CL2GXw/tntsprt1.png" group-title="DEPORTES",TNT Sports O2
+
+#EXTINF:-1,  tvg-name="TNTSports"  tvg-logo="https://i.postimg.cc/c4CL2GXw/tntsprt1.png" group-title="DEPORTES",TNT Sports
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22145
 
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="DEPORTES",CLARO Sports
@@ -587,8 +587,12 @@ http://138.59.177.34:8000/play/a058/index.m3u8
 http://138.59.177.34:8000/play/a059/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3
 http://138.59.177.34:8000/play/a070/index.m3u8
-#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN 4
-
+#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt4
+http://45.228.234.167:8000/play/a086/index.m3u8
+#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt5
+http://45.228.234.167:8000/play/a07r/index.m3u8
+#EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN 6
+http://45.228.234.167:8000/play/a07p/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN + DEPORTES
 
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN PREMIUM
@@ -672,13 +676,14 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/5635
 #EXTINF:-1,  tvg-name="PARAMOUNTligapremier"  tvg-logo="https://i.postimg.cc/Zny6xvBK/ParmntPL.png" group-title="DEPORTES",PARAMOUNT LIGA PREMIER
 
 #EXTINF:-1,  tvg-name="TYCSPORTS"  tvg-logo="https://i.postimg.cc/HsPfd4Vh/TyCSPRT.png" group-title="DEPORTES",TyC SPORTS
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
 #EXTINF:-1,  tvg-name="BEINSPORTS"  tvg-logo="https://aquihaypelotas.es/wp-content/uploads/2018/07/bein-sports.jpg" group-title="DEPORTES",BEIN SPORTS
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/23542
 #EXTINF:-1,  tvg-name="WINSPORTS"  tvg-logo="https://i.postimg.cc/PJVFfTrw/WINSPRT.png" group-title="DEPORTES",WIN SPORTS Col
 
 #EXTINF:-1,  tvg-name="PLUTODEPORTES"  tvg-logo="https://i.postimg.cc/3RktzR4z/pltvdep.png" group-title="DEPORTES",PLUTO TV DEPORTES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
+
 
 
 
