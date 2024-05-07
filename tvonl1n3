@@ -138,7 +138,6 @@ http://181.78.105.146:8800/play/a05b
 #EXTINF:0,tvg-logo="https://static.cdnlogo.com/logos/f/35/formula-1-8211-f1-thumb.png" group-title="TVF1",---TVF1---
 
 
-
 #EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX PREMIUM Nt
 http://45.189.148.24:8000/play/a027/index.m3u8
 
@@ -154,6 +153,9 @@ http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6760
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX Nt 3
 
 
+#EXTINF:-1,  tvg-name="ESPN1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN Nt 1
+
+
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN 2 F1 SUD
 http://190.0.241.181:8000/play/a06z/index.m3u8
 
@@ -167,15 +169,14 @@ http://724387382856165418.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165418.ts
 
 
 
-
 #EXTINF:0,tvg-logo="https://pastorfergus.files.wordpress.com/2013/04/mexico-mapa.jpg" group-title="TV MEXICO",---TV MEXICO---
 
 
 
 #EXTINF:-1,  tvg-name="AZTECA"  tvg-logo="https://i.postimg.cc/yxcyzphz/aztkinl.png" group-title="TV MEXICO",AZTECA Internl
-http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8
+http://45.189.148.24:8000/play/a026/index.m3u8
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN TV
-
+http://45.189.148.24:8000/play/a02c/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS XEW
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS MX
@@ -185,7 +186,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="TV MEXICO",FORO TV
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+http://45.189.148.24:8000/play/a01y/index.m3u8
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC O2
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="CANAL6cdmx"  tvg-logo="https://i.postimg.cc/zvn6PB48/c6cdmx.png" group-title="TV MEXICO",CANAL 6 CDMX MULTIMEDIOS
@@ -195,7 +196,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7 O2
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,  tvg-name="a+"  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" group-title="TV MEXICO",A+
-
+http://45.189.148.24:8000/play/a01w/index.m3u8
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1,  tvg-name="NU9VE"  tvg-logo="https://i.postimg.cc/wvSYGnvc/nuev.png" group-title="TV MEXICO",CANAL NU9VE O2
@@ -205,7 +206,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/111
 #EXTINF:-1,  tvg-name="ONCETVinternl"  tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="TV MEXICO",ONCE TV INTERNACIONAL
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="TV MEXICO",ADN 40
-
+http://45.189.148.24:8000/play/a01x/index.m3u8
 #EXTINF:-1,  tvg-name="MVSTV"  tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="TV MEXICO",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,  tvg-name="CANAL22"  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="TV MEXICO",CANAL 22
@@ -266,7 +267,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
 #EXTINF:-1,  tvg-name="ADN40"  tvg-logo="https://i.postimg.cc/VNphfn8z/adn40s.png" group-title="NOTICIAS",ADN 40
-
+http://45.189.148.24:8000/play/a01x/index.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="NOTICIAS",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,  tvg-name="NMAS"  tvg-logo="https://i.postimg.cc/g2NFWxj0/nmastv.png" group-title="NOTICIAS",NMAS
@@ -496,13 +497,13 @@ http://181.78.105.146:8800/play/a05a
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="IZZITV",DISCOVERY CHANNEL O2
 http://138.59.177.34:8000/play/a054/index.m3u8
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL
-http://138.59.177.34:8000/play/a056/index.m3u8
+http://45.189.148.24:8000/play/a00w/index.m3u8
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL O2
-http://bantel.iptvperu.tv:1935/transcoderip/History_t4/playlist.m3u8
+http://138.59.177.34:8000/play/a056/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2
-http://138.59.177.34:8000/play/a042/index.m3u8
+http://45.189.148.24:8000/play/a00x/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2 O2
-http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+http://138.59.177.34:8000/play/a042/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO
 http://138.59.177.34:8000/play/a074/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO O2
