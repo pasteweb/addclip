@@ -138,33 +138,31 @@ http://181.78.105.146:8800/play/a05b
 #EXTINF:0,tvg-logo="https://static.cdnlogo.com/logos/f/35/formula-1-8211-f1-thumb.png" group-title="TVF1",---TVF1---
 
 
+
 #EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX PREMIUM Nt
 http://45.189.148.24:8000/play/a027/index.m3u8
+
 #EXTINF:-1,  tvg-name="FOXPREMIUMnt"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX PREMIUM
 http://45.189.148.24:8000/play/a00j/index.m3u8
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX Nt 1
+
 
 #EXTINF:-1,  tvg-name="FOXSPORTS"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX SPORTS Nt 1
 http://iptbest.xyz:8000/humbertoibanez/ibanez2021/6760
 
 #EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX Nt 3
 
-#EXTINF:-1,  tvg-name="FOXSPORTS3"  tvg-logo="https://pbs.twimg.com/media/FqAZIudWAAkzeW6.jpg" group-title="TVF1",FOX SPORTS Nt 3
 
-
-#EXTINF:-1,  tvg-name="ESPN1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN Nt 1
-
+#EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN 2 F1 SUD
+http://190.0.241.181:8000/play/a06z/index.m3u8
 
 
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://i.blogs.es/2baaa1/dazn-f1/650_1200.webp" group-title="TVF1",DAZN F1
 http://724387382856165419.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165419.ts
+
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://i.blogs.es/2baaa1/dazn-f1/650_1200.webp" group-title="TVF1",DAZN F1 O2
 http://724387382856165418.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/165418.ts
-
-
-#EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2022/10/ESPN-F1.jpg" group-title="TVF1",ESPN 2 F1 SUD
-http://190.0.241.181:8000/play/a06z/index.m3u8
 
 
 
