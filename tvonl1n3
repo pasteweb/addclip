@@ -97,7 +97,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1,  tvg-name="TELEMAX"  tvg-logo="https://www.uniradioserver.com/media/news_thumbs/201911/20191114190459_61.jpg" group-title="TV MEXICO",TELEMAX Sonora
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1,  tvg-name="RTQ"  tvg-logo="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png" group-title="TV MEXICO",RTQ CANAL 10 Queretaro
-
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-name="10CHETUMAL"  tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="TV MEXICO",CANAL 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,  tvg-name="10CANCUN"  tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="TV MEXICO",CANAL 10 Cancun
@@ -743,8 +743,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 
 #EXTINF:-1,  tvg-name="LOCOMOTION"  tvg-logo="https://img00.deviantart.net/09ba/i/2008/339/d/f/locomotion_by_minino.png" group-title="TV INFANTIL",LOCOMOTION TV
 
-#EXTINF:-1,  tvg-name="CACHIPUM"  tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="TV INFANTIL",CACHIPUM TV
-
+#EXTINF:-1,  tvg-name="ANIRETRO"  tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="TV INFANTIL",ANIRETRO TV
+https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-name="PBSKIDS"  tvg-logo="https://www.lagovista.lib.tx.us/site-assets/images/PBS%20Kids.jpg/@@images/image.jpeg" group-title="TV INFANTIL",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,  tvg-name="IPECANAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="TV INFANTIL",IPE CHICOS
@@ -766,9 +766,9 @@ http://190.60.38.114:1010/play/a043/index.m3u8
 #EXTINF:-1,  tvg-name="DISNEYJUNIOR"  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png" group-title="TV INFANTIL",DISNEY JUNIOR
 http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/107657.ts
 #EXTINF:-1,  tvg-name="CARTOONNT"  tvg-logo="https://i.postimg.cc/1RdHzWrw/crtoontwrk.png" group-title="TV INFANTIL",CARTOON NETWORK
-http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/107630.ts
-#EXTINF:-1,  tvg-name="CARTOONNT"  tvg-logo="https://i.postimg.cc/1RdHzWrw/crtoontwrk.png" group-title="TV INFANTIL",CARTOON NETWORK O2
 http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/107626.ts
+#EXTINF:-1,  tvg-name="CARTOONNT"  tvg-logo="https://i.postimg.cc/1RdHzWrw/crtoontwrk.png" group-title="TV INFANTIL",CARTOON NETWORK O2
+
 #EXTINF:-1,  tvg-name="CARTOONITO"  tvg-logo="https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo.png" group-title="TV INFANTIL",CARTOONITO
 
 #EXTINF:-1,  tvg-name="NICKTOONS"  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" group-title="TV INFANTIL",NICKELODEON
@@ -788,6 +788,8 @@ http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/107708.ts
 
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB ACCION
 http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/80023.ts
+#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB MasCINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB MARVEL
 http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/80032.ts
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB DC FILM
@@ -909,11 +911,11 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1,  tvg-name="TV13"  tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="TV CULTURAL",TV 13 CULTURA CHILE
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1,  tvg-name="STGOTV"  tvg-logo="https://i.postimg.cc/TPqwX0Xv/STGO.jpg" group-title="TV CULTURAL",STGO TV
-
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
 #EXTINF:-1,  tvg-name="FILM&ARTS"  tvg-logo="https://i.postimg.cc/QxtWk2Z9/ARTS-TV.png" group-title="TV CULTURAL",FILM&ARTS TV
-
-#EXTINF:-1,  tvg-name="FILM&ARTS"  tvg-logo="https://i.postimg.cc/QxtWk2Z9/ARTS-TV.png" group-title="TV CULTURAL",FILM&ARTS TV O2
 http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384873.ts
+#EXTINF:-1,  tvg-name="FILM&ARTS"  tvg-logo="https://i.postimg.cc/QxtWk2Z9/ARTS-TV.png" group-title="TV CULTURAL",FILM&ARTS TV O2
+
 #EXTINF:-1,  tvg-name="TELENORD8"  tvg-logo="https://i.postimg.cc/jjr599mh/TLNORD.jpg" group-title="TV CULTURAL",TELENORD 8
 
 #EXTINF:-1,  tvg-name="TELENORD10"  tvg-logo="https://i.postimg.cc/jjr599mh/TLNORD.jpg" group-title="TV CULTURAL",TELENORD 10
@@ -928,12 +930,12 @@ http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384873.ts
 
 
 
-#EXTINF:-1,  tvg-name="TELESISTEMA"  tvg-logo="https://i.postimg.cc/wM4ggF90/telsistma.png" group-title="TV RETRO",TELESISTEMA
+#EXTINF:-1,  tvg-name="FREETV"  tvg-logo="" group-title="TV RETRO",FREE-TV
 
 #EXTINF:-1,  tvg-name="TVUNO"  tvg-logo="https://i.postimg.cc/qMgpjfGY/tele1tv.png" group-title="TV RETRO",TV UNO
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,  tvg-name="MICROVISION10"  tvg-logo="https://www.freeetv.com/images/03_logo/microvision_dr.jpg" group-title="TV RETRO",MICROVISION 10
-http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/80334.ts
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-name="TDtv"  tvg-logo="https://i.postimg.cc/Vvd7nf78/TDtv.png" group-title="TV RETRO",TDtv
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1,  tvg-name="MITVCLASICA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ClasicoTV.jpg" group-title="TV RETRO",MI TV CLASICA
@@ -982,10 +984,8 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1,  tvg-name="BBCdrama"  tvg-logo="https://i.postimg.cc/cJT7GTJK/bbcdrma.png" group-title="TV MUNDIAL",BBC DRAMA (GBR)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1,  tvg-name="KANALD"  tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="TV MUNDIAL",KANAL D DRAMA (TUR)
-
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  tvg-name="NBCUniverso"  tvg-logo="https://variety.com/wp-content/uploads/2014/11/nbc-universo-logo.jpg?resize=125" group-title="TV MUNDIAL",NBC UNIVERSO (USA)
 
 #EXTINF:-1,  tvg-name="AFV"  tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="TV MUNDIAL",AFV (USA)
@@ -1032,7 +1032,7 @@ http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/80616.ts
 #EXTINF:-1,  tvg-name="eitb"  tvg-logo="https://www.amasde.es/wp-content/uploads/2018/07/entrevistas-eitb.jpg" group-title="TV MUNDIAL",eitb (ESP)
 
 #EXTINF:-1,  tvg-name="TVG"  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" group-title="TV MUNDIAL",TV-G (ESP)
-http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/80778.ts
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1,  tvg-name="TVGamerica"  tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" group-title="TV MUNDIAL",TV-G AMERICA (ESP)
 http://orbytdrm.xyz:8080/live/eric_telegram/YA2BGhtPv447/80773.ts
 
