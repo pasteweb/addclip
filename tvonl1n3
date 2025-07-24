@@ -12,7 +12,7 @@ http://45.68.35.218:4001/play/a025/index.m3u8
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN RADIOCAST
 
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS XEW TV
-
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS MX
 
 #EXTINF:-1,  tvg-name="LASESTRELLASlatam"  tvg-logo="https://i.postimg.cc/RFnccpDn/lsestrllslatm.png" group-title="TV MEXICO",LAS ESTRELLAS Latam
@@ -52,7 +52,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,  tvg-name="CANAL22"  tvg-logo="https://arteyculturaenrebeldia.files.wordpress.com/2015/06/logo-canal-22.png" group-title="TV MEXICO",CANAL 22 O2
 
 #EXTINF:-1,  tvg-name="CANAL14"  tvg-logo="https://i.postimg.cc/9QpVQx8C/cnl14.png" group-title="TV MEXICO",CANAL 14 CDMX
-
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1,  tvg-name="CAPITAL21cdmx"  tvg-logo="https://i.postimg.cc/c6ykRSJ2/cap21.png" group-title="TV MEXICO",CAPITAL 21 CDMX
 
 
