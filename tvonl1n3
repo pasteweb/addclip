@@ -6,9 +6,9 @@
 
 
 #EXTINF:-1,  tvg-name="AZTECA"  tvg-logo="https://i.postimg.cc/yxcyzphz/aztkinl.png" group-title="TV MEXICO",AZTECA Internl
-
+https://stitcher.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN TV
-
+https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="IMAGENTV"  tvg-logo="https://i.postimg.cc/hGnQjmY9/IMGTV.png" group-title="TV MEXICO",IMAGEN RADIOCAST
 
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS XEW TV
@@ -16,7 +16,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLAS"  tvg-logo="https://i.postimg.cc/VNhq0PD8/lsestrllsmx.png" group-title="TV MEXICO",LAS ESTRELLAS MX
 http://80.80.91.195:8000/play/a0ei/index.m3u8
 #EXTINF:-1,  tvg-name="LASESTRELLASlatam"  tvg-logo="https://i.postimg.cc/RFnccpDn/lsestrllslatm.png" group-title="TV MEXICO",LAS ESTRELLAS Latam
-
+http://186.194.160.110:9002/play/a0bj/index.m3u8
 #EXTINF:-1,  tvg-name="FOROTV"  tvg-logo="https://i.postimg.cc/L6Sz1TBn/f0rotv.png" group-title="TV MEXICO",FORO TV
 
 #EXTINF:-1,  tvg-name="CANAL5"  tvg-logo="https://i.postimg.cc/hjyXp5tr/xhgc5.png" group-title="TV MEXICO",CANAL 5 XHGC
@@ -120,14 +120,14 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1,  tvg-name="CANAL6cdmx"  tvg-logo="https://i.postimg.cc/zvn6PB48/c6cdmx.png" group-title="NOTICIAS",CANAL 6 CDMX MULTIMEDIOS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1,  tvg-name="MEGANOTICIASMX"  tvg-logo="https://www.meganoticias.mx/imagenes/meganoticias.jpg" group-title="NOTICIAS",MEGANOTICIAS MX
-
+#EXTINF:-1,  tvg-name="C4enalerta"  tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/06/02/alerta-programa-television-conducido-periodista.jpg" group-title="NOTICIAS",C4 EN ALERTA MX
+https://stitcher.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="HERALDOTV"  tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="NOTICIAS",HERALDO TV
 
 #EXTINF:-1,  tvg-name="MILENIOTV"  tvg-logo="https://pbs.twimg.com/profile_images/1267320384568864768/f8h8X12H_400x400.jpg" group-title="NOTICIAS",MILENIO TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1,  tvg-name="TELEFORMULA"  tvg-logo="https://i.postimg.cc/mrPMs6R6/tlfrmula.png" group-title="NOTICIAS",TELEFORMULA
-
+https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="AMXNOTICIAS"  tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="NOTICIAS",AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1,  tvg-name="CNNLATINO"  tvg-logo="https://i.postimg.cc/MGgBKbpZ/cnnspnsh.png" group-title="NOTICIAS",CNN ESPANOL
@@ -146,8 +146,8 @@ https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
 #EXTINF:-1,  tvg-name="TELESUR"  tvg-logo="https://logosave.com/images/large/common/02/telesur.png" group-title="NOTICIAS",TELESUR
 
-#EXTINF:-1,  tvg-name="TN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="NOTICIAS",TN NOTICIAS ARG
-
+#EXTINF:-1,  tvg-name="NTN"  tvg-logo="https://www.mediamoves.com/wp-content/uploads/2014/12/NTN24-logo-e1418960683711.jpg" group-title="NOTICIAS",NTN NOTICIAS ARG
+http://186.194.160.110:9002/play/a0hw/index.m3u8
 #EXTINF:-1,  tvg-name="FRANCE24"  tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png" group-title="NOTICIAS",FRANCE 24
 
 #EXTINF:-1,  tvg-name="DW"  tvg-logo="https://i.postimg.cc/W351d439/DW.jpg" group-title="NOTICIAS",DW Deutsche Welle
@@ -200,9 +200,9 @@ http://80.80.91.195:8000/play/a04d/index.m3u8
 #EXTINF:-1,  tvg-name="GOURMET"  tvg-logo="https://i.postimg.cc/zD4CNyqk/gourmt.png" group-title="IZZITV",GOURMET
 http://80.80.91.195:8000/play/a04c/index.m3u8
 #EXTINF:-1,  tvg-name="LIFETIME"  tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" group-title="IZZITV",LIFETIME
-http://200.60.124.19:29000/play/a021/index.m3u8
+http://186.194.160.110:9002/play/a0kv/index.m3u8
 #EXTINF:-1,  tvg-name="TRUTV"  tvg-logo="https://static.wixstatic.com/media/696a2f_04a977bd015b433d96838d18f71ad9d9.png" group-title="IZZITV",TRU TV
-http://80.80.91.195:8000/play/a03h/index.m3u8
+
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZITV",E!
 http://80.80.91.195:8000/play/a0cx/index.m3u8
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZITV",E! O2
@@ -213,6 +213,8 @@ http://206.212.244.71:8080/Abxc5k/363887/58770
 http://1tv41.icu:8080/ahx4CN/815233/58770
 #EXTINF:-1,  tvg-name="COMEDYCENTRAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="IZZITV",COMEDY CENTRAL
 http://80.80.91.195:8000/play/a09q/index.m3u8
+#EXTINF:-1,  tvg-name="COMEDYCENTRAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="IZZITV",COMEDY CENTRAL O2
+https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="DISTRITOCOMEDIA"  tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/logo-distrito-comedia.jpg" group-title="IZZITV",DISTRITO COMEDIA
 http://80.80.91.195:8000/play/a0dy/index.m3u8
 
@@ -241,9 +243,9 @@ http://80.80.91.195:8000/play/a03l/index.m3u8
 #EXTINF:-1,  tvg-name="TNTseries"  tvg-logo="https://i.postimg.cc/sXVWnW9V/tntsrs.png" group-title="IZZITV",TNT NOVELAS
 http://186.194.160.110:9002/play/a0j0/index.m3u8
 #EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZITV",TCM
-http://186.194.160.110:9002/play/a0i3/index.m3u8
-#EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZITV",TCM O2
 http://80.80.91.195:8000/play/a04l/index.m3u8
+#EXTINF:-1,  tvg-name="TCM"  tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="IZZITV",TCM O2
+
 #EXTINF:-1,  tvg-name="ARTFLIX"  tvg-logo="https://pbs.twimg.com/profile_images/1261062311659409409/UwUEfJE2_400x400.jpg" group-title="IZZITV",ARTFLIX
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="SPACE"  tvg-logo="https://i.postimg.cc/9F1qqjQn/spce.png" group-title="IZZITV",SPACE
@@ -382,7 +384,7 @@ http://80.80.91.195:8000/play/a04b/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO
 http://80.80.91.195:8000/play/a0a2/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO O2
-http://80.80.91.195:8000/play/a03n/index.m3u8
+http://186.194.160.110:9002/play/a04t/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET
 http://80.80.91.195:8000/play/a050/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET O2
@@ -582,14 +584,14 @@ https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1,  tvg-name="PTVCorajePerro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CORAJE EL PERRO COBARDE
 
-#EXTINF:-1,  tvg-name="PTVCorajePerro"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",MR BEAN
-
+#EXTINF:-1,  tvg-name="PTVretrocartoons"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV RETRO CARTOONS
+https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
 #EXTINF:-1,  tvg-name="PTVAnimeKids"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV ANIME KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
 #EXTINF:-1,  tvg-name="PTVBobEsponja"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV BOB ESPONJA
-
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PTVPadrinosMagicos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV PADRINOS MAGICOS
-
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PTVPadrinosMagicos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",CHICAS SUPERPODEROSAS
 
 #EXTINF:-1,  tvg-name="PTVPadrinosMagicos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",JOHNNY BRAVO
@@ -610,7 +612,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 #EXTINF:-1,  tvg-name="PTVDaria"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV DARIA
 
 #EXTINF:-1,  tvg-name="PTVSouthPark"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SOUTH PARK
-
+https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PTVDINOSAURIOS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",DINOSAURIOS
 
 #EXTINF:-1,  tvg-name="PTVSeries"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES
@@ -620,7 +622,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 #EXTINF:-1,  tvg-name="PTVLatinas"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV SERIES LATINAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
 #EXTINF:-1,  tvg-name="PTVHechizada"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HECHIZADA
-
+https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="ANHOSMARAV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS ANHOS MARAVILLOSOS
 
 #EXTINF:-1,  tvg-name="SALVADOS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",SALVADOS POR LA CAMPANA
@@ -628,7 +630,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 #EXTINF:-1,  tvg-name="PTVAutoIncreible"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL AUTO INCREIBLE
 
 #EXTINF:-1,  tvg-name="PTVMacGyver"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",MAC GYVER
-
+https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="SUPERAGENTE86"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",EL SUPER AGENTE 86
 
 #EXTINF:-1,  tvg-name="DUKESHAZZARD"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",LOS DUKES DE HAZZARD
@@ -645,7 +647,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 #EXTINF:-1,  tvg-name="PTVComedyCentral"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COMEDY CENTRAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
 #EXTINF:-1,  tvg-name="PTVRidiculousness"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MTV RIDICULOUSNESS
-
+https://stitcher.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PTVFailArmy"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV FAILARMY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
 
@@ -658,14 +660,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007
 #EXTINF:-1,  tvg-name="PTVNoseyEscandalos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NOSEY ESCANDALOS
 
 #EXTINF:-1,  tvg-name="PTVCops"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV COPS
-
-#EXTINF:-1,  tvg-name="PTVCSIMiami"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CSI MIAMI
-
-#EXTINF:-1,  tvg-name="PTVNCIS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NCIS
-
-#EXTINF:-1,  tvg-name="PTVWalkingDead"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV WALKING DEAD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-#EXTINF:-1,  tvg-name="PTVWalkingDead"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",WALKING DEAD
 
 #EXTINF:-1,  tvg-name="PTVObsesion"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MI OBSESION FAVORITA
 
@@ -681,6 +675,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b09
 
 #EXTINF:-1,  tvg-name="PTVMayday"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",MAYDAY CATASTROFES AEREAS
 
+#EXTINF:-1,  tvg-name="PTVWalkingDead"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV WALKING DEAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
+#EXTINF:-1,  tvg-name="PTVCSIMiami"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CSI MIAMI
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
+#EXTINF:-1,  tvg-name="PTVNCIS"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV NCIS
+https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PTVCazadorHomicidas"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CAZADOR DE HOMICIDAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
 #EXTINF:-1,  tvg-name="PTVInvestiga"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV INVESTIGA
@@ -702,13 +702,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f91
 #EXTINF:-1,  tvg-name="PTVHistoria"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HISTORIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,  tvg-name="PTVSmithsonian"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV CHANNEL SMITHSONIAN
-
+https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
 #EXTINF:-1,  tvg-name="PTVBiography"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",BIOGRAPHY
 
 #EXTINF:-1,  tvg-name="PTVMisterio"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MISTERIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,  tvg-name="PTVMedicos"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MISTERIOS MEDICOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,  tvg-name="PTVufofiles"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV UFO FILES
+https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PTVUltratumba"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV HISTORIAS DE ULTRATUMBA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&includeExtendedEvents=false&marketingRegion=VE&sid=99507f51-c15e-11eb-be80-0242ac110002&userId="
 #EXTINF:-1,  tvg-name="PTVparanormal"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="SERIES 24-7",PTV MUNDO PARANORMAL
@@ -895,8 +897,8 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 http://186.194.160.110:9002/play/a01e/index.m3u8
 #EXTINF:-1,  tvg-name="LoveNature"  tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="TV CULTURAL",TV LOVE NATURE O2
 
-#EXTINF:-1,  tvg-name="PLUTOTVhistoria"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV HISTORIA
-
+#EXTINF:-1,  tvg-name="PLUTOTVsmithsonian"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV SMITHSONIAN CH
+https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7f4a1004-3df9-11f0-90ac-1ee1ca4b8ae7
 #EXTINF:-1,  tvg-name="PLUTOTVhistoria"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV HISTORIA UNIVERSAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1,  tvg-name="PLUTOTVdocumentales"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV DOCUMENTALES
@@ -905,8 +907,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc0009
 https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1,  tvg-name="PLUTOTVmsinresolver"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV MISTERIOS SIN RESOLVER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="PLUTOTValien"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV INVASION ALIEN
-
+#EXTINF:-1,  tvg-name="PLUTOTVufofiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",UFO FILES
+https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="PLUTOTVinvestiga"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV INVESTIGA
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1,  tvg-name="PLUTOTVmisterios"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV CULTURAL",TV MISTERIOS
@@ -1134,7 +1136,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164885
 #EXTINF:-1,  tvg-name="TV13"  tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="TV MUNDIAL",TV 13 Entretencion (CHILE)
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://online-television.net/uploads/posts/2022-10/thumbs/mega-hd.webp" group-title="TV MUNDIAL",MEGA (CHILE)
-http://1tv41.icu:8080/ahx4CN/815233/164883
+http://186.194.160.110:9002/play/a0bg/index.m3u8
 #EXTINF:-1,  tvg-name="CHILEVISION"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION (CHILE)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164884
 #EXTINF:-1,  tvg-name="CHILEVISIONCONTIGO"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION CONTIGO (CHILE)
@@ -1198,8 +1200,12 @@ http://186.194.160.110:9002/play/a0hb/index.m3u8
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1,  tvg-name="CONCERT"  tvg-logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="LIVE MUSIC",CONCERT CHANNEL
 http://80.80.91.195:8000/play/a05p/index.m3u8
-#EXTINF:-1,  tvg-name="hTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="LIVE MUSIC",hTV
-
+#EXTINF:-1,  tvg-name="MTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="LIVE MUSIC",MTV POP CLASSIC
+https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
+#EXTINF:-1,  tvg-name="MTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="LIVE MUSIC",MTV ROCK
+https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
+#EXTINF:-1,  tvg-name="MTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="LIVE MUSIC",MTV LATINO
+https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="NICKMusic"  tvg-logo="https://i.postimg.cc/4yVqF5mY/nickmusic.png" group-title="LIVE MUSIC",NICKMusic
 
 #EXTINF:-1,  tvg-name="hTV"  tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="LIVE MUSIC",ULTRA Finito
