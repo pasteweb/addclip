@@ -31,7 +31,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dca
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,  tvg-name="AZTECA7"  tvg-logo="https://i.postimg.cc/Hstb4yB3/aztk7.png" group-title="TV MEXICO",AZTECA 7 O2
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1,  tvg-name="a+"  tvg-logo="http://www.partner.ulango.tv/uploads/channels/3782938/logo_azteca%20+.png" group-title="TV MEXICO",A+
+#EXTINF:-1,  tvg-name="a+"  tvg-logo="https://pbs.twimg.com/media/C7aA2AtU8AEckV8.jpg" group-title="TV MEXICO",A+
 http://1tv41.icu:8080/ahx4CN/815233/164922
 #EXTINF:-1,  tvg-name="HERALDOTV"  tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="TV MEXICO",CANAL 8 HERALDO TV
 
@@ -66,7 +66,7 @@ http://1tv41.icu:8080/ahx4CN/815233/57969
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1,  tvg-name="CANAL34"  tvg-logo="https://cmll.com/wp-content/uploads/2020/07/logoNew.png" group-title="TV MEXICO",CANAL 34 MEXIQUENSE O2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,  tvg-name="MILENIOTV"  tvg-logo="https://pbs.twimg.com/profile_images/1267320384568864768/f8h8X12H_400x400.jpg" group-title="TV MEXICO",MILENIO TV
+#EXTINF:-1,  tvg-name="MILENIOTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV MEXICO",MILENIO TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1,  tvg-name="TELEFORMULA"  tvg-logo="https://i.postimg.cc/mrPMs6R6/tlfrmula.png" group-title="TV MEXICO",TELEFORMULA
 
@@ -94,7 +94,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1,  tvg-name="NRT4SALTILLO"  tvg-logo="https://s5.postimg.cc/mwyeavcs7/LOG4_GDL.png" group-title="TV MEXICO",CANAL 4 NRT Saltillo
 
-#EXTINF:-1,  tvg-name="TELEMAX"  tvg-logo="https://www.uniradioserver.com/media/news_thumbs/201911/20191114190459_61.jpg" group-title="TV MEXICO",TELEMAX Sonora
+#EXTINF:-1,  tvg-name="TELEMAX"  tvg-logo="https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title="TV MEXICO",TELEMAX Sonora
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1,  tvg-name="RTQ"  tvg-logo="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png" group-title="TV MEXICO",RTQ CANAL 10 Queretaro
 
@@ -124,7 +124,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dca
 https://stitcher.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
 #EXTINF:-1,  tvg-name="HERALDOTV"  tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="NOTICIAS",HERALDO TV
 
-#EXTINF:-1,  tvg-name="MILENIOTV"  tvg-logo="https://pbs.twimg.com/profile_images/1267320384568864768/f8h8X12H_400x400.jpg" group-title="NOTICIAS",MILENIO TV
+#EXTINF:-1,  tvg-name="MILENIOTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS",MILENIO TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1,  tvg-name="TELEFORMULA"  tvg-logo="https://i.postimg.cc/mrPMs6R6/tlfrmula.png" group-title="NOTICIAS",TELEFORMULA
 https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2e6e2e70-7da0-11f0-8490-166917792ed9
@@ -138,9 +138,9 @@ http://1tv41.icu:8080/ahx4CN/815233/57619
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="NEGOCIOS"  tvg-logo="https://nadiesolo.org/wp-content/uploads/2020/11/negocios-tv.jpeg" group-title="NOTICIAS",NEGOCIOS TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1,  tvg-name="EURONEWS"  tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="NOTICIAS",EURONEWS
+#EXTINF:-1,  tvg-name="EURONEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",EURONEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,  tvg-name="EURONEWS"  tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="NOTICIAS",EURONEWS O2
+#EXTINF:-1,  tvg-name="EURONEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",EURONEWS O2
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1,  tvg-name="CanalE"  tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="NOTICIAS",CANAL E
 
