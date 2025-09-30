@@ -581,7 +581,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009
 #EXTINF:-1,  tvg-name="PTVChapulinCol"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",EL CHAPULIN COLORADO
 
 #EXTINF:-1,  tvg-name="PTVChavo8"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",EL CHAVO DEL 8
-
+http://195.66.210.10:80/AlexanderAMatamoros24/XWWKY/531614
 #EXTINF:-1,  tvg-name="PTVLIGADJUSTICIA"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",DON GATO
 
 #EXTINF:-1,  tvg-name="PTVDisneyPixar"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PIXAR
