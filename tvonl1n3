@@ -61,7 +61,7 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1,  tvg-name="UNICABLE"  tvg-logo="https://oreox.net/images/logos-canales/90.png" group-title="TV MEXICO",UNICABLE
 
 #EXTINF:-1,  tvg-name="UNIMAS"  tvg-logo="https://oreox.net/images/logos-canales/90.png" group-title="TV MEXICO",UNIMAS 
-http://1tv41.icu:8080/ahx4CN/815233/57969
+http://tvmate.icu:8080/zp1AP2/537193/57969
 #EXTINF:-1,  tvg-name="UNIMAS"  tvg-logo="https://oreox.net/images/logos-canales/90.png" group-title="TV MEXICO",UNIMAS O2
 
 #EXTINF:-1,  tvg-name="CANAL34"  tvg-logo="https://cmll.com/wp-content/uploads/2020/07/logoNew.png" group-title="TV MEXICO",CANAL 34 MEXIQUENSE
@@ -220,9 +220,7 @@ http://80.80.91.195:8000/play/a0cx/index.m3u8
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://static.wixstatic.com/media/0cd32b_a39d5bacfe6142ad9c375b405218d68c~mv2.png" group-title="IZZITV",E! O2
 http://200.113.4.75:7210/play/a00v/index.m3u8
 #EXTINF:-1,  tvg-name="GALAVISION"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/640px-Galavision_Logo_2024.svg.png" group-title="IZZITV",GALAVISION
-http://xxip25.top:8080/t8PqcF/340199/58770
-#EXTINF:-1,  tvg-name="NUESTRACOMEDIA"  tvg-logo="https://i.pinimg.com/originals/d6/59/40/d659401fa7f98d64aae1b1d05af77aac.jpg" group-title="IZZITV",NUESTRA COMEDIA
-
+http://tvmate.icu:8080/zp1AP2/537193/58770
 #EXTINF:-1,  tvg-name="GALAVISION"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/640px-Galavision_Logo_2024.svg.png" group-title="IZZITV",GALAVISION O2
 http://1tv41.icu:8080/ahx4CN/815233/58770
 #EXTINF:-1,  tvg-name="COMEDYCENTRAL"  tvg-logo="https://i.pinimg.com/736x/9c/41/dc/9c41dc9ddbf795124908e31a08b65895.jpg" group-title="IZZITV",COMEDY CENTRAL
@@ -433,7 +431,7 @@ http://80.80.91.195:8000/play/a0a5/index.m3u8
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA
 http://xxip25.top:8080/t8PqcF/340199/82241
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA O2
-http://1tv41.icu:8080/ahx4CN/815233/82241
+http://tvmate.icu:8080/zp1AP2/537193/11885
 #EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN
 http://xxip25.top:8080/92325382/92325382/11885
 #EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN O2 
