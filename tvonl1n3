@@ -310,6 +310,8 @@ http://181.78.106.127:9000/play/ca072/index.m3u8
 http://45.5.117.99:8000/play/a03s/index.m3u8
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="IZZITV",SONY O2
 http://181.119.86.68:8000/play/c023/index.m3u8
+#EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="IZZITV",SONY MOVIES
+http://45.5.117.99:8000/play/a03s/index.m3u8
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY ONE
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://p.kindpng.com/picc/s/1-13782_warner-tv-channel-logo-hd-png-download.png" group-title="IZZITV",WARNER 
@@ -422,7 +424,7 @@ http://45.5.117.99:8000/play/a0jp/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/Vk60qHSL/n4tg30.png" group-title="IZZITV",NATGEO O2
-http://179.51.136.19:8000/play/a1bd/index.m3u8
+http://45.5.117.99:8000/play/a05k/index.m3u8
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET
 
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET O2
@@ -529,7 +531,7 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1,  tvg-name="MOVISTAR"  tvg-logo="https://i.postimg.cc/4xjkbbG9/MVSDEPRTS.png" group-title="DEPORTES",MOVISTAR Champions League
 
 #EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",TIGO SPORTS
-
+http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1,  tvg-name="GOLTV"  tvg-logo="https://i.pinimg.com/736x/b1/07/20/b107200ff4b1c8a0085d5eae6a0c988a.jpg" group-title="DEPORTES",GOL TV
 http://179.51.136.19:8000/play/a1gz/index.m3u8
 #EXTINF:-1,  tvg-name="PARAMOUNTligapremier"  tvg-logo="https://i.postimg.cc/Zny6xvBK/ParmntPL.png" group-title="DEPORTES",PARAMOUNT LIGA PREMIER
@@ -1126,7 +1128,7 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1,  tvg-name="TELEUNOTV"  tvg-logo="https://i.postimg.cc/qMgpjfGY/tele1tv.png" group-title="TV MUNDIAL",TELEUNO TV (C RICA)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,  tvg-name="TELEsistema"  tvg-logo="https://i.postimg.cc/wM4ggF90/telsistma.png" group-title="TV MUNDIAL",TELESISTEMA (C RICA)
-
+http://45.5.117.99:8000/play/a04z/index.m3u8
 #EXTINF:-1,  tvg-name="1Canal"  tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="TV MUNDIAL",1 CANAL (C RICA)
 
 #EXTINF:-1,  tvg-name="CANAL4"  tvg-logo="https://i.postimg.cc/VLdzqNt2/C4CR.png" group-title="TV MUNDIAL",CANAL 4 (C RICA)
