@@ -480,8 +480,10 @@ http://179.51.136.19:8000/play/a16q/index.m3u8
 http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3
 http://181.78.106.127:9000/play/ca035/index.m3u8
+#EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3 O2
+http://45.5.117.99:8000/play/a062/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt4
-
+http://45.5.117.99:8000/play/a064/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN PLUS
 
 
