@@ -171,6 +171,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
 https://rt-esp.servicecdn.ru/dvr/rtesp/playlist.m3u8
 
 
+
+
 #EXTINF:0,tvg-logo="https://eitmedia.mx/media/k2/items/cache/8d034f027c82ad7715976b4cdc357985_XL.jpg" group-title="IZZITV",---IZZITV---
 
 #EXTINF:-1,  tvg-name="TELEMUNDO"  tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" group-title="IZZITV",TELEMUNDO
@@ -209,7 +211,7 @@ http://179.51.136.19:8000/play/a1bu/index.m3u8
 #EXTINF:-1,  tvg-name="STARLIFE"  tvg-logo="https://cablego.com.pe/cache/logos/FOXLIFE.png" group-title="IZZITV",STAR LIFE
 
 #EXTINF:-1,  tvg-name="ELGOURMET"  tvg-logo="https://i.postimg.cc/zD4CNyqk/gourmt.png" group-title="IZZITV",EL GOURMET
-http://179.51.136.19:8000/play/a1bf/index.m3u8
+http://45.5.117.99:8000/play/a046/index.m3u8
 #EXTINF:-1,  tvg-name="LIFETIME"  tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" group-title="IZZITV",LIFETIME
 http://45.5.117.99:8000/play/a0gb/index.m3u8
 #EXTINF:-1,  tvg-name="LIFETIME"  tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" group-title="IZZITV",LIFETIME O2
@@ -243,13 +245,13 @@ http://45.5.117.99:8000/play/a0gt/index.m3u8
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZITV",A&E O2
 
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://images.seeklogo.com/logo-png/19/2/axn-logo-png_seeklogo-190420.png" group-title="IZZITV",AXN
-http://45.5.117.99:8000/play/a0iy/index.m3u8
+http://45.5.117.99:8000/play/a04p/index.m3u8
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://images.seeklogo.com/logo-png/19/2/axn-logo-png_seeklogo-190420.png" group-title="IZZITV",AXN 02
-http://181.119.86.68:8000/play/c016/index.m3u8
+http://45.5.117.99:8000/play/a0iy/index.m3u8
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZITV",AMC
 http://45.5.117.99:8000/play/a0gu/index.m3u8
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZITV",AMC O2
-
+http://181.78.106.127:9000/play/ca080/index.m3u8
 #EXTINF:-1,  tvg-name="AMCnet"  tvg-logo="https://sdn.signalhire.co/storage/company/78e9/57f2/becb/cf98/346c/3382/bb9c/1ec3.webp" group-title="IZZITV",AMC Espanol
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="AMCnet"  tvg-logo="https://sdn.signalhire.co/storage/company/78e9/57f2/becb/cf98/346c/3382/bb9c/1ec3.webp" group-title="IZZITV",AMC Espanol O2
@@ -315,7 +317,7 @@ http://45.5.117.99:8000/play/a03s/index.m3u8
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" group-title="IZZITV",SONY ONE
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://p.kindpng.com/picc/s/1-13782_warner-tv-channel-logo-hd-png-download.png" group-title="IZZITV",WARNER 
-http://181.78.23.26:45000/play/a01e
+http://45.5.117.99:8000/play/a04s/index.m3u8
 #EXTINF:-1,  tvg-name="WARNER"  tvg-logo="https://p.kindpng.com/picc/s/1-13782_warner-tv-channel-logo-hd-png-download.png" group-title="IZZITV",WARNER O2
 http://181.78.106.127:9000/play/ca071/index.m3u8
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg" group-title="IZZITV",FX
@@ -346,7 +348,7 @@ http://181.78.106.127:9000/play/ca078/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDENPLUS"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN PLUS
 
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN PREMIER
-
+http://200.125.170.122:8000/play/a00l
 #EXTINF:-1,  tvg-name="GOLDENPM"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN PREMIER 2
 
 
@@ -470,7 +472,7 @@ http://45.5.117.99:8000/play/a04w/index.m3u8
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/gJvxzC74/clrosport1.png" group-title="DEPORTES",CLARO Sports O2
 http://179.51.136.19:8000/play/a18m/index.m3u8
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/cC0rrDyW/clrosport2.png" group-title="DEPORTES",CLARO Sports 2
-http://45.5.117.99:8000/play/a03w/index.m3u8
+http://45.5.117.99:8000/play/a04x/index.m3u8
 #EXTINF:-1,  tvg-name="CLAROSports"  tvg-logo="https://i.postimg.cc/cC0rrDyW/clrosport2.png" group-title="DEPORTES",CLARO Sports 2 O2
 http://179.51.136.19:8000/play/a16q/index.m3u8
 
@@ -479,9 +481,9 @@ http://179.51.136.19:8000/play/a16q/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN2"  tvg-logo="https://i.postimg.cc/N0cfccV9/espn2.png" group-title="DEPORTES",ESPN Nt2
 http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3
-http://181.78.106.127:9000/play/ca035/index.m3u8
-#EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3 O2
 http://45.5.117.99:8000/play/a062/index.m3u8
+#EXTINF:-1,  tvg-name="ESPN3"  tvg-logo="https://i.postimg.cc/nLGVVWbd/espn3.png" group-title="DEPORTES",ESPN Nt3 O2
+http://181.78.106.127:9000/play/ca035/index.m3u8
 #EXTINF:-1,  tvg-name="ESPN+"  tvg-logo="https://i.postimg.cc/1zC6xrD3/espn.png" group-title="DEPORTES",ESPN Nt4
 http://45.5.117.99:8000/play/a064/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNdeportes"  tvg-logo="https://i.postimg.cc/KcdzgHZ2/espndeprts.png" group-title="DEPORTES",ESPN PLUS
@@ -503,7 +505,7 @@ http://181.119.86.68:8000/play/b033/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsud4"  tvg-logo="https://i.postimg.cc/vZ8cQ6Yg/espnsd4.png" group-title="DEPORTES",ESPN SUD 4
 http://181.119.86.68:8000/play/b005/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 5
-http://181.119.86.68:8000/play/b028/index.m3u8
+http://45.5.117.99:8000/play/a065/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 6
 http://181.119.86.68:8000/play/b030/index.m3u8
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 7
@@ -575,8 +577,6 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1,  tvg-name="123GO"  tvg-logo="https://cdn6.aptoide.com/imgs/4/9/0/490dfdae2e854d19fd73ad7c6b3b85b4_icon.png" group-title="TV INFANTIL",123 GO TV
 https://amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgmx/playlist.m3u8
-#EXTINF:-1,  tvg-name="MEGAVISIONTV"  tvg-logo="https://www.lyngsat.com/logo/tv/mm/megavision-do.png" group-title="TV INFANTIL",MEGAVISION TV KIDS
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" group-title="TV INFANTIL",DISCOVERY KIDS 
 http://45.5.117.99:8000/play/a03l/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEOKIDS"  tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png" group-title="TV INFANTIL",NATGEO KIDS
@@ -668,6 +668,8 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,  tvg-name="NETtv"  tvg-logo="https://dn721605.ca.archive.org/0/items/net-tv-logo/Net_TV_logo.png" group-title="TV RETRO",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,  tvg-name="N51tv"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Canal_51_nicarao_tv_2022.svg/revision/latest?cb=20221207220645" group-title="TV RETRO",N51 TV
+http://45.5.117.99:8000/play/a03m/index.m3u8
 #EXTINF:-1,  tvg-name="MYTIME"  tvg-logo="https://i.postimg.cc/bNMp56Cv/mymtms.png" group-title="TV RETRO",MY TIME MOVIES
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 #EXTINF:-1,  tvg-name="LAREDTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" group-title="TV RETRO",LA RED TV
