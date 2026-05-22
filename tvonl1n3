@@ -230,11 +230,11 @@ http://206.212.244.71:8080/Abxc5k/363887/58770
 #EXTINF:-1,  tvg-name="GALAVISION"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/640px-Galavision_Logo_2024.svg.png" group-title="IZZITV",GALAVISION O2
 
 #EXTINF:-1,  tvg-name="COMEDYCENTRAL"  tvg-logo="https://i.pinimg.com/736x/9c/41/dc/9c41dc9ddbf795124908e31a08b65895.jpg" group-title="IZZITV",COMEDY CENTRAL 1
-
+http://45.181.122.46:8090/play/a01z
 #EXTINF:-1,  tvg-name="COMEDYCENTRAL"  tvg-logo="https://i.pinimg.com/736x/9c/41/dc/9c41dc9ddbf795124908e31a08b65895.jpg" group-title="IZZITV",COMEDY CENTRAL 2
 
 #EXTINF:-1,  tvg-name="DISTRITOCOMEDIA"  tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/05/logo-distrito-comedia.jpg" group-title="IZZITV",DISTRITO COMEDIA CENTRAL
-
+http://45.181.122.46:8090/play/a03a
 #EXTINF:-1,  tvg-name="ADULTSWIM"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo.jpg" group-title="IZZITV",ADULT SWIM
 http://45.5.117.99:8000/play/a0g4/index.m3u8
 #EXTINF:-1,  tvg-name="ADULTSWIM"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo.jpg" group-title="IZZITV",ADULT SWIM O2
@@ -330,7 +330,7 @@ http://45.5.117.99:8000/play/a0gx/index.m3u8
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg" group-title="IZZITV",FX
 http://45.5.117.99:8000/play/a0gw/index.m3u8
 #EXTINF:-1,  tvg-name="FX"  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg" group-title="IZZITV",FX O2
-
+http://45.181.122.46:8090/play/a01l
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://i.pinimg.com/474x/7c/55/b3/7c55b3b4caa69e29a83ca74e648467c3.jpg" group-title="IZZITV",PARAMOUNT
 
 #EXTINF:-1,  tvg-name="PARAMOUNT"  tvg-logo="https://i.pinimg.com/474x/7c/55/b3/7c55b3b4caa69e29a83ca74e648467c3.jpg" group-title="IZZITV",PARAMOUNT Plus
@@ -347,9 +347,9 @@ http://45.5.117.99:8000/play/a0il/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN
 http://45.5.117.99:8000/play/a0jv/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN O2
-
+http://45.181.122.46:8090/play/a019
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN EDGE
-
+http://45.181.122.46:8090/play/a038
 #EXTINF:-1,  tvg-name="GOLDENEDGE"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN EDGE O2
 
 #EXTINF:-1,  tvg-name="GOLDENPLUS"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN PLUS
@@ -386,25 +386,25 @@ http://45.5.117.99:8000/play/a0hn/index.m3u8
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 
 http://45.5.117.99:8000/play/a0l2/index.m3u8
 #EXTINF:-1,  tvg-name="HBO"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO O2
-
+http://45.181.122.46:8090/play/a029
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 2
 http://45.5.117.99:8000/play/a00c/index.m3u8
 #EXTINF:-1,  tvg-name="HBO2"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO 2 O2
-
+http://45.181.122.46:8090/play/a043
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Family
 http://45.5.117.99:8000/play/a0l5/index.m3u8
 #EXTINF:-1,  tvg-name="HBOFAM"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Family O2
-
+http://45.181.122.46:8090/play/a017
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Plus 
 http://45.5.117.99:8000/play/a0l4/index.m3u8
 #EXTINF:-1,  tvg-name="HBOPLUS"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Plus O2
-
+http://45.181.122.46:8090/play/a039
 #EXTINF:-1,  tvg-name="HBOXT"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Xtreme
 http://45.5.117.99:8000/play/a0l6/index.m3u8
 #EXTINF:-1,  tvg-name="HBOXT"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Xtreme O2
 
 #EXTINF:-1,  tvg-name="HBOPOP"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Pop
-
+http://45.181.122.46:8090/play/a00j
 #EXTINF:-1,  tvg-name="HBOSIG"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Signature
 
 #EXTINF:-1,  tvg-name="HBOSIG"  tvg-logo="https://i.postimg.cc/BQQS3ttc/H80chnl.png" group-title="IZZITV",HBO Signature O2
