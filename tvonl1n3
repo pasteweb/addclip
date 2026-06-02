@@ -502,7 +502,7 @@ http://45.5.117.99:8000/play/a0hv/index.m3u8
 
 
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA
-
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1,  tvg-name="TUDNusa"  tvg-logo="https://i.postimg.cc/J4556JYG/tudneu.png" group-title="DEPORTES",TUDN USA O2
 
 #EXTINF:-1,  tvg-name="TUDN"  tvg-logo="https://i.postimg.cc/FztVqxQJ/tudnmx.png" group-title="DEPORTES",TUDN
