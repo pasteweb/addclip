@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS 
-http://147.135.114.221:8001/play/a00m/index.m3u8
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS
-https://vmvpd.short.gy/ПрямойТелевидениеСпорт
+http://209.14.108.45:8000/play/a0br
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS O2
 http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS O3
@@ -16,7 +16,8 @@ http://148.222.230.201:8000/play/a0pk/index.m3u8
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS O5
 http://38.187.7.252:8000/play/a03d/index.m3u8
-
+#EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS O6
+http://181.64.27.65:8000/play/a0dq/index.m3u8
 
 #EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",Sud TIGO SPORTS
 
