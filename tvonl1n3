@@ -52,7 +52,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1,  tvg-name="TELEMUNDO"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",USA TELEMUNDO
-http://72.90.150.217:8000/play/a07a
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
 #EXTINF:-1,  tvg-name="TELEMUNDO"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",USA TELEMUNDO O2
 
 #EXTINF:-1,  tvg-name="TELEMUNDO"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",USA TELEMUNDO AL DIA
