@@ -3,7 +3,8 @@
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",---TV del Mundial---
 
-
+#EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS 
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS 
 http://181.64.27.65:8000/play/a0dq/index.m3u8
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS
@@ -758,7 +759,7 @@ http://45.5.117.99:8000/play/a0g0/index.m3u8
 #EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/f5/Tooncast.jpg" group-title="TV INFANTIL",TOONCAST
 http://45.5.117.99:8000/play/a03k/index.m3u8
 #EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/f5/Tooncast.jpg" group-title="TV INFANTIL",TOONCAST O2
-
+http://200.59.191.177:8000/play/a0qp/index.m3u8?
 #EXTINF:-1,  tvg-name="TOMYJERRY"  tvg-logo="https://pngfre.com/wp-content/uploads/tom-and-jerry-35-768x613.png" group-title="TV INFANTIL",TOM Y JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,  tvg-name="BOBESPONJA"  tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/bobesponja.png" group-title="TV INFANTIL",BOB ESPONJA
