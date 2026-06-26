@@ -20,8 +20,8 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1,  tvg-name="D-SPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",D-SPORTS O6
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-#EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",Sud TIGO SPORTS
-
+#EXTINF:-1,  tvg-name="CIV"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",CIV
+http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
 #EXTINF:-1,  tvg-name="TIGOhon"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",Sud TIGO SPORTS O2
 
 #EXTINF:-1,  tvg-name="WINSPORTS"  tvg-logo="https://i.postimg.cc/nVBFF3NT/mundial-2026.png" group-title="TV del Mundial",WIN SPORTS
@@ -346,22 +346,22 @@ http://45.181.122.46:8090/play/a01z
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/660.m3u8
 #EXTINF:-1,  tvg-name="DISTRITOCOMEDIA"  tvg-logo="https://i.postimg.cc/qqF1mRNc/DCmd.png" group-title="IZZITV",DISTRITO COMEDIA CENTRAL O2
 http://45.181.122.46:8090/play/a03a
-#EXTINF:-1,  tvg-name="ADULTSWIM"  tvg-logo="https://i.postimg.cc/jdGdJYxs/adltswmg.png" group-title="IZZITV",ADULT SWIM
+#EXTINF:-1,  tvg-name="ADULTSWIM"  tvg-logo="https://i.postimg.cc/jdGdJYxs/adltswmg.png" group-title="IZZITV",ADULT SWIM0
 http://45.5.117.99:8000/play/a0g4/index.m3u8
 #EXTINF:-1,  tvg-name="ADULTSWIM"  tvg-logo="https://i.postimg.cc/jdGdJYxs/adltswmg.png" group-title="IZZITV",ADULT SWIM O2
-http://190.7.19.197:232/play/a01s/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8?hls
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZITV",A&E
 http://45.181.122.46:8090/play/a00d
 #EXTINF:-1,  tvg-name="A&E"  tvg-logo="https://i.postimg.cc/50ZSTWC3/aye.png" group-title="IZZITV",A&E O2
 
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://i.postimg.cc/R0pYN4m2/aexn.png" group-title="IZZITV",AXN 1
-http://45.5.117.99:8000/play/a0iy/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8?hls
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://i.postimg.cc/R0pYN4m2/aexn.png" group-title="IZZITV",AXN 2
 http://45.181.122.46:8090/play/a00g
 #EXTINF:-1,  tvg-name="AXN"  tvg-logo="https://i.postimg.cc/R0pYN4m2/aexn.png" group-title="IZZITV",AXN 3
-
+http://45.5.117.99:8000/play/a0iy/index.m3u8
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZITV",AMC
-http://45.5.117.99:8000/play/a0gu/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a06k/index.m3u8?hls
 #EXTINF:-1,  tvg-name="AMC"  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" group-title="IZZITV",AMC O2
 http://45.181.122.46:8090/play/a027
 #EXTINF:-1,  tvg-name="AMCnet"  tvg-logo="https://sdn.signalhire.co/storage/company/78e9/57f2/becb/cf98/346c/3382/bb9c/1ec3.webp" group-title="IZZITV",AMC Espanol
@@ -652,10 +652,12 @@ http://138.59.227.20:8000/play/a09b/index.m3u8
 
 
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1
-http://38.97.240.11:8000/play/a0h6/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
 #EXTINF:-1,  tvg-name="ESPNsud1"  tvg-logo="https://i.postimg.cc/SKvX1NpX/espnsd1.png" group-title="DEPORTES",ESPN SUD 1 O2
 https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьКолумбия
 #EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2
+http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8?hls
+#EXTINF:-1,  tvg-name="ESPNsud2"  tvg-logo="https://i.postimg.cc/BQ0jVVRC/espnsd2.png" group-title="DEPORTES",ESPN SUD 2 O2
 http://45.181.122.46:8090/play/a01v
 #EXTINF:-1,  tvg-name="ESPNsud3"  tvg-logo="https://i.postimg.cc/3JFk5ZTQ/espnsd3.png" group-title="DEPORTES",ESPN SUD 3
 http://45.181.122.46:8090/play/a01t
@@ -668,7 +670,7 @@ http://190.14.10.19:16000/play/a09s
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD 7
 http://181.225.190.242:8000/play/a01r
 #EXTINF:-1,  tvg-name="ESPNsudEXTRA"  tvg-logo="https://i.postimg.cc/RZPqqVhP/espnsd-Prm.png" group-title="DEPORTES",ESPN SUD Premium
-http://38.199.4.105:9999/play/a0i9/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8?hls
 
 #EXTINF:-1,  tvg-name="DAZNF1"  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QmrAyAIcgNV5U-5YrLN_IwHaDp?pid=ImgDet&rs=1" group-title="DEPORTES",DAZN F1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
@@ -756,6 +758,8 @@ http://45.5.117.99:8000/play/a0g0/index.m3u8
 
 #EXTINF:-1,  tvg-name="NICKCLASICO"  tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" group-title="TV INFANTIL",NICK CLASICO
 
+#EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/f5/Tooncast.jpg" group-title="TV INFANTIL",TOONCAST
+http://cablemaxsigloxxi.com:8000/play/a03a/index.m3u8?hls
 #EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/f5/Tooncast.jpg" group-title="TV INFANTIL",TOONCAST
 http://45.5.117.99:8000/play/a03k/index.m3u8
 #EXTINF:-1,  tvg-name="TOONCAST"  tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/f5/Tooncast.jpg" group-title="TV INFANTIL",TOONCAST O2
@@ -1187,8 +1191,9 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM
 #EXTINF:-1,  tvg-name="MEGA"  tvg-logo="https://online-television.net/uploads/posts/2022-10/thumbs/mega-hd.webp" group-title="TV MUNDIAL",MEGA (CHILE)
 
 #EXTINF:-1,  tvg-name="CHILEVISION"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION (CHILE)
-http://45.181.122.46:8090/play/a01o
+http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
 #EXTINF:-1,  tvg-name="CHILEVISIONCONTIGO"  tvg-logo="https://media.cnnchile.com/sites/2/2021/04/22-11-2019-Chilevision.jpg" group-title="TV MUNDIAL",CHILEVISION CONTIGO (CHILE)
+http://45.181.122.46:8090/play/a01o
 
 #EXTINF:-1,  tvg-name="AMERICATV"  tvg-logo="https://cdn.m3u.cl/logo/327_America_TV_Chile.png" group-title="TV MUNDIAL",AMERICATV (CHILE)
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
