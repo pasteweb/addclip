@@ -317,7 +317,7 @@ http://cablemaxsigloxxi.com:8000/play/a03d/index.m3u8?hls
 #EXTINF:-1,  tvg-name="TRUTV"  tvg-logo="https://static.wixstatic.com/media/696a2f_04a977bd015b433d96838d18f71ad9d9.png" group-title="IZZITV",TRU TV
 
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://i.postimg.cc/HWSWYgG3/E-chnl.png" group-title="IZZITV",E!
-http://45.5.117.99:8000/play/a0gr/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a039/index.m3u8?hls
 #EXTINF:-1,  tvg-name="E!"  tvg-logo="https://i.postimg.cc/HWSWYgG3/E-chnl.png" group-title="IZZITV",E! O2
 http://45.181.122.46:8090/play/a033
 #EXTINF:-1,  tvg-name="GALAVISION"  tvg-logo="https://i.postimg.cc/QCD7jZRs/GLvsn.png" group-title="IZZITV",GALAVISION
