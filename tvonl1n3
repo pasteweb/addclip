@@ -804,13 +804,6 @@ https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1,  tvg-name="CR TV"  tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="TV RETRO",CR TV (PERU)
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1,  tvg-name="MEGACINETV"  tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="TV RETRO",MEGA CINE TV
-
-#EXTINF:-1,  tvg-name="MEGACINETV"  tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="TV RETRO",MEGA CINE TV O2
-
-#EXTINF:-1,  tvg-name="GETTVLIVE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="TV RETRO",GET TV LIVE
-
-#EXTINF:-1,  tvg-name="ENTELEVISION"  tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="TV RETRO",ENTELEVISION
 
 #EXTINF:-1,  tvg-name="LoveNature"  tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="TV RETRO",TV LOVE NATURE
 
@@ -819,40 +812,34 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 #EXTINF:-1,  tvg-name="NatureTime"  tvg-logo="https://framerusercontent.com/images/CVIY2hHRmFpulUpKkIuIziHhvPs.png" group-title="TV RETRO",TV NATURE TIME O2
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="MonstruosDeRio"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV MONSTRUOS DE RIO
-
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
 #EXTINF:-1,  tvg-name="HISTORIAVIDA"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV HISTORIA Y VIDA
 https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVsmithsonian"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV SMITHSONIAN CH
-
-#EXTINF:-1,  tvg-name="PLUTOTVhistoria"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV HISTORIA UNIVERSAL
-
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+#EXTINF:-1,  tvg-name="PLUTOTVhistoria"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV HISTORIA
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 #EXTINF:-1,  tvg-name="CRIMENHISTORIA"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV CRIMEN E HISTORIA
 https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryspain-xiaomiinternational/playlist.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVinvestiga"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV INVESTIGA
-
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVarchivosfbi"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV ARCHIVOS DEL FBI
-
-#EXTINF:-1,  tvg-name="PLUTOTVnuevosdetectives"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV LOS NUEVOS DETECTIVES
-
-#EXTINF:-1,  tvg-name="PLUTOTVForensicFiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV FORENSIC FILES ESP
-
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVForensicFiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV ARCHIVOS FORENSES
-
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVCrimenesReales"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV CRIMENES REALES
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVTodoCrimen"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV TODO CRIMEN
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=89d2836f-be27-4d9f-8f0f-d375cc727975&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
 #EXTINF:-1,  tvg-name="PLUTOTVmedicos"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV MISTERIOS MEDICOS
-
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVmisterios"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV MISTERIOS
-
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVmsinresolver"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV MISTERIOS SIN RESOLVER
-
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVufofiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV UFO FILES
-
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVufofiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV INVASION ALIEN
-
-#EXTINF:-1,  tvg-name="PLUTOTVufofiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV CATASTROFES
 
 
 #EXTINF:-1,  tvg-name="TUUNIVERSOTV"  tvg-logo="https://yt3.ggpht.com/-GeLh6ER-uuw/AAAAAAAAAAI/AAAAAAAAAAA/MIaIuilg1og/s900-c-k-no/photo.jpg" group-title="TV RETRO",TU UNIVERSO TV
@@ -861,10 +848,8 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1,  tvg-name="DMAX"  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" group-title="TV RETRO",DMAX
 
-#EXTINF:-1,  tvg-name="DMAX"  tvg-logo="https://i.postimg.cc/y6rNBW2x/DMAX.jpg" group-title="TV RETRO",DMAX O2
-
-#EXTINF:-1,  tvg-name="MOVI"  tvg-logo="https://seeklogo.com/images/M/movistar-logo-D139E1BF08-seeklogo.com.png" group-title="TV RETRO",MOVI DOCUMENTALES
-
+#EXTINF:-1,  tvg-name="PLUTOTVdocumentales"  tvg-logo="https://seeklogo.com/images/M/movistar-logo-D139E1BF08-seeklogo.com.png" group-title="TV RETRO",PTV DOCUMENTALES
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1,  tvg-name="ODISEA"  tvg-logo="https://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg" group-title="TV RETRO",ODISEA
 
 #EXTINF:-1,  tvg-name="BEMADTV"  tvg-logo="https://i.postimg.cc/gj5cKB38/BMAD.jpg" group-title="TV RETRO",BE MAD TV
@@ -873,10 +858,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1,  tvg-name="24CULTURA"  tvg-logo="https://i.imgur.com/h0LxXsx.png" group-title="TV RETRO",24 CULTURA TV
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-
-#EXTINF:-1,  tvg-name="TELEMADRID"  tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/Madrid-Telemadrid-HD.png" group-title="TV RETRO",TELEMadrid (ESP)
-
-#EXTINF:-1,  tvg-name="nTV"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/NTV-Chile-en-vivo-Online.png" group-title="TV RETRO",nTV
 
 #EXTINF:-1,  tvg-name="CUATROSDOS"  tvg-logo="https://i.postimg.cc/cHmd502q/tvgto42.png" group-title="TV RETRO",TV 4.2 CULTURA
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
