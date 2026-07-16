@@ -234,7 +234,7 @@ https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 http://45.5.117.99:8000/play/a0fv/index.m3u8
 
 #EXTINF:-1,  tvg-name="PASIONES"  tvg-logo="https://worldscreen.com/tvdrama/wp-content/uploads/sites/11/2017/07/PASIONES_LOGO-319.jpg" group-title="IZZITV",PASIONES TV
-http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8?hls
+http://45.181.122.46:8090/play/a01p
 #EXTINF:-1,  tvg-name="CLICK"  tvg-logo="https://i.postimg.cc/C1LrF7ZB/clics.png" group-title="IZZITV",AZ CLICK
 http://45.5.117.99:8000/play/a0gz/index.m3u8
 #EXTINF:-1,  tvg-name="CORAZON"  tvg-logo="https://i.postimg.cc/Gpb9rCBK/crzon.png" group-title="IZZITV",AZ CORAZON
@@ -300,7 +300,7 @@ http://45.181.122.46:8090/play/a027
 #EXTINF:-1,  tvg-name="AMCnet"  tvg-logo="https://sdn.signalhire.co/storage/company/78e9/57f2/becb/cf98/346c/3382/bb9c/1ec3.webp" group-title="IZZITV",AMC Espanol O2
 
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/vZ064L8B/Te-Ne-T.png" group-title="IZZITV",TNT
-http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8?hls
+http://45.181.122.46:8090/play/a01s
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/vZ064L8B/Te-Ne-T.png" group-title="IZZITV",TNT O2
 http://190.60.37.154:45000/play/a031/index.m3u8
 #EXTINF:-1,  tvg-name="TNT"  tvg-logo="https://i.postimg.cc/vZ064L8B/Te-Ne-T.png" group-title="IZZITV",TNT O3
@@ -340,7 +340,7 @@ http://45.5.117.99:8000/play/a066/index.m3u8
 #EXTINF:-1,  tvg-name="CLAROCINEMA"  tvg-logo="https://i.imgur.com/SOLGQxQ.jpeg" group-title="IZZITV",CLARO CINEMA
 http://45.5.117.99:8000/play/a0hl/index.m3u8
 #EXTINF:-1,  tvg-name="DPELICULA"  tvg-logo="https://i.postimg.cc/Y0Cj86ZL/dpelycs.png" group-title="IZZITV",D PELICULA
-http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8?hls
+http://45.181.122.46:8090/play/a03s
 #EXTINF:-1,  tvg-name="DPELICULA"  tvg-logo="https://i.postimg.cc/Y0Cj86ZL/dpelycs.png" group-title="IZZITV",D PELICULA O2
 http://38.188.186.47:4000/play/a001/index.m3u8
 #EXTINF:-1,  tvg-name="CINECLASMEXICANO"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="IZZITV",CINE CLASICO MEXICANO
@@ -352,9 +352,9 @@ http://45.5.117.99:8000/play/a0ik/index.m3u8
 #EXTINF:-1,  tvg-name="ELECTRICNOW"  tvg-logo="https://worldscreen.com/wp-content/uploads/2024/05/ElectricNow-Logo-0524.jpg" group-title="IZZITV",ELECTRIC NOW
 
 #EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZITV",DHE
-http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8?hls
-#EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZITV",DHE O2
 http://45.5.117.99:8000/play/a0gy/index.m3u8
+#EXTINF:-1,  tvg-name="DHE"  tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo-nuevo-2017.jpg" group-title="IZZITV",DHE O2
+http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8?hls
 #EXTINF:-1,  tvg-name="USA"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.jpg" group-title="IZZITV",USA
 http://38.97.240.11:8000/play/a0kd/index.m3u8
 #EXTINF:-1,  tvg-name="USA"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.jpg" group-title="IZZITV",USA O2
@@ -370,9 +370,10 @@ http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8?hls
 #EXTINF:-1,  tvg-name="SONY"  tvg-logo="https://i.postimg.cc/W4VZgkNP/sonychannl.png" group-title="IZZITV",SONY O2
 http://45.181.122.46:8090/play/a00e
 #EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://i.postimg.cc/qqHgHfzW/sonymovs.png" group-title="IZZITV",SONY MOVIES
-http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
-#EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://i.postimg.cc/qqHgHfzW/sonymovs.png" group-title="IZZITV",SONY MOVIES O2
 http://45.5.117.99:8000/play/a0gx/index.m3u8
+#EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://i.postimg.cc/qqHgHfzW/sonymovs.png" group-title="IZZITV",SONY MOVIES O2
+http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
+
 #EXTINF:-1,  tvg-name="SONYMOVIES"  tvg-logo="https://i.postimg.cc/qqHgHfzW/sonymovs.png" group-title="IZZITV",SONY MOVIES 2
 http://45.5.117.99:8000/play/a03s/index.m3u8
 
@@ -398,7 +399,7 @@ http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8?hls
 http://45.5.117.99:8000/play/a0il/index.m3u8
 
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN
-http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8?hls
+http://45.181.122.46:8090/play/a019
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN O2
 http://45.5.117.99:8000/play/a0jv/index.m3u8
 #EXTINF:-1,  tvg-name="GOLDEN"  tvg-logo="https://www.imagenpoblana.com/medios/diario/20160402/89082.jpg" group-title="IZZITV",GOLDEN 2
@@ -477,25 +478,25 @@ http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
 http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8?hls
 
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZITV",ID
-http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8?hls
+http://45.181.122.46:8090/play/a020
 #EXTINF:-1,  tvg-name="ID"  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" group-title="IZZITV",ID O2
 http://45.5.117.99:8000/play/a049/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://i.postimg.cc/prjGyjVQ/dscvrychnnl.png" group-title="IZZITV",DISCOVERY CHANNEL
-http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8?hls
+http://45.181.122.46:8090/play/a014
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://i.postimg.cc/prjGyjVQ/dscvrychnnl.png" group-title="IZZITV",DISCOVERY CHANNEL O2
 http://45.5.117.99:8000/play/a0kn/index.m3u8
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL
-http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8?hls
+http://45.181.122.46:8090/play/a03p
 #EXTINF:-1,  tvg-name="HISTORYCHANNEL"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" group-title="IZZITV",HISTORY CHANNEL O2
 http://45.5.117.99:8000/play/a0gk/index.m3u8
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2
-http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
+http://45.181.122.46:8090/play/a031
 #EXTINF:-1,  tvg-name="H2"  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" group-title="IZZITV",H2 O2
-
+http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/15vLG5vq/lgntgeo.png" group-title="IZZITV",NATGEO 
 http://45.5.117.99:8000/play/a05k/index.m3u8
 #EXTINF:-1,  tvg-name="NATGEO"  tvg-logo="https://i.postimg.cc/15vLG5vq/lgntgeo.png" group-title="IZZITV",NATGEO O2
-http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8?hls
+http://45.181.122.46:8090/play/a024
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET
 http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8?hls
 #EXTINF:-1,  tvg-name="ANIMALPLANET"  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" group-title="IZZITV",ANIMAL PLANET O2
@@ -507,9 +508,9 @@ http://45.5.117.99:8000/play/a0ia/index.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYTURBO"  tvg-logo="https://i.postimg.cc/253y3xwL/DICVRYTURBO.png" group-title="IZZITV",DISCOVERY TURBO O2
 http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls
 #EXTINF:-1,  tvg-name="DISCOVERYWORLD"  tvg-logo="https://i.postimg.cc/FR8Lh6XK/DICVRYWRLD.png" group-title="IZZITV",DISCOVERY WORLD
-
+http://45.181.122.46:8090/play/a025
 #EXTINF:-1,  tvg-name="DISCOVERYTEAT"  tvg-logo="https://i.postimg.cc/GpMD52MG/DICVRYTETRO.png" group-title="IZZITV",DISCOVERY TEATRO
-http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls
+http://45.181.122.46:8090/play/a01g
 
 
 
