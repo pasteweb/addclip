@@ -790,6 +790,8 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1,  tvg-name="CR TV"  tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="TV RETRO",CR TV (PERU)
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,  tvg-name="LoveNature"  tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="TV RETRO",TV LOVE THE PLANET
+https://jmp2.uk/stvp-ESBC4700002TD
 #EXTINF:-1,  tvg-name="LoveNature"  tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="TV RETRO",TV LOVE NATURE
 
 #EXTINF:-1,  tvg-name="NatureTime"  tvg-logo="https://framerusercontent.com/images/CVIY2hHRmFpulUpKkIuIziHhvPs.png" group-title="TV RETRO",TV NATURE TIME
@@ -804,7 +806,7 @@ https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/pla
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVhistoria"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV HISTORIA
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
-#EXTINF:-1,  tvg-name="PLUTOTVdocs"  tvg-logo="https://seeklogo.com/images/M/movistar-logo-D139E1BF08-seeklogo.com.png" group-title="TV RETRO",TV DOCUMENTALES
+#EXTINF:-1,  tvg-name="PLUTOTVdocs"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV DOCUMENTALES
 https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1,  tvg-name="CRIMENHISTORIA"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV CRIMEN E HISTORIA
 https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryspain-xiaomiinternational/playlist.m3u8
@@ -828,6 +830,8 @@ https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1,  tvg-name="PLUTOTVufofiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV INVASION ALIEN
 
+#EXTINF:-1,  tvg-name="PLUTOTVufofiles"  tvg-logo="https://i.postimg.cc/R0v1Y2v5/pltotv.png" group-title="TV RETRO",TV MAYDAY CATASTROFES AEREAS
+https://jmp2.uk/stvp-ES2800002MM
 
 #EXTINF:-1,  tvg-name="TUUNIVERSOTV"  tvg-logo="https://yt3.ggpht.com/-GeLh6ER-uuw/AAAAAAAAAAI/AAAAAAAAAAA/MIaIuilg1og/s900-c-k-no/photo.jpg" group-title="TV RETRO",TU UNIVERSO TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
@@ -957,11 +961,12 @@ https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV HISTORIAS DE ULTRATUMBA
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 
+#EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV MAYDAY CATASTROFES AEREAS
+https://jmp2.uk/stvp-ES2800002MM
 #EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV HISTORIA
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 #EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV SMITHSONIAN
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-
 #EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV DOCUMENTALES
 https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1,  tvg-name="HISTORIAVIDA"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",HISTORIA Y VIDA
@@ -980,6 +985,8 @@ https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 #EXTINF:-1,  tvg-name="FUELTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaspa-xiaomi/playlist.m3u8
 
+#EXTINF:-1,  tvg-name="FUELTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV LOVE THE PLANET
+https://jmp2.uk/stvp-ESBC4700002TD
 #EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV NATURALEZA
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1,  tvg-name="PTV"  tvg-logo="https://i.postimg.cc/2yWKRQh8/sri3247.png" group-title="CANALES 24-7",PTV NATURE TIME
@@ -997,37 +1004,12 @@ https://amg02051-soulpublishing-amg02051c3-xiaomi-international-370.playouts.now
 #EXTINF:0,tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",---CINECLUB---
 
 
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB FREE FAMILIAR
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB FREE DRAMA
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB FREE SUREÑO
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB RT EMOCION
-https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB RT COMEDIA
-https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB RT ROMANCE
-https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB VIKI ASIA
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB SENSACION
 
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB ESTRELLA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB HISPANO
-
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB PREMIUM
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB FAMILIAR
-
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB TERROR
-
 #EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB ROMANTICO
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991142
-#EXTINF:-1,  tvg-name="CINECLUB"  tvg-logo="https://www.coeurdeloire.fr/wp-content/uploads/2022/09/Cine-Club-300x215.png" group-title="CINECLUB",CINECLUB CLASICO
+
 
 
 
@@ -1065,9 +1047,9 @@ http://45.5.117.99:8000/play/a04r/index.m3u8
 #EXTINF:-1,  tvg-name="LA2"  tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV MUNDIAL",TVE La 2 (ESP)
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1,  tvg-name="CUATRO"  tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TV MUNDIAL",CUATRO (ESP)
-
+http://213.97.163.175:4022/udp/239.10.20.20:1234
 #EXTINF:-1,  tvg-name="TELECINCO"  tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2012/05/telecinco.jpg" group-title="TV MUNDIAL",TELECINCO (ESP)
-
+http://213.97.163.175:4022/udp/239.10.20.19:1234
 #EXTINF:-1,  tvg-name="LASEXTA"  tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="TV MUNDIAL",LA SEXTA (ESP)
 
 #EXTINF:-1,  tvg-name="BEMAD"  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.fRhUJj-sN4.jpg" group-title="TV MUNDIAL",BE MAD (ESP)
